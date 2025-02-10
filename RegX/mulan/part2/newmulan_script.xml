@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screenplay>
+    <line>[Disney's Mulan</line>
+    <line>Compiled by Barry Adams during theater showings in 1998</line>
+    <line>Last updated: August 18, 1998</line>
+    <line>Source: The Internet Movie Scripts Database (IMSDb): https://imsdb.com/scripts/Mulan.html]</line>
+    <line>Mulan is the property and copyright of the Walt Disney Company, Inc.  The</line>
+    <line>script on this page was compiled while watching Mulan in the theater during</line>
+    <line>the summer of 1998 when the film originally aired.]</line>
+    <line>[Chinese guard is seen walking on The Great Wall.  Shan-Yu's falcon swoops</line>
+    <line>down and hits the guard on the head knocking his helmet off.  The falcon lands</line>
+    <line>on top of a flag pole in front of a full moon and lets out a large cry.  One</line>
+    <line>grappling hook comes over The Great Wall.  The guard walks over to the edge</line>
+    <line>and sees many grappling hooks coming towards him]</line>
+    <line>Guard [yelling]:  We're under attack!  Light the signal!</line>
+    <line>[Guard runs to the tower and up the ladder as Hun Bald Man #1 and Hun Long</line>
+    <line>Hair Man appear trying to stop him.  Hun Bald Man #1 breaks the ladder with</line>
+    <line>his sword just as Guard reaches the top.  The guard picks up the torch to</line>
+    <line>light the fire and sees Shan-Yu jump over the edge of the tower and looks at</line>
+    <line>him across from the caldron.  The guard throws the torch into the caldron</line>
+    <line>lighting a large fire.  Shan-Yu watches as each tower lights their caldrons</line>
+    <line>one by one]</line>
+    <line>Guard [sternly]:  Now all of China knows you're here.</line>
+    <line>Shan-Yu [taking the flag and holding it over the fire]:  Perfect.</line>
+    <line>[Cut to the palace.  The large doors to the central chamber open as General Li</line>
+    <line>walks in flanked on his left and right by soldiers and approaches the Emperor.</line>
+    <line>He bows, then looks up]</line>
+    <line>General Li:  Your Majesty, the Huns have crossed our Northern border.</line>
+    <line>Chi Fu:  Impossible! No one can get through The Great Wall.  [The Emperor</line>
+    <line>motions for Chi Fu's silence]</line>
+    <line>General Li:  Shun-Yu is leading them.  We'll set up defenses around your</line>
+    <line>palace immediately.</line>
+    <line>Emperor [forcefully]:  No!  Send your troops to protect my people.  Chi Fu,</line>
+    <line>Chi Fu:  Yes, your highness.</line>
+    <line>Emperor: Deliver conscription notices throughout all the provinces.  Call up</line>
+    <line>reserves and as many new recruits as possible.</line>
+    <line>General Li:  Forgive me your Majesty, but I believe my troops can stop him.</line>
+    <line>Emperor:  I wont take any chances, General.  A single grain of rice can tip</line>
+    <line>the scale.  One man may be the difference between victory and defeat.</line>
+    <line>[Cut to Mulan using her chopsticks to single out a grain of rice on top of the</line>
+    <line>mound of rice]</line>
+    <line>Mulan: Quiet and demure...graceful...polite...[picking up some rice with her</line>
+    <line>chopsticks and eating a mouthful] delicate...refined...poised... [She sets</line>
+    <line>down her chopsticks and writes down a final word on her right arm] punctual.</line>
+    <line>[A cock crows]  Aiya.  [Calling out]  Little brother. Little brother.  Lit-</line>
+    <line>ahhh, there you are.  Who's the smartest doggie in the world?  Come on smart</line>
+    <line>boy, can you help me with my chores today?</line>
+    <line>[Mulan ties a sack of grain around Little Brother's waist.  She ties a stick</line>
+    <line>onto Little brother so that end of it is in front of Little Brother's face.</line>
+    <line>She ties the bone on the end of the stick just out of reach.  Little Brother</line>
+    <line>begins to run after the bone which he cannot reach.  Mulan opens the door for</line>
+    <line>Little Brother and he runs into the door frame, then out the open door.</line>
+    <line>Little brother runs by the chickens and Khan - the family horse]</line>
+    <line>[Cut to Mulan's Father, Fa Zhou, kneeling and praying before the Fa family's</line>
+    <line>ancestors]</line>
+    <line>Fa Zhou:  Honorable ancestors, please help Mulan impress the matchmaker today.</line>
+    <line>Little Brother [running into the temple and around Fa Zhou scattering grain</line>
+    <line>around the floor]: Bark, bark, bark, bark, bark.</line>
+    <line>[The chickens follow Little Brother into the temple and begin to feed on the</line>
+    <line>grain]</line>
+    <line>Fa Zhou:  Please, PLEASE, help her.</line>
+    <line>[Mulan steps up to the temple seeing Little Brother on his hind legs trying to</line>
+    <line>get the bone.  Mulan bends the stick down so that Little brother can reach the</line>
+    <line>bone.  Little brother gnaws on the bone happily.  Mulan continues toward the</line>
+    <line>temple]</line>
+    <line>Mulan [calling out]: Father I brought your--whoop!  [Fa Zhou bumps into Mulan.</line>
+    <line>The cup falls to the ground and Fa Zhou catches the teapot with the handle of</line>
+    <line>his cane]</line>
+    <line>Fa Zhou:  Mulan--</line>
+    <line>Mulan:  I brought a spare. [Mulan pulls out a cup from underneath the back of</line>
+    <line>her dress and begins to pour the tea]</line>
+    <line>Fa Zhou:  Mulan--</line>
+    <line>Mulan [hurried]: Remember, the doctor said three cups of tea in the morning--</line>
+    <line>Fa Zhou:  Mulan--</line>
+    <line>Mulan:  And three at night.</line>
+    <line>Fa Zhou:  Mulan, you should already be in town.  We're counting on you to up--</line>
+    <line>Mulan:  --uphold the family honor.  Don't worry father.  I wont let you down.</line>
+    <line>[Mulan covers over the writing on her arm with here sleeve]  Wish me luck.</line>
+    <line>[Mulan hurries down the stairs]</line>
+    <line>Fa Zhou [calling out]:  Hurry!  [to himself] I'm going to...pray some more.</line>
+    <line>[Fa Zhou turns and walks back into the temple]</line>
+    <line>[Cut to the town with Fa Li looking worried]</line>
+    <line>Bath Lady [poking out of her building]:  Fa Li, is your daughter here yet?</line>
+    <line>The matchmaker is not a patient woman.  [She goes back into the building]</line>
+    <line>Fa Li:  Of all days to be late.  I should have prayed to the ancestors for</line>
+    <line>luck.</line>
+    <line>Grandma Fa [walking in with a Cri-Kee in a cage]:  How lucky can they be,</line>
+    <line>they're dead.  Besides,  I've got all the luck we'll need.  [Speaking to</line>
+    <line>Cri-Kee]  This is your chance to prove yourself.  [Cri-Kee chirps approvingly.</line>
+    <line>Grandma Fa covers her eyes steps into a busy street]</line>
+    <line>Fa Li [excitedly]:  Grandma No!</line>
+    <line>[The traffic barely misses Grandma Fa as she crosses the busy street.  But two</line>
+    <line>horse and carriage collide causing a big accident.  She arrives at the other</line>
+    <line>side of the street, uncovers here eyes and looks at Cri-Kee]</line>
+    <line>Grandma Fa:  Yep, this cricket's a lucky one. [Cri-Kee falls over out of</line>
+    <line>fright]</line>
+    <line>Fa Li [sighing in relief]:  Hai.</line>
+    <line>[Mulan arrives on Khan jumping over the recent accident in the street and</line>
+    <line>jumps off with hay stuck in her hair]</line>
+    <line>Mulan: I'm here.  [Seeing a stern look from her mother] What?  But Mama I had</line>
+    <line>to--</line>
+    <line>Fa Li:  None of your 'xcuses.  Now let's get you cleaned up. [They walk</line>
+    <line>together into the preparation area]</line>
+    <line>[Song: Honor to us all]</line>
+    <line>Bath Lady:  [all the while Bath Lady undresses Mulan and pushes her into the</line>
+    <line>Bath]</line>
+    <line>This is what you give me</line>
+    <line>to work with?</line>
+    <line>Well, honey, I've seen worse.</line>
+    <line>We're gonna turn</line>
+    <line>this sow's ear</line>
+    <line>Into a silk purse. [Bath Lady moves the silk partition aside showing Mulan in</line>
+    <line>the bath]</line>
+    <line>Mulan [spoken]:  It's freezing.</line>
+    <line>Fa Li [spoken]:  It would have been warm if you were here on time.</line>
+    <line>Bath Lady [washing Mulan's hair]:</line>
+    <line>We'll have you</line>
+    <line>Washed and dried</line>
+    <line>Primped and polished</line>
+    <line>till you glow with pride</line>
+    <line>Trust my recipe for</line>
+    <line>instant bride</line>
+    <line>You'll bring honor to us all</line>
+    <line>Fa Li [grabbing a sponge and Mulan's right arm to start cleaning her.  She</line>
+    <line>notices the writing] [spoken]:  Mulan, what's this?</line>
+    <line>Mulan [Drawing her arm back and batting her eyelashes] [spoken]:  Ahh, notes,</line>
+    <line>in case I forget something?</line>
+    <line>Grandma Fa [spoken]:  Here, hold this [hands the cricket to Fa Li].  We'll</line>
+    <line>need more luck than I thought.  [Mulan looks on with an air of disappointment]</line>
+    <line>[Cut to the hair dressers]</line>
+    <line>Hair Dresser 1 [Brushing and combing Mulan's hair much to Mulan's chagrin]:</line>
+    <line>Wait and see</line>
+    <line>When we're through</line>
+    <line>Hair Dresser 2:</line>
+    <line>Boys will gladly go to</line>
+    <line>war for you</line>
+    <line>Hair Dresser 1:</line>
+    <line>With good fortune</line>
+    <line>Hair Dresser 2 [Finalizing the hairdo to look exactly like hers]:</line>
+    <line>And a great hairdo</line>
+    <line>Both:</line>
+    <line>You'll bring honor to us all</line>
+    <line>Fa Li and others:  [Mulan following her Mother passes a xiangqi game and</line>
+    <line>pauses to make an impressive move.  Mulan has a smug look on her face when Fa</line>
+    <line>Li comes back and drags Mulan away]</line>
+    <line>A girl can bring her family</line>
+    <line>Great honor in one way</line>
+    <line>By striking a good match</line>
+    <line>And this could be the day</line>
+    <line>Dresser 1 [Dresser 1, Dresser 2, and Fa Li dress Mulan]:</line>
+    <line>Men want girls</line>
+    <line>with good taste</line>
+    <line>Dresser 2:</line>
+    <line>Calm</line>
+    <line>Fa Li:</line>
+    <line>Obedient</line>
+    <line>Dresser 1:</line>
+    <line>Who work fast-paced</line>
+    <line>Fa Li:</line>
+    <line>With good breeding</line>
+    <line>Dresser 2 [Pulling the dress tight around her waist]:</line>
+    <line>And a tiny waist</line>
+    <line>Mulan [expressing her waist being squeezed tight] [spoken]: huh.</line>
+    <line>All Three:</line>
+    <line>You'll bring honor to us all</line>
+    <line>Chorus:  [Mulan follows Fa Li and sees boy stealing a doll from a girl.  Mulan</line>
+    <line>grabs the doll from the boy and returns it to its owner]</line>
+    <line>We all must serve</line>
+    <line>our Emperor</line>
+    <line>Who guards us from the Huns</line>
+    <line>A man by bearing arms</line>
+    <line>A girl by bearing sons</line>
+    <line>Make-up Lady/Fa Li: [Putting on Mulan's face, powder, lipstick and eye liner]</line>
+    <line>[in a 3 person round]</line>
+    <line>When we're through</line>
+    <line>you can't fail</line>
+    <line>Like a lotus blossom</line>
+    <line>soft and pale</line>
+    <line>How could any fellow</line>
+    <line>say "No sale"</line>
+    <line>You'll bring honor to us all</line>
+    <line>[Make-Up Lady holds a mirror so Mulan can see her reflection.  Not looking</line>
+    <line>pleased, Mulan takes her single, short bang and brings it down in front of her</line>
+    <line>forehead and smiles]</line>
+    <line>Fa Li [spoken. Fa Li places a hair comb in Mulan's hair]:  There, you're</line>
+    <line>ready.</line>
+    <line>Grandma Fa [spoken]:  Not yet! An apple for serenity [putting an apple in</line>
+    <line>Mulan's mouth]...A pendant for balance [places a yin-yang pendant under her</line>
+    <line>sash] [sings]</line>
+    <line>Beads of jade for beauty [putting beads around Mulan's neck]</line>
+    <line>You must proudly show it [Grandma Fa raises her chin high with her hand]</line>
+    <line>Now add a cricket just for luck [putting the cage with Cri-Kee under Mulan's</line>
+    <line>sash in the back.  Cri-Kee doesn't look pleased]</line>
+    <line>And even you can't blow it</line>
+    <line>Mulan:  [Walking to catch up with the other maidens]</line>
+    <line>Ancestors</line>
+    <line>Hear my plea</line>
+    <line>Help me not to make a fool of me</line>
+    <line>And to not uproot my fam'ly tree</line>
+    <line>Keep my father standing tall</line>
+    <line>Maidens and Mulan: [Mulan taking the parasol from Fal Li and running to fall</line>
+    <line>in line with the other 4 maidens]</line>
+    <line>Scarier than the undertaker</line>
+    <line>We are meeting our</line>
+    <line>matchmaker</line>
+    <line>All Townspeople:</line>
+    <line>Destiny</line>
+    <line>Guard our girls</line>
+    <line>And our future</line>
+    <line>as it fast unfurls</line>
+    <line>Please look kindly on</line>
+    <line>these cultured pearls</line>
+    <line>Each a perfect porcelain doll</line>
+    <line>Maiden #1:  Please bring honor to us</line>
+    <line>Maiden #2:  Please bring honor to us</line>
+    <line>Maiden #3:  Please bring honor to us</line>
+    <line>Maiden #4:  Please bring honor to us</line>
+    <line>Mulan and Maidens:  Please bring honor to us all!</line>
+    <line>[All Girls and Mulan arrive before the Matchmaker crouched down behind their</line>
+    <line>parasols.  End of song]</line>
+    <line>Matchmaker [looking at her clipboard]:  Fa Mulan</line>
+    <line>Mulan [Jumping up and raising her hand]:  Present.</line>
+    <line>Matchmaker:  Speaking without permission.</line>
+    <line>Mulan:  Oops.</line>
+    <line>Grandma Fa [to Fa Li]:  Who spit in her bean curd?</line>
+    <line>[Mulan walks into the Matchmaker's building with the Matchmaker following</line>
+    <line>behind and closing the door]</line>
+    <line>Matchmaker [looking over Mulan]: Huh, Hmm, too skinny.  [Cri-Kee escapes from</line>
+    <line>his cage.  Mulan struggles to catch him] Hmph, not good for bearing sons.</line>
+    <line>[Mulan puts Cri-Kee in her mouth when Matchmaker turns around to face her]</line>
+    <line>Recite the final admonition.</line>
+    <line>Mulan [nodding and smiling]:  Mmm-Hmm.  [Takes out fan and covers her mouth as</line>
+    <line>she spits out Cri-Kee] Ptu</line>
+    <line>Matchmaker:  Well...</line>
+    <line>Mulan [with dignity]: Fulfill your duties calmly and re...f--[looking at her</line>
+    <line>arm with smeared writing] spectfully.  Reflect before you snack [surprised,</line>
+    <line>Mulan looks at her arm again] act.  [now rapidly] This shall bring you honor</line>
+    <line>and glory.  [Fanning herself rapidly and sighing in relief] Huh.</line>
+    <line>Matchmaker [snatches the fan and looks at it on both sides looking for notes</line>
+    <line>not finding any.  Mulan smiles big when Matchmaker looks at her.  Matchmaker</line>
+    <line>grabs Mulan's right arm pulling her along while smearing the writing and</line>
+    <line>leaving some ink on her hand]  Hmmm, this way.  Now, pour the tea  [Pushing a</line>
+    <line>teapot towards Mulan].  To please your future in-laws you must demonstrate a</line>
+    <line>sense of dignity [Matchmaker smears ink around her mouth.  Mulan staring at</line>
+    <line>Matchmaker pours some tea onto the table then notices her mistake and pours</line>
+    <line>the tea into the cup] and refinement.  You must also be poised.  [Mulan</line>
+    <line>notices Cri-kee in the tea-cup as Matchmaker takes the cup]</line>
+    <line>Mulan [quiet and timid]:  Um, pardon me.</line>
+    <line>Matchmaker:  And silent! [Matchmaker sniffs the tea]</line>
+    <line>Mulan [reaching and grabbing the teacup]:  Could I just take that back...one</line>
+    <line>moment.</line>
+    <line>[They struggle for the teacup and it turns over on Matchmaker and Cri-kee</line>
+    <line>jumps down matchmaker's dress]</line>
+    <line>Matchmaker:  Why you clumsy--[Matchmaker feels Cri-Kee in her dress and dances</line>
+    <line>around]  Wooo, woooo, wooooooo, [Matchmaker knocks over her pot of coals, and</line>
+    <line>sits down on the coals.  Matchmaker jumps around screaming]  Ahhhhhhhhhhh</line>
+    <line>[Mulan grabs her fan and briskly fans the charred area on Matchmaker's behind</line>
+    <line>causing it to flame up.  Mulan looks surprised about her mistake]</line>
+    <line>[Cut to outside Matchmakers building showing Grandma Fa with much noise coming</line>
+    <line>from Matchmaker's building]</line>
+    <line>Grandma Fa [to Fa Li]:  I think it's going well, don't you?</line>
+    <line>Matchmaker [running out of the building screaming]:  Put it out! Put it out!</line>
+    <line>Put it out! [Mulan takes the teapot, throws the tea on Matchmaker and puts out</line>
+    <line>the fire.  She bows, hands the teapot back to Matchmaker and covers her face</line>
+    <line>as she walks toward Fa Li and Grandma Fa] [with anger]  You are a disgrace!</line>
+    <line>[Matchmaker throws the teapot down smashing it to pieces]  You may look like a</line>
+    <line>bride, but you will never bring your family honor!</line>
+    <line>[The townsfolk who have gathered whisper and walk away]</line>
+    <line>[Cut to Mulan walking through the gate with her home leading khan.  She looks</line>
+    <line>sorrowful.  Fa Zhou sees his daughter and smiles.  Mulan sees her father's</line>
+    <line>smile.  She covers her face with Khan's head and leads him to the water</line>
+    <line>trough]</line>
+    <line>[Song: Reflection]</line>
+    <line>Mulan:</line>
+    <line>Look at me [looking at her reflection in the water trough]</line>
+    <line>I will never pass for</line>
+    <line>a perfect bride [taking off her earrings and beads of jade]</line>
+    <line>Or a perfect daughter [Mulan watches Fa Li relating what happened at the</line>
+    <line>Matchmaker's to Fa Zhou]</line>
+    <line>Can it be</line>
+    <line>I'm not meant to play</line>
+    <line>this part?  [Mulan releases Cri-Kee back to the wild]</line>
+    <line>Now I see</line>
+    <line>That if I were to truly</line>
+    <line>To be myself [Mulan hops along the bridge railing]</line>
+    <line>I would break my</line>
+    <line>family's heart</line>
+    <line>Who is that girl I see  [Mulan looks into the pond and sees her own</line>
+    <line>reflection]</line>
+    <line>Staring straight</line>
+    <line>Back at me? [Mulan puts her hand on the Great Stone Dragon and looks toward</line>
+    <line>the temple]</line>
+    <line>Why is my reflection someone</line>
+    <line>I don't know? [Cri-Kee rowing across the pond on a lily pad]</line>
+    <line>Somehow I cannot hide [Mulan walking into the family temple]</line>
+    <line>Who I am [Cri-Kee watches Mulan in the temple seeing multiple reflections of</line>
+    <line>herself in the ancestors' stones]</line>
+    <line>Though I've tried  [Mulan bows to the ancestors]</line>
+    <line>When will my reflection show</line>
+    <line>Who I am inside?  [Mulan finishes wiping off her make-up seeing her reflection</line>
+    <line>in the stones]</line>
+    <line>When will my reflection show</line>
+    <line>Who I am inside? [Mulan gets up and heads out the temple]</line>
+    <line>[End of song.  Mulan sits on a bench under the blossom tree.  Fa Zhou</line>
+    <line>approaches her, clearing his throat.  Mulan sees him approaching and turns her</line>
+    <line>head away.  Fa Zhou sits down beside Mulan]</line>
+    <line>Fa Zhou:  My, my, what beautiful blossoms we have this year [looking up into</line>
+    <line>the blossom tree].  But look, this one's late.  But, I'll bet that when it</line>
+    <line>blooms, it will be the most beautiful of all.  [Mulan and Fa Zhou share</line>
+    <line>smiles.  Drums start pounding announcing the arrival of Chi Fu and two guards</line>
+    <line>on horseback]</line>
+    <line>Mulan:  What is it?</line>
+    <line>[Fa Zhou gets up and walks to the entrance of their house with Mulan</line>
+    <line>following]</line>
+    <line>Fa Li:  Mulan, stay inside.</line>
+    <line>[Grandma Fa clears her throat catching Mulan's attention and motions inside.</line>
+    <line>Mulan spies the railing near the wall and climbs up to watch over the roof]</line>
+    <line>Chi Fu:  Citizens  I bring you a proclamation from the Imperial City:  the</line>
+    <line>Huns have invaded China!</line>
+    <line>Townspeople [expressing surprise]:  No!</line>
+    <line>Chi Fu:  By order of the Emperor, one man from every family must serve in the</line>
+    <line>Imperial Army.  The Xiao family [a family member steps up, bows to the guard</line>
+    <line>and takes the conscription notice from the guard].  The Yi family.</line>
+    <line>Yi's Son [holding his old father back]:  I will serve the Emperor in my</line>
+    <line>father's place.</line>
+    <line>Chi Fu:  The Fa Family.</line>
+    <line>Mulan:  No.</line>
+    <line>[Fa Zhou gives his cane to Fa Li and walks toward Chi Fu.  Fa Zhou bows before</line>
+    <line>the horsemen]</line>
+    <line>Fa Zhou [standing proud]:  I am ready to serve the Emperor.  [Fa Zhou reaches</line>
+    <line>for the conscription notice]</line>
+    <line>Mulan [running outside to keep her father from taking the conscription</line>
+    <line>notice]:  Father, you can't go.</line>
+    <line>Fa Zhou [turning to see his daughter]:  Mulan!</line>
+    <line>Mulan:  Please sir, my father has already fought bravely--</line>
+    <line>Chi Fu:  Silence!  You would do well to teach your daughter to hold her tongue</line>
+    <line>in a man's presence.</line>
+    <line>Fa Zhou [looking away from Mulan]:  Mulan, you dishonor me.</line>
+    <line>[Grandma Fa guides Mulan back away]</line>
+    <line>Chi Fu [handing Fa Zhou the conscription notice]:  Report tomorrow at the Wu</line>
+    <line>Shu camp.</line>
+    <line>Fa Zhou:  Yes, sir. [Fa Zhou walks back into the homestead refusing to take</line>
+    <line>his cane from Fa Li]</line>
+    <line>Chi Fu [fading out as we follow Fa Zhou]:  The Chu family.  The Wen family.</line>
+    <line>The Chang family.  The...</line>
+    <line>[Cut to Fa Zhou in his armory at night.  Fa Zhou takes out his sword and</line>
+    <line>practices his stances.  Whan he balances on his right leg, his leg injury acts</line>
+    <line>up and he falls.  Unbeknownst to her father, Mulan watches in horror.  She</line>
+    <line>breathes heavily]</line>
+    <line>[Cut to dinner.  The Fa Zhou, Grandma Fa, Fa Li, and Mulan eat in silence.</line>
+    <line>Thunder can be heard and lightning can be seen through the opaque window.</line>
+    <line>Mulan pours the tea for her family.  She slams her teacup down on the table</line>
+    <line>and stands up]</line>
+    <line>Mulan:  You shouldn't have to go.</line>
+    <line>Fa Li:  Mulan!</line>
+    <line>Mulan:  There are plenty of young men to fight for China.</line>
+    <line>Fa Zhou:  It is an honor to protect my country and my family.</line>
+    <line>Mulan [angrily]:  So you'll die for honor!</line>
+    <line>Fa Zhou [standing up and angered]:  I will DIE doing what's right.</line>
+    <line>Mulan [starts to speak but is cut off]: But if you--</line>
+    <line>Fa Zhou:  I know my place, it is time you learned yours.</line>
+    <line>[Mulan looking like she's about to cry, turn away from Fa Zhou and runs</line>
+    <line>outside into the rain storm and cries]</line>
+    <line>[Cut to Mulan sitting at the base of the Great Stone Dragon in the rain.</line>
+    <line>Mulan looks down to see her reflection in the puddle caused by the rain. She</line>
+    <line>watches her parents in the bedroom.  Fa Li turns away from Fa Zhou and walks</line>
+    <line>out of site.  Fa Zhou blows out the light.  Mulan gets up and walks to the Fa</line>
+    <line>Family Temple.  Mulan's image reflects off the stone tablets as she lights</line>
+    <line>incense and places it in the hanging encense holder.  She bows and prays to</line>
+    <line>her ancestors. Getting up, Mulan hurries down the steps.  Cri-Kee sees her and</line>
+    <line>hops down from above and follows her.  Mulan goes to her parent's bedroom and</line>
+    <line>takes the conscription notice replacing it with the hair comb her mother gave</line>
+    <line>to her.  She pauses to give her parents a loving, sorrowful look and hurries</line>
+    <line>out.  Cut to Mulan in the armory.  She opens the cabinet with the armor.</line>
+    <line>Using her father's sword, she cuts her hair short and ties it up above her</line>
+    <line>head.  She finishes putting on the armor and ties it in the front.  She takes</line>
+    <line>the sword and places it in the scabbard to her left.  Cut to Mulan in the</line>
+    <line>stable doorway.  Khan rears back in fright at the sight of Mulan.  Mulan goes</line>
+    <line>forward and comforts Khan letting him know her identity.  Mulan walks Khan out</line>
+    <line>of the stable, Cri-Kee watches from the ground as she passes by.  Mulan takes</line>
+    <line>one sorrowful glance back at her parents bedroom and rides Khan through the</line>
+    <line>gate and off to camp.]</line>
+    <line>[Cut to the face of a statue in the Fa Family Temple.  The eyes glow.  Cut to</line>
+    <line>Grandma Fa.  She wakes up with a start rising in bed.  Cut to Grandma Fa</line>
+    <line>walking into Fa Li and Fa Zhou's bedroom, both are in bed]</line>
+    <line>Grandma Fa:  Mulan is gone.</line>
+    <line>Fa Zhou [waking up]:  What?  It can't be.  [Fa Zhou looks at his night stand</line>
+    <line>and notices the hair comb in place of his conscription notice.  He checks the</line>
+    <line>cabinet and sees his armor is gone.  He hurries outside] [calling out]  Mulan!</line>
+    <line>[He stumbles while walking because of his leg injury] No.</line>
+    <line>Fa Li [kneeling down beside the fallen Fa Zhou]:  You must go after her.  She</line>
+    <line>could be killed!</line>
+    <line>Fa Zhou [sadly]:  If I reveal her, she will be. [Fa Zhou embraces Fa Li]</line>
+    <line>Grandma Fa:  Ancestors, hear our prayer: Watch over Mulan.</line>
+    <line>[Cut to the Fa Family Temple.  A wind blows out the incense at the base of the</line>
+    <line>center stone.  The center stone begins to glow as First Ancestor comes to</line>
+    <line>life]</line>
+    <line>First Ancestor [motioning to a bronze dragon]:  Mushu, awaken!</line>
+    <line>[Mushu comes to life and falls to the ground flat on his back all being</line>
+    <line>obscured by smoke]</line>
+    <line>Mushu [rising from the smoke arms stretched out]:  I live!  So tell me what</line>
+    <line>mortal needs my protection Great Ancestor.  You just say the word and I'm</line>
+    <line>there.</line>
+    <line>First Ancestor [agitated]:  Mushu!</line>
+    <line>Mushu:  Hey, let me say something. Anybody who is foolish enough to threaten</line>
+    <line>our family, vengeance will be MINE.  Hrrrrr.</line>
+    <line>First Ancestor [sternly to silence Mushu]:  Mushu!  These are the family</line>
+    <line>guardians [motioning towards the stone statues on pedestals near the ceiling].</line>
+    <line>They...</line>
+    <line>Mushu [dejectedly]:  Protect the family.</line>
+    <line>First Ancestor [pointing to the empty pedestal]:  And you, oh demoted one.</line>
+    <line>Mushu:  I...ring the gong.</line>
+    <line>First Ancestor:  That's right, now, wake up the ancestors.</line>
+    <line>Mushu:  One family reunion coming right up.  [ringing the gong] Okay people,</line>
+    <line>people look alive, lets go! C'mon get up.  Let's move it, rise and shine.</line>
+    <line>You're way past the beauty sleep thing now trust me!</line>
+    <line>Ancestor 1:  I knew it, I knew it. That Mulan was a trouble maker from the</line>
+    <line>start.</line>
+    <line>Ancestor 3:  Don't look at me, she gets it from your side of the family.</line>
+    <line>Ancestor 2:  She's just trying to help her father.</line>
+    <line>Ancestor 4 [appearing out of thin air]:  But, if she is discovered, Fa Zhou</line>
+    <line>will be forever shamed.  Dishonor will come to the family.  Traditional values</line>
+    <line>will disintegrate.</line>
+    <line>Ancestor 5:  Not to mention they'll lose the farm.</line>
+    <line>Ancestor 1:  My children never caused such trouble.  They all became</line>
+    <line>acupuncturists.</line>
+    <line>Ancestor 3:  Well, We can't all be acupuncturists.</line>
+    <line>Ancestor 6:  No, your great granddaughter had to be cross-dresser!</line>
+    <line>[All ancestors argue at once, except First Ancestor]</line>
+    <line>Ancestor 7:  Let a guardian bring her back.</line>
+    <line>Ancestor 8 [grabbing Mushu and bringing him next to a guardian]: Yeah, awaken</line>
+    <line>the most cunning.</line>
+    <line>Ancestor 4 [taking Mushu and holding him next to the stone rabbit guardian]:</line>
+    <line>No, the swiftest.</line>
+    <line>Ancestor 9 [grabbing Mushu and holding him next to the stone monkey guardian]:</line>
+    <line>No, send the wisest.</line>
+    <line>First Ancestor:  Silence!  We must send the most powerful of all [Motioning to</line>
+    <line>the Great Stone Dragon as it is seen through the window]</line>
+    <line>Mushu [climbs up the empty guardian post laughing]:  Ho, ho, heh, heh. Okay,</line>
+    <line>okay, I get the drift, I'll go. [All Ancestors give a quick look of surprise</line>
+    <line>and laugh uncontrollably]  You all don't think I can do it.  Watch this here.</line>
+    <line>[Mushu produces a small flame from his mouth]  Ah, ha, Jump back, I'm pretty</line>
+    <line>hot huh.  Don't make me have to singe nobody to prove no point.</line>
+    <line>First Ancestor [grabbing Mushu and pulling away from the post]:  You had your</line>
+    <line>chance to protect the Fa family.</line>
+    <line>Ancestor 6:  Your mis-guidance led Fa Deng to disaster.</line>
+    <line>Fa Deng [with his decapitated head on his lap]:  Yeah, thanks a lot.</line>
+    <line>Mushu:  And your point is?</line>
+    <line>First Ancestor:  The point is we will be sending a real dragon to retrieve</line>
+    <line>Mulan.</line>
+    <line>Mushu:  What?  But I'm a real dragon.</line>
+    <line>First Ancestor [grabbing Mushu and pulling him away from the guardian post as</line>
+    <line>Mushu fights to hold on]:  You are not worthy of this spot.  Now, awaken the</line>
+    <line>Great Stone Dragon.  [First Ancestor throws Mushu out of the temple]</line>
+    <line>Mushu [looking back into the temple]:  So you'll get back to me on the job</line>
+    <line>thing.</line>
+    <line>[An ancestor throws Mushu's gong and hits Mushu in the face]</line>
+    <line>Mushu [walking with a slouch and banging the gong on the ground]:  Just one</line>
+    <line>chance is that too much to ask?  I mean, it's not like it'll kill ya.</line>
+    <line>Mushu [rings the gong and looks at the Great Stone Dragon]:  Yo rocky, wake</line>
+    <line>up!  You gotta go fetch Mulan.  [pauses as nothing happens.  Mushu walks over</line>
+    <line>to the side of the statue] C'mon boy, go get her, go on, [throws the gong</line>
+    <line>stick off the screen and whistles] Come on.  [Angrily while climbing up the</line>
+    <line>Great Stone Dragon] Grrr, Grrrr.  [speaking in his ear and banging the ear</line>
+    <line>with the gong] Hello, helloooooo. [curtly] Hello [bangs the gong extra hard</line>
+    <line>against the ear causing it to break off].  Uh oh.  [The Great Stone Dragon</line>
+    <line>crumbles to the ground, head intact minus the ear].  [knocks on the dragon's</line>
+    <line>head] Uh, Stoney, Stooooneeey.  Oh man, they're gonna kill me!</line>
+    <line>First Ancestor [calling out through the temple window]:  Great Stone Dragon,</line>
+    <line>have you awaken?</line>
+    <line>Mushu [holding the head of the Great Stone Dragon up to that First Ancestor</line>
+    <line>can only see it's head and Mushu's body]:  Uhhh, Yes, I just woke up.  And I</line>
+    <line>am the Great Stone Dragon, good morning [Mushu waves].  I will go forth and</line>
+    <line>fetch Mulan.  Did, did I mention that I was the Great Stone Dragon?</line>
+    <line>First Ancestor:  Go, The fate of the Fa Family rests in your claws.</line>
+    <line>Mushu:  Don't even worry about it, I will not lose face.  [Mushu falls down</line>
+    <line>the hill under the weight of the Great Stone Dragon's head and lands on the</line>
+    <line>dragon's pedestal with the head falling on top of him]</line>
+    <line>Mushu [muffled]:  Ow, my elbow.  Aw, aw, I know I twisted something.</line>
+    <line>[Throwing the head off him]  That's just great.  Now what?  I'm doomed!   And</line>
+    <line>all 'cause miss man decides to take her little drag show on the road.</line>
+    <line>[Cri-Kee enters stage right]</line>
+    <line>Cri-Kee:  Chirp, Chirp.</line>
+    <line>Mushu:  Go get her?   What's the matter with you?  After this great stone</line>
+    <line>Humpty Dumpty mess, I'd have to bring her home with a medal to get back in the</line>
+    <line>temple.  Wait a minute, that's it!  I make Mulan a war hero, then they'll be</line>
+    <line>begging me to come back to work.  That's the master plan.  Oh, you've gone and</line>
+    <line>done it now. [Mushu runs off stage right]</line>
+    <line>Cri-Kee [hopping along side of Mushu]:  Chirp.  Chirp Chirp Chirp.</line>
+    <line>Mushu [pushing Cri-Kee away]:  Hey, what makes you think you're coming?</line>
+    <line>Cri-Kee:  Chirp, Chirp.</line>
+    <line>Mushu:  You're lucky?  Ho, ho, heh.  Do I look like a sucker to you?</line>
+    <line>Cri-Kee:  Chirp. Chirp.</line>
+    <line>Mushu:  Whach' you mean loser?  How 'bout I pop one of your antenna's off and</line>
+    <line>throw it across the yard.  Then who's a loser, me or you?</line>
+    <line>[Interlude]</line>
+    <line>[Cut to Shan-Yu leading his army at a charge on horseback through a forest.</line>
+    <line>He stops and motions stage right.  Hun Archer, Hun Strong Guy, Hun Long-Hair</line>
+    <line>Guy dismount and walk into the forest.  They throw down two Imperial scouts</line>
+    <line>before the rest of the army]</line>
+    <line>Hun Long-Hair Guy:  Imperial scouts.</line>
+    <line>[Shan Yu dismounts and walks towards the scouts]</line>
+    <line>Scout #1:  Shan-Yu.</line>
+    <line>[He crouches down in front of them]</line>
+    <line>Shan-Yu [adjusting Scout #1's collar]:  Nice work, gentlemen.  You found the</line>
+    <line>Hun army. [motioning to the soldiers on horseback.  The Hun army laughs]</line>
+    <line>Scout #2:  The Emperor will stop you.</line>
+    <line>Shan-Yu [grabs Scout #2 by the shirt collar and lifts him up to his face]:</line>
+    <line>Stop me?  He invited me.  By building his wall, he challenged my strength.</line>
+    <line>Well I'm here to play his game  [Shan-Yu throws Scout #2 to the ground and</line>
+    <line>points his sword at Scout #1 as he gets up and runs] [calling out to the</line>
+    <line>scouts] Go!  Tell your emperor to send his strongest armies.  [Quietly]  I'm</line>
+    <line>ready.</line>
+    <line>[The Imperial Scouts run off towards the palace]</line>
+    <line>Shan-Yu [scratching his chin]:  How many men does it take to deliver a</line>
+    <line>message.</line>
+    <line>Archer Guy [drawing back his bow]:  One.</line>
+    <line>[End Interlude]</line>
+    <line>[Cut to Mulan on a hill outside of the camp.  Khan is sitting watching]</line>
+    <line>Mulan:  Okay, okay, how 'bout this?  Ahem, [in her manly voice] excuse me,</line>
+    <line>where do I sign in?  Hah, I see you have a sword.  I have one too.  They're</line>
+    <line>very manly and tough [Mulan bites her lip as she mishandles pulling the sword</line>
+    <line>out of the scabbard and it falls to the ground.  Khan rolls on his back in</line>
+    <line>laughter.  Mulan throws her shoe and hits Khan in the head with it quieting</line>
+    <line>Khan].  I'm working on it.  Who am I fooling?  It's going to take a miracle to</line>
+    <line>get me into the army.</line>
+    <line>[Mushu appears as a giant shadow being cast on a rock with flames on either</line>
+    <line>side.  Mushu's real appearance remains out of sight]</line>
+    <line>Mushu [in a Southern Baptist Preacher's voice]:  Did I hear someone ask for a</line>
+    <line>miracle!?  Let me hear you say aye!</line>
+    <line>Mulan [Running and hiding behind a rock]:  Ahhhhhh.</line>
+    <line>Mushu:  That's close enough.</line>
+    <line>Mulan [from behind a rock]:  Ghost.</line>
+    <line>Mushu:  Get ready Mulan your serpentine salvation is at hand.  For I have</line>
+    <line>been sent by your ancestors-- [notices Cri-Kee making a hand shadow of a</line>
+    <line>dragon on the rock and stamps him down with his foot] to guide you through</line>
+    <line>your masquerade.  [bending down to Cri-Kee]  C'mon, you're gonna stay you're</line>
+    <line>gonna work. [returning to Mulan] Heed my word, 'cause if the army finds out</line>
+    <line>that you are a girl, the penalty is death. [big flames shoot up from the</line>
+    <line>rocks]</line>
+    <line>Mulan:  Who are you?</line>
+    <line>Mushu:  Who am I?  Who am I?  I am the guardian of lost souls. [Mulan smiles</line>
+    <line>big in anticipation of seeing her guardian] I am the powerful, the</line>
+    <line>pleasurable, the indestructible [coming out from the rocks to show his real</line>
+    <line>size] Mushu! Oh hah, hah, pretty hot, huh? [Khan stomps on Mushu.  Mulan</line>
+    <line>pushes Khan back]</line>
+    <line>Mulan:  Ah, my ancestors sent a little lizard to help me?</line>
+    <line>Mushu:  Hey, dragon, dragon,  not lizard.  I don't do that tongue thing [flips</line>
+    <line>out his tongue to show Mulan what he means].</line>
+    <line>Mulan:  You're uh...</line>
+    <line>Mushu:  Intimidating?  Awe inspiring?</line>
+    <line>Mulan [making a hand gesture to denote his smallness of size]: Tiny.</line>
+    <line>Mushu [with a look of disappointment]:  Of course.  I'm travel size for your</line>
+    <line>convenience.  If I was my real size, your cow here [patting Khan on the nose]</line>
+    <line>would die of fright.  [Khan tries to bite Mushu]  [pointing to the ground</line>
+    <line>speaking to Khan] Down Bessy.  My powers are beyond your mortal imagination.</line>
+    <line>For instance, [leaning in and looking at Mulan's chest] my eyes can see</line>
+    <line>straight through your armor.  [Mulan cover her bust with her left arm and</line>
+    <line>slaps Mushu with the right]  Ow.  [angrily] All right, that's it!  Dishonor!</line>
+    <line>Dishonor on your whole family.  [aside to Cri-Kee] Make a note of this</line>
+    <line>[Cri-Kee grabs a leaf and a pen and starts writing].  [Loudly with gusto]</line>
+    <line>Dishonor on you.  Dishonor on your cow.  Dis-</line>
+    <line>Mulan [pleadingly while covering Mushu's mouth]:  Stop!  I'm sorry, I'm sorry</line>
+    <line>[kneeling down in front of Mushu].  I'm just nervous.  I've never done this</line>
+    <line>before.</line>
+    <line>Mushu: Then you're gonna have to trust me.  And don't you slap me no more, we</line>
+    <line>clear on that?  [Mulan nods emphatically].  All right.  Okey dokey, let's get</line>
+    <line>this show on the road.  Cri-Kee, get the bags [Mushu starts walking to the</line>
+    <line>camp].  [to Khan] Let's move it heifer.</line>
+    <line>[Cut to Mulan at the camp's entrance]</line>
+    <line>Mushu [hiding in Mulan's armor poking his head out from her back]:  Okay this</line>
+    <line>is it, time to show 'em your man walk.  Shoulders back,  chest high, feet</line>
+    <line>apart, head up [Mushu pulls Mulan's head back]  ...and strut 2, 3, break it</line>
+    <line>down, 2, 3 and work it, [Mulan walks into the camp drawing the attention the</line>
+    <line>men who see her.  Mulan walks into a tent and sees a man picking his nose and</line>
+    <line>another man picking out dirt from between his toes with chopsticks] Beautiful</line>
+    <line>isn't it?</line>
+    <line>Mulan [making a face of disgust and continuing to walk]:  They're disgusting.</line>
+    <line>Mushu:  No, they're men.  And you're going to have to act just like them, so</line>
+    <line>pay attention.</line>
+    <line>[Mulan stops and watches Yao, Ling, Chien-Po and Tattoo Soldier]</line>
+    <line>Tattoo Soldier [showing the dragon tattoo on his chest and belly]:  Look, this</line>
+    <line>tattoo will protect me from harm.</line>
+    <line>[Yao thinks for a moment, then punches Tattoo Soldier in the stomach causing</line>
+    <line>Ling to laugh.  Mulan watches in utter amazement.  Yao kisses his hand]</line>
+    <line>Ling [laughing]:  I hope you can get your money back.</line>
+    <line>Mulan:  I don't think I can do this.</line>
+    <line>Mushu:  It's all attitude.  Be tough like this guy here [looking at Yao].</line>
+    <line>[Mulan looks at Yao as he hocks up a loogie and spits]</line>
+    <line>Yao [noticing Mulan watching him]:  What are you looking at?</line>
+    <line>Mushu:  Punch him, it's how men say 'hello.'</line>
+    <line>[Mulan looks at her fist, then punches Yao from behind on the shoulder.  The</line>
+    <line>force causes Yao to run into Chien-Po]</line>
+    <line>Chien-Po:  Oh Yao, you made a friend.</line>
+    <line>Mushu:  Good, Now slap him on the behind, they like that.</line>
+    <line>[Mulan slaps Yao on the behind]</line>
+    <line>Yao:  Wu hoo hooooo.  [grabbing Mulan buy the collar]  I'm going to hit you so</line>
+    <line>hard it'll make your ancestors dizzy.</line>
+    <line>Chien-Po [Holding and picking up Yao]:  Yao, relax and chant with me.</line>
+    <line>Yaaaaaaa Moouuuu Ahhhhhh Doooou Fuuuu Daaaaa.</line>
+    <line>Yao:  Ya Mi Ah To Fu Da.</line>
+    <line>Chien-Po:  Feel better?</line>
+    <line>Yao [relaxed]:  Yeah. [Chien-Po places Yao back on the ground]  [to Mulan</line>
+    <line>while walking away] Aaaaa, you ain't worth my time chicken boy.</line>
+    <line>Mushu [loudly]:  Chicken boy!?  Say that to my face ya limp noodle!</line>
+    <line>[Yao grabs Mulan by the collar cocking back his arm to punch.  Mulan ducks as</line>
+    <line>Yao hits Ling standing behind her]</line>
+    <line>Yao:  Oh, sorry Ling.  Hey!</line>
+    <line>[Yao grabs Mulan's foot as she starts to crawl away.  Ling kicks Yao on the butt causing him to land on Chien-Po's stomach. Ling Jump</line>
+    <line>attacks Mulan, but she ducks and he lands on Yao on top of Chien-Po]</line>
+    <line>Ling:  You're dead.  [They fight on top of Chien-Po.  Mulan runs away.  Ling notices Mulan and then points toward her] Oh, there he goes.</line>
+    <line>[Mulan runs into a tent and stops.  Yao, Ling, and Chien-Po (in that order) run through the tent.  Yao stops short as he is about to run into a</line>
+    <line>soldier in a line for food.  He looks behind him with concerned eyes as Ling stops in time.  Chien-Po bumps into Ling causing the entire line</line>
+    <line>of soldiers to fall forward and knock over the pot of congee and the cook behind it.  The men look to the back of the line and spy Mulan who</line>
+    <line>has emerged from the tent.  They angrily start walking towards her.  Mulan has a look of horror on her face as if trouble is about to brew]</line>
+    <line>Mulan:  Hey guys.</line>
+    <line>[Chi Fu watches and then walks into the tent.  General Li and Li Shang are in the tent.]</line>
+    <line>General Li [motioning with his pointer to a map of the region]:  The Huns have struck here, here and here.  I will take the main troops up to</line>
+    <line>the Tung Shao Pass and stop Shan-Yu before he destroys this village.</line>
+    <line>Chi Fu:  Excellent strategy, Sir.  I do love surprises, Ha ha, ha, ha.</line>
+    <line>General Li:  You will stay here and train the new recruits.  When Chi Fu believes you're ready, you will join us...Captain. [General Li hands</line>
+    <line>a sword to Shang]</line>
+    <line>Shang:  Captain?</line>
+    <line>Chi Fu:  Oh, this is an enormous responsibility, General.  Uh, perhaps a soldier with more experience--</line>
+    <line>General Li:  Number one in his class, extensive knowledge of training techniques, [leaning back smugly stroking his chin] an impressive</line>
+    <line>military lineage.  I believe Li Shang will do an excellent job.</line>
+    <line>Shang [excitedly]:  Oh, I will.  I wont let you down.  This is, I mean, I...[somberly] yes sir.</line>
+    <line>General Li [gets up and starts walking out of the tent]:  Very good then.  We'll toast China's victory at the Imperial City.  [to Chi Fu] I'll</line>
+    <line>expect a full report in three weeks.</line>
+    <line>Chi Fu [to Shang]:  And I wont leave anything out.  [exits through the tent]</line>
+    <line>Shang [while tying his sword to his uniform]:  Captain Li Shang, Hmmm, leader of China's finest troops.  No, the greatest troops of all time.</line>
+    <line>Heh, heh, heh, heh.  [Shang walks out of the tent to see the recruits fighting.  He stands stage left of Chi Fu and General Li.  Injured Recruit</line>
+    <line>sees the General and salutes him as he falls to the ground.  General Li steps over Injured Recruit and mounts his horse]</line>
+    <line>Chi Fu:  Most impressive.</line>
+    <line>General Li:  Good luck Captain.  [The general and his mounted troops leave the camp]</line>
+    <line>Shang [quietly, to himself]:  Good luck, Father.  [Shang looks at his troops and sighs]</line>
+    <line>Chi Fu [smirking, with board and brush in hand]:  Day one.</line>
+    <line>Shang [shouting]:  Soldiers!</line>
+    <line>All Recruits [backing away revealing Mulan and pointing at her.  Mulan is crouching in the fetal position on the ground]:  He started it!</line>
+    <line>[Shang approaches Mulan and looks down over her.  Mulan looks up, sees Shang over top of her and gets up quickly dusting herself off]</line>
+    <line>Shang [to Mulan]:  I don't need anyone causing trouble in my camp!</line>
+    <line>Mulan:  Sorry, [in her man voice] Uhh, I mean, sorry you had to see that.  [with her fist she taps Shang on the shoulder]  You know how it is</line>
+    <line>when you get those, uh [pounding her chest] manly urges and you just have to kill something [slapping her hand], fix things, uh, cook</line>
+    <line>outdoors.</line>
+    <line>Shang:  What's your name?</line>
+    <line>Mulan [stumbling]:  Ahh, I, uhhh, I, uh--</line>
+    <line>Chi Fu [stepping into Mulan's face]:  Your commanding officer just asked you a question.</line>
+    <line>Mulan:  Uhh, I've got a name.  Huh.  And it's a boys name too.</line>
+    <line>Mushu [from the back of Mulan]:  Ling, How 'bout Ling?</line>
+    <line>Mulan [to Mushu motioning with her head to Ling]:  His name's Ling.</line>
+    <line>Shang:  I didn't ask for his name.  I asked for yours.</line>
+    <line>Mushu:  Try, uh, ahh, Chu!</line>
+    <line>Mulan:  Ah Chu.</line>
+    <line>Shang:  Ah Chu?</line>
+    <line>Mushu:  Gesundheit.  He He, I kill myself.</line>
+    <line>Mulan [whispering over her shoulder]:  Mushu.</line>
+    <line>Shang:  Mushu?</line>
+    <line>Mulan:  No.</line>
+    <line>Shang:  Then what is it!</line>
+    <line>Mushu:  Ping! Ping was my best friend growing up!</line>
+    <line>Mulan:  It's Ping.</line>
+    <line>Shang:  Ping.</line>
+    <line>Mushu:  Of course Ping DID steal my gir-[Mulan reaches back and grabs holds Mushu's mouth together]</line>
+    <line>Mulan:  Yes, my name is Ping.</line>
+    <line>Shang:  Let me see your conscription notice.  [Takes the notice from Mulan]  Fa Zhou, *the* Fa Zhou?</line>
+    <line>Chi Fu:  I didn't know Fa Zhou had a son.</line>
+    <line>Mulan:  Um, he...doesn't talk about me much.  [Mulan tries to hawk up a loogie and spit but the saliva just runs from her mouth.  The</line>
+    <line>recruits laugh]</line>
+    <line>Chi Fu:  I can see why, the boy's an absolute lunatic.</line>
+    <line>Shang [to the recruits]: Okay gentlemen, thanks to your new friend Ping, you'll spend tonight picking up every single grain of rice.  And</line>
+    <line>tomorrow, the real work begins.</line>
+    <line>[All recruits growl at Mulan]</line>
+    <line>Mushu [Popping out the front of Mulan's armor]:  You know, we have to work on your people skills.</line>
+    <line>[Cut to Mulan sleeping in her tent.  Mushu winds up Cri-Kee's wings.  Cri-Kee rings like an alarm clock]</line>
+    <line>Mushu: All right, rise and shine sleeping beauty.  [Mulan rises and blinks] C'mon [rapping on Mulan's head with each syllable] hup, hup,</line>
+    <line>hup. [Mulan groans, lies back down and pulls the covers over her head.  Mushu pulls the covers off Mulan entirely]  Get your clothes on.</line>
+    <line>Get ready.  Got breakfast for ya.  [Mushu jumps onto Mulan's knee with a bowl of porridge]  Look, you get porridge, and it's happy to see</line>
+    <line>you.  [Mushu shows her the bowl with two eggs and bacon looking like a smiley face.  Cri-Kee pops up out from the bowl of porridge] Hey,</line>
+    <line>get outta there, you gonna make people sick!  [Mushu uses chopsticks to push Cri-Kee out of the porridge]</line>
+    <line>Mulan:  Am I late?</line>
+    <line>Mushu [while feeding Mulan]:  No time to talk.  Now remember, it's your first day of training so listen to your teacher and no fighting.  Play</line>
+    <line>nice with the other kids, unless of course one of the other kids wanna fight, then you have to kick the other kid's butt.</line>
+    <line>Mulan [with her mouth full of food]:  But I don't wanna kick the other kid's butt.</line>
+    <line>Mushu:  Don't talk with your mouth full.  Now let's see your war face [Mulan looks at him with wide eyes and chipmunk cheeks full of food].</line>
+    <line>I think my bunny slippers just ran for cover.  C'mon scare me, girl!</line>
+    <line>Mulan [swallows the food]:  Rrrrrrr!</line>
+    <line>Mushu [rolling back into the half eaten bowl of porridge]:  Oh, that's my tough looking warrior.  That's what I'm talking about.  Now get out</line>
+    <line>there and make me proud. [Mushu ties up Mulan's hair]</line>
+    <line>[Khan whinnies and pokes his head into the tent]</line>
+    <line>Mushu:  What do you mean the troops just left?</line>
+    <line>Mulan [acting surprised]:  They what!? [Mulan hurriedly puts on her clothes and jumps out of the tent going off to join the other recruits]</line>
+    <line>Mushu [running out from the tent calling after Mulan]:  Wait, you forgot your sword.  My little baby off to destroy people [sniffle].</line>
+    <line>[Cut to the troops muddling around near Shang's tent]</line>
+    <line>Chi Fu [enters stage left]:  Order people, order!</line>
+    <line>Recruit #2:  I'd like a pan fried noodle.</line>
+    <line>Chien-Po:  Oh, oh, sweet and pungent shrimp [Ling and others begin to laugh]</line>
+    <line>Recruit #3:  Moo goo gai pan</line>
+    <line>Chi Fu:  That's not funny.</line>
+    <line>[Mulan comes running up to the group]</line>
+    <line>Ling [noticing Mulan's arrival]:  Looks like our new friend slept in this morning.  [Mulan stops between Ling and Yao] [to Ping] Hellooo Ping,</line>
+    <line>Are you hungry?</line>
+    <line>Yao:  Yeah, 'cause I owe you a knuckle sandwich.  [grabs Mulan by the shirt collar drawing back his other arm.  Mulan hides her face with</line>
+    <line>her hands.  Ling looks away, closes his eyes, and puts his fingers in his ears so that he wont hear anything]</line>
+    <line>All Soldiers [in agreement with Yao]:  Yeah.</line>
+    <line>Shang [loudly]:  Soldiers!  [The soldiers line up quicky.  Shang takes off his shirt and grabs a bow and quiver of arrows.  Mulan is duly</line>
+    <line>impressed by Shang's physique] You will assemble swiftly and silently every morning. [Shang walks down the line of soldiers] Anyone who</line>
+    <line>acts otherwise will answer to me.</line>
+    <line>Yao:  Ooooo, tough guy.</line>
+    <line>Shang [turning around with knocked arrow pointing towards Yao]:  Yao.  [All recruits take a step back leaving Yao one step forward.  Shang</line>
+    <line>Points arrow skyward and shoots it into the top of a high pole]  Thank you for volunteering.  Retrieve the arrow.</line>
+    <line>Yao [bows to Shang]:  I'll get that arrow pretty boy.  And I'll do it with my shirt on.  [Yao prepares to leap onto that pole]</line>
+    <line>Shang:  One moment, you seem to be missing something.  [Chi Fu brings out two large bronze disks.  Shang takes out one disk and holds it</line>
+    <line>high speaking to all the troops]  This represents discipline  [Shang hands the weight to Yao and the weight falls to the ground taking Yao's</line>
+    <line>arm with it]  and this represents strength [Shang hands the other weight to Yao making him fall to the ground.  The troops laugh while</line>
+    <line>Mulan looks concerned].  You need both to reach the arrow.</line>
+    <line>[Yao climbs up the pole then slips down under the weight.  Ling, Chien-Po, and Mulan each take their turn and fall down.  Mulan rubs her</line>
+    <line>behind as she walks away in front of Shang]</line>
+    <line>Shang:  We've got a long way to go.</line>
+    <line>[Song I'll Make a Man Out of You]</line>
+    <line>[Shang throws staffs to the soldiers.  Yao intercepts Mulan's staff and trips her with it]</line>
+    <line>Shang:</line>
+    <line>Let's get down to business--</line>
+    <line>to defeat the Huns.</line>
+    <line>[Shang throws up two clay pots and breaks them apart with his staff.  The troops are highly impressed]</line>
+    <line>Recruits [putting their staffs out at arms length, spoken]:  Hua</line>
+    <line>Shang:</line>
+    <line>Did they send me daughters</line>
+    <line>when I asked for sons?  [Ling puts a cricket down Mulan's back causing her to flail erratically]</line>
+    <line>You're the saddest bunch</line>
+    <line>I ever met  [Most soldiers fall as Mulan moves uncontrollably]</line>
+    <line>But you can bet</line>
+    <line>before we're through  [Shang does a somersault in the air landing near Mulan.  He takes a pole in the stomach.  Shang stops Mulan and</line>
+    <line>takes her staff.  He grabs her by the collar]</line>
+    <line>Mister, I'll make a man</line>
+    <line>out of you</line>
+    <line>[Shang steps on a lever throwing up 3 targets which he hits with 3 arrows from one bow]</line>
+    <line>Tranquil as a forest</line>
+    <line>[The recruits try and fail.  Mulan gets ready to fire when Mushu sticks a target on her arrow before she shoots.  Mulan looks at Mushu's in</line>
+    <line>shock and pauses.  Shang looks disdainfully at Mulan as she cracks a huge smile]</line>
+    <line>But on fire within</line>
+    <line>[Shang balances a bucket of water on his head holding a staff.  The recruits fire stones at him which Shang deflect with the staff]</line>
+    <line>Once you find your center</line>
+    <line>You are sure to win</line>
+    <line>[Mulan wobbles with the bucket of water on her head.  As the recruits throw stones at her the bucket tips over onto her head]</line>
+    <line>You're a spineless, pale,</line>
+    <line>pathetic lot</line>
+    <line>And you haven't got a clue</line>
+    <line>[Shang throws his hand down into a river and retrieves a fish.  Mulan throws her hand down into the river and retrieve's Yao's foot.  Mushu</line>
+    <line>comes out of the water with a fish in hand to give to Mulan]</line>
+    <line>Somehow I'll make a man</line>
+    <line>out of you!</line>
+    <line>Chien-Po [running through a field of fire arrows]:</line>
+    <line>I'm never gonna catch</line>
+    <line>my breath</line>
+    <line>Yao [following Chien-Po, falls and gets hit in the butt with an arrow]:</line>
+    <line>Say good-bye to those</line>
+    <line>who knew me</line>
+    <line>Ling [Banging his head on a stone slab]:</line>
+    <line>Boy I was a fool in school</line>
+    <line>for cutting gym</line>
+    <line>[Shang practices martial arts with Mulan.  With a punch to the face he knocks her back into a tree]</line>
+    <line>Mushu [from the tree acts as a boxing coach]:</line>
+    <line>This guy's got 'em</line>
+    <line>scared to death</line>
+    <line>Mulan [Mushu pushes Mulan back out into the ring]:</line>
+    <line>Hope he doesn't see</line>
+    <line>right through me</line>
+    <line>Chien-Po [stops as he's hopping across poles protruding from water causing Shang and the recruits to pile into him]:</line>
+    <line>Now I really wish that I</line>
+    <line>knew how to swim!</line>
+    <line>Shang and Chorus:</line>
+    <line>[Cannon fire misses the target in the middle of an open field. Ling kicks the support structure out from Mulan's cannon and it begins to fall.</line>
+    <line>Mulan quickly grabs the cannon and it fires high and back towards the camp landing and exploding Chi Fu's tent]</line>
+    <line>(Be a man)</line>
+    <line>We must be swift as</line>
+    <line>the coursing river</line>
+    <line>(Be a man)</line>
+    <line>With all the force</line>
+    <line>of a great typhoon</line>
+    <line>(Be a man)</line>
+    <line>With all the strength</line>
+    <line>of a raging fire</line>
+    <line>[Picture of Shang looking over the camp from the hill not looking pleased]</line>
+    <line>Mysterious as the</line>
+    <line>dark side of the moon</line>
+    <line>Shang [his troops laden with poles on their shoulders carrying bags of grain - one on each side.  They march up a mountain]:</line>
+    <line>Time is racing toward us</line>
+    <line>till the Huns arrive</line>
+    <line>[Chi Fu points Shang's eyes back to a struggling Mulan who falls to the ground.  Cri-Kee and Mushu try to pick her up but hide when Shang</line>
+    <line>comes up to her.  Shang picks up her pole with grain, puts it on top of his and returns to the troops. Mulan looks rejected]</line>
+    <line>Heed my every order</line>
+    <line>and you might survive</line>
+    <line>[Shang hand the reigns of Khan to Mulan]</line>
+    <line>You're unsuited for</line>
+    <line>the rage of war</line>
+    <line>So pack up, go home,</line>
+    <line>you're through</line>
+    <line>How could I make a man</line>
+    <line>out of you?</line>
+    <line>Shang and Chorus [Mulan takes the weights and tries to climb the pole again]:</line>
+    <line>(Be a man)</line>
+    <line>We must be swift as</line>
+    <line>the coursing river</line>
+    <line>[Mulan ties the weights together behind the pole and uses the cloth to help her shimmy up the pole]</line>
+    <line>(Be a man)</line>
+    <line>With all the force</line>
+    <line>of a great typhoon</line>
+    <line>[As the sun begins to rise the recruits come out of their tents to cheer on Mulan]</line>
+    <line>(Be a man)</line>
+    <line>With all the strength</line>
+    <line>of a raging fire</line>
+    <line>[As Shang comes out of his tent, the arrow he shot up onto the pole comes down to his feet.  He looks up and sees Mulan sitting on top of</line>
+    <line>the pole]</line>
+    <line>Mysterious as the</line>
+    <line>dark side of the moon</line>
+    <line>[order of events during the last repeat of the chorus:</line>
+    <line>Troops hit all targets with arrows correctly.</line>
+    <line>Mulan racing in front of Shang and the recruits with the pole and weights on her shoulders.</line>
+    <line>Mulan kicking Shang in the face with a round house.  Shang looking pleased.</line>
+    <line>Chien-Po doing acrobatics on the poles as the troops follow.</line>
+    <line>Staffs being thrown to troops, Yao hands Mulan hers.</line>
+    <line>Yao running through arrows.</line>
+    <line>Yao grabs Mulan's staff and hands it to her.</line>
+    <line>Troop staff practice #1.  (Hya)</line>
+    <line>Ling breaking the block</line>
+    <line>Troop staff Practice #2.  (Hya)</line>
+    <line>Mulan holding up fish.</line>
+    <line>Troop staff practice #3.</line>
+    <line>Cannon fire hitting the Hun Target.</line>
+    <line>Troop staff practice #4 - jumping in the air (Hya)]</line>
+    <line>(Be a man)</line>
+    <line>We must be swift as</line>
+    <line>the coursing river</line>
+    <line>(Be a man)</line>
+    <line>With all the force</line>
+    <line>of a great typhoon</line>
+    <line>(Be a man)</line>
+    <line>With all the strength</line>
+    <line>of a raging fire</line>
+    <line>Mysterious as the</line>
+    <line>dark side of the moon</line>
+    <line>[End Song]</line>
+    <line>[Interlude]</line>
+    <line>[Cut to Shan Yu sitting on top of a tree.  He cuts off the very top with his sword.  His falcon swoops buy and drops a doll.  Shan-Yu takes</line>
+    <line>the doll, sniffs it, looks surprised, and drops down to the ground]</line>
+    <line>Shan-Yu [tossing the doll to Hun Strong Man]:  What do you see?</line>
+    <line>Hun Strong Man [feeling the doll]:  Black pine, from the high mountains.  [Long Hair Hun Man takes the doll from Hun Strong Man.  Bald</line>
+    <line>Hun Man #1 takes a hair as it passes by him]</line>
+    <line>Bald Hun Man #1:  White horse hair.  Imperial stallions.</line>
+    <line>Long Hair Hun Man [sniffing the doll]:  Sulfur, from cannons.</line>
+    <line>Shan-Yu:  This doll came from a village in the Tung Shao Pass, where the Imperial Army's waiting for us.</line>
+    <line>Hun Archer:  We can avoid them easily.</line>
+    <line>Shan-Yu [shaking his head]:  No, the quickest way to the Emperor is through that pass.  Besides, the little girl will be missing her doll.  We</line>
+    <line>should return it to her.</line>
+    <line>[End Interlude]</line>
+    <line>[Cut to Mulan by the lake with Mushu, Khan, and Cri-Kee]</line>
+    <line>Mushu:  Hey, oh, ah, no, this is not a good idea.  What if somebody sees you?</line>
+    <line>Mulan [from behind the reeds]:  Just because I look like a man doesn't mean I have to smell like one.</line>
+    <line>Mushu [holding a towel covering his eyes with his ears]:  So a couple of guys don't rinse out their socks, picky, picky, picky.  Well myself I</line>
+    <line>kinda like that corn chip's smell.</line>
+    <line>Mulan [running by Mushu and jumps into the lake splashing water on Mushu]:  Ahhhhhhh.</line>
+    <line>Mushu:   Okay, all right, all right, that's enough.  Now, c'mon, get out before you get all pruny and stuff [holding out a towel towards Mulan</line>
+    <line>keeping his eyes covered].</line>
+    <line>Mulan:   Mushu, if you're so worried, go stand watch.</line>
+    <line>Mushu:  Yeah, yeah, [walking in a womanly fashion speaking in woman's voice] stand watch Mushu while I blow our secret with my stupid</line>
+    <line>girly habits. [back to normal] Humph, hygiene.</line>
+    <line>Cri-Kee [alarmed, tugging on Mushu's whiskers]:  Chirp, Chirp.</line>
+    <line>Yao:  Me first! Me first! Me First! [Yao, Ling and Chien-Po run by Mushu smacking him in the face with colored boxers]</line>
+    <line>Mushu [gasps]:  Ah.  We're doomed!  There a couple of things I know they're bound to notice!</line>
+    <line>[Yao and Ling jump into the water.  Chien-Po dips in his toe to check temperature then jumps in causing a large wave.  Yao and Ling ride</line>
+    <line>the wave towards Mulan.  Mulan sees them and hides her face behind a lily pad]</line>
+    <line>Yao [calling]:  Hey, Ping.</line>
+    <line>[Mulan peeks over the lily pad and spreads it on the water covering her chest]</line>
+    <line>Mulan [speaking nervously and unnaturally in a manly voice]:  Oh hi guys, I didn't know you were *here*. [Yao, Ling and Chien-Po share</line>
+    <line>"this boy is strange" looks] I was just washing, so now I'm clean and I'm gonna go.  Bye, bye.  [Mulan hides behind a rock keeping her front</line>
+    <line>facing the rock]</line>
+    <line>Ling [from behind Mulan]:  Come back here.  I know we were jerks to you before so lets start over.  [extending his hand to shake hands with</line>
+    <line>Mulan]  Hi, I'm Ling!</line>
+    <line>Mulan [covering her chest with her left arm, she turns and shakes his hand with an outstretched right arm, smiling]:  Heh, heh.  [Mulan turns</line>
+    <line>and wades away from Ling and runs into Chien-Po]</line>
+    <line>Chien-Po [taking a lily pad off his head]:  And I'm Chien-Po.</line>
+    <line>Mulan [waving slightly and smiling]:  Hello Chien-Po.</line>
+    <line>[Yao stands on top of a rock looking down at the others.  Mulan looks down into the water and hides her eyes with her free hand]</line>
+    <line>Yao:  And I am Yao, king of the rock.  And there's nothin' you girls can do about it.</line>
+    <line>Ling [taking a fighting stance]:  Oh, yeah?  Well, I think Ping [elbowing Mulan] and I could take you.</line>
+    <line>Mulan [wading away]:  I really don't want to take him anywhere.</line>
+    <line>Ling [following Mulan]:  Ping, we have to fight!</line>
+    <line>Mulan:  No we don't. [unnaturally]  We could just close our eyes and swim around.</line>
+    <line>Ling: C'mon don't be such a g--Ouch!  Something bit me.</line>
+    <line>Mushu [popping out of the water between Mulan and Ling]:  What a nasty flavor.</line>
+    <line>Ling [with fear and gusto]:  Snake!</line>
+    <line>Chien-Po [while all three of them climb up the rock and on each other]: Snake, snake.</line>
+    <line>[Mulan whistles for Khan and wades back to shore.  Khan comes close enough to shore and Mulan hides behind Khan as she wraps a towel</line>
+    <line>around her body]</line>
+    <line>[Cut to Yao, Ling and Chien-Po calmed down sitting on the rock]</line>
+    <line>Ling:  Some king of the rock!  [Yao pushes him off the rock]</line>
+    <line>[Cut to Mulan with towel wrapped around her]</line>
+    <line>Mulan:  Boy, that was close.</line>
+    <line>Mushu [brushing his teeth]:  No, that was vile!  You owe me big!</line>
+    <line>Mulan:  I never want to see a naked man again.  [the rest of the troops run by naked and jump into the lake]</line>
+    <line>Mushu:  Hey, don't look at me.  I ain't biting any more butts.</line>
+    <line>[Cut to Mulan outside Chi Fu's Tent having dressed fully.  Chi Fu and Shang are talking from inside]</line>
+    <line>Chi Fu [fading in]:  You think your troops are ready to fight?  Hah!  They would not last a minute against the Huns.</line>
+    <line>Shang:  They completed their training.</line>
+    <line>Chi Fu:  Those *boys* are no more fit to be soldiers than you are to be Captain.  Once the general reads my report, your troops will never</line>
+    <line>see battle.</line>
+    <line>Mushu [from outside the tent]:  Oh no you don't.  I've worked to hard to get Mulan into this war. [to Cri-Kee] This guy's messing with my</line>
+    <line>plan.</line>
+    <line>Shang [grabbing onto the front of Chi Fu's clip board]:  We're not finished.</line>
+    <line>Chi Fu [pulling the board away]:  Be careful, Captain.  The General may be your father, but I am the Emperor's council.  And, oh, by the</line>
+    <line>way, huh, I got that job on my own.  [opens the entrance to the tent for Shang] You're dismissed.</line>
+    <line>[Shang storms out of the tent and starts to walk by Mulan]</line>
+    <line>Mulan [in a manly voice]:  Hey, I'll hold him and you punch, heh, heh...  [Shang walks by without reacting] or not.  [calling out to Shang]</line>
+    <line>For what it's worth, I think you're a great captain.  [Shang pauses to glance back, then continues forward]</line>
+    <line>Mushu [looking at Mulan's fixed gaze on Shang]:  I saw that!</line>
+    <line>Mulan [innocently]:  What?</line>
+    <line>Mushu [teasing]:  You like him don't you?</line>
+    <line>Mulan:  No, I--</line>
+    <line>Mushu:  Yeah right, Yeah sure.  Look,  [pointing to Mulan's tent] go to your tent.  [Mulan walks away with a look of delight. Mushu talks to</line>
+    <line>Cri-Kee]  I think it's time we took this war into our own hands [rubbing hands together].</line>
+    <line>[Mushu and Cri-Kee wait outside Chi Fu's Tent.  Chi Fu emerges with carrying a scrub brush and wrapped in a towel and with big</line>
+    <line>showering slippers on his feet.  He whistles as he walks off.  Mushu and Cri-Kee enter his tent.  Cri-Kee uses his legs to write up a letter.  He</line>
+    <line>finishes and Mushu takes the paper]</line>
+    <line>Mushu:  Okay, okay, let me see what you've got.  From General Li, dear son, we're waiting for the huns at the pass and it would mean a lot</line>
+    <line>if you'd come and back us up.  [sarcastically]  That's great except you forgot, "and since we're all out of potpourri, maybe you wouldn't</line>
+    <line>mind bringing up some."  Hellooooo, this is the army!  Make it sound more urgent, please!  You know what I'm talkin' about?  [Cri-Kee starts</line>
+    <line>writing the note again]  That's better, much better.  [taking the note] Okay, Let's go.</line>
+    <line>[Cut to Khan drinking water from the trough.  Mushu is on his back]</line>
+    <line>Mushu:  Khan-ie baby, hey, we need a ride.  [Khan squirts Mushu off his back with water from his mouth]</line>
+    <line>[Cut to Chi Fu walking out of the lake wrapped in a towel, sounds of laughter can be heart from the troops]</line>
+    <line>Chi Fu [muttering]:  Insubordinate ruffians.  [then calling to the troops]  You men owe me a new pair of slippers.  And I do not squeal like a</line>
+    <line>girl.  [a panda bear chomps down on the slipper Chi Fu is holding] Aaaaaahhhhhh!</line>
+    <line>Mushu [sitting on top of the panda bear behind a dummy of a soldier using sticks to gesticulate with the dummy's arms to push the note</line>
+    <line>towards Chi Fu.  Cri-Kee works the mouth]:  Urgent news from the general!  [Chi Fu looks over the panda]  What's the matter, you've never</line>
+    <line>seen a 'black and white' before?</line>
+    <line>Chi Fu:  Who are you?</line>
+    <line>Mushu:  Excuse me!  I think the question is: who are you?  We're in a war man!  There's no time for stupid questions.  I should have your</line>
+    <line>hat for that, [the panda starts walking forward] snatch it right off of your head [swiping with an arm at Chi Fu's hat.  Mushu turns the upper</line>
+    <line>half of the dummy around after the panda passes Chi Fu.  Chi Fu begins reading the message].  But I'm feeling gracious today, so carry on</line>
+    <line>before I report you.  [the panda walks up a tree taking Mushu and Cri-Kee with him out of sight]</line>
+    <line>Chi Fu [looking around for Mushu but not finding him, then runs into Shang's tent]:  Captain.  Urgent news from the General.  We're needed</line>
+    <line>at the front.</line>
+    <line>Mushu [from up in the tree]:  Pack your bags Cri-Kee, we're movin' out.  [Cri-Kee high fives Mushu]</line>
+    <line>[Song:  A Girl Worth Fighting For]</line>
+    <line>Army Chorus [troops walking up hill]:</line>
+    <line>For a long time we've been</line>
+    <line>marching off to battle</line>
+    <line>Yao [close-up of Yao, then a shot of 2 cows]:</line>
+    <line>In a thundering herd</line>
+    <line>we feel a lot like cattle</line>
+    <line>Cow [spoken]:  Moo</line>
+    <line>Army Chorus [showing troops marching]:</line>
+    <line>Like the pounding beat</line>
+    <line>our aching feet aren't</line>
+    <line>easy to ignore</line>
+    <line>Ling [catching up to Yao and Chien-Po]:</line>
+    <line>Hey, think of instead,</line>
+    <line>A girl worth fighting for [Yao, Ling and Chien-Po look upwards dreamily]</line>
+    <line>Mulan [spoken from behind]: Huh?</line>
+    <line>Ling [grabbing Mulan and drawing her close while pulling out a centerfold]:</line>
+    <line>That's what I said, a girl</line>
+    <line>worth fighting for [Mulan runs away seeing the centerfold]</line>
+    <line>[artistry section where the images are drawn like painted people.  Ling is seen looking at a woman and then kissing her]</line>
+    <line>I want her paler than the</line>
+    <line>moon with eyes that</line>
+    <line>shine like stars</line>
+    <line>Yao [lifting and lowering a woman over his head then opening his chest to show a gaping wound that we can see the woman through]:</line>
+    <line>My girl will marvel at</line>
+    <line>my strength, adore my</line>
+    <line>battle scars</line>
+    <line>Chien-Po [Chien-Po and a woman circle around then land on the edge of a large bowl of rice as a cow, pig and chicken fall beside them]:</line>
+    <line>I couldn't care less what she'll</line>
+    <line>wear or what she looks like</line>
+    <line>It all depends on what</line>
+    <line>she cooks like:</line>
+    <line>Beef, pork, chicken... [end painted people section, the last image fades into statues that the troops just passed]</line>
+    <line>All Three:</line>
+    <line>Mmm...</line>
+    <line>Yao [looking at Mulan while crossing the river with swords over their heads.  Mulan looks disgusted and hurries forward]:</line>
+    <line>Bet the local girls thought</line>
+    <line>you were quite the charmer</line>
+    <line>Ling [with armor full of water to make him look muscular]:</line>
+    <line>And I'll bet the ladies love</line>
+    <line>a man in armor [the water leaks out making Ling look like his normal self]</line>
+    <line>Army Chorus [Mushu whistles to ladies working in the rice field from out of the carriage holding cannons.  Cri-Kee looks shocked.  The</line>
+    <line>ladies look and giggle at Mulan who hides her face]:</line>
+    <line>You can guess what we</line>
+    <line>have missed the most</line>
+    <line>since we went off</line>
+    <line>to war</line>
+    <line>What do we want?</line>
+    <line>A girl worth fighting for!</line>
+    <line>Yao [Mulan walks away from Yao and into Chien-Po]:</line>
+    <line>My girl will think I have</line>
+    <line>no faults</line>
+    <line>Chien-Po:</line>
+    <line>That I'm a major find</line>
+    <line>Mulan [Caught between Yao, Ling, and Chien-Po who all look up dreamily waiting for her ideal woman.  She is forced to speak (sing)]:</line>
+    <line>[spoken] Uh, [singing] How about a girl who's</line>
+    <line>got a brain,  [Yao starts to look unimpressed]</line>
+    <line>Who always speaks her mind? [Mulan shrugs her shoulders]</line>
+    <line>Ling, Yao and Chien-Po [disdainfully, looking disappointed and disgusted]: Nah!</line>
+    <line>Ling [grabbing Mulan's shoulder and leaning on her, she takes his hand off and shakes her head disapprovingly.  Ling leans against the</line>
+    <line>carriage of cannons]:</line>
+    <line>My manly ways and turns of</line>
+    <line>phrase are sure to thrill her</line>
+    <line>Yao [hitting Khan so that the carriage runs out from under Ling.  Ling looks upset then falls in the mud]:</line>
+    <line>He thinks he's such a</line>
+    <line>lady-killer!</line>
+    <line>Chi Fu:</line>
+    <line>I've a girl back home who's</line>
+    <line>unlike any other.</line>
+    <line>Yao [aside to Mulan]:</line>
+    <line>Yeah, the only girl who'd</line>
+    <line>love him is his mother! [Mulan smiles]</line>
+    <line>Army Men [lining up locking arms across each others shoulders with Mulan in the middle to her discontent]:</line>
+    <line>But when we come home</line>
+    <line>in victory they'll line up</line>
+    <line>at the door!</line>
+    <line>Ling [sitting on top of Chien-Po]:</line>
+    <line>What do we want?</line>
+    <line>Army Chorus:</line>
+    <line>A girl worth fighting for!</line>
+    <line>Ling:</line>
+    <line>Wish that I had</line>
+    <line>Army Chorus [Mulan breaks away and walks in the opposite direction of the army]:</line>
+    <line>A girl worth fighting for!</line>
+    <line>(whistle) [Mulan sees Ling, Yao, and Chien-Po with snowballs about to pelt her so she turns around]</line>
+    <line>A girl worth fighting--</line>
+    <line>[All have stunned looks on their faces]</line>
+    <line>[End Song]</line>
+    <line>[Cut to ruins of a burned out village.  The soldiers walk through the singed gate and look around at the few planks that remain from the</line>
+    <line>buildings]</line>
+    <line>Shang [from mounted horse]:  Search for survivors.</line>
+    <line>[Cut to Mulan walking around the burned-out village.  She finds a the doll that Shan-Yu was holding and looks up sorrowfully.  Shang</line>
+    <line>comes to her side]</line>
+    <line>Shang:  I don't understand.  My father should have been here.</line>
+    <line>Chi Fu [calling out from the top of a hill overlooking a valley]:  Captain!</line>
+    <line>[Chi Fu points down to the valley where the remains of General Li's army can be seen.  Flags poking up out of the snow, armor lying face</line>
+    <line>down, broken cannon carts.  Ling, Yao, Mulan, and a soldier have the look of horror on their faces as they look into the valley.  Chien-Po</line>
+    <line>walks up from the valley carrying a helmet]</line>
+    <line>Chien-po [handing the helmet to Shang]:  ...the General.</line>
+    <line>[Shang takes the helmet and walks to the edge of the hill.  He draws his sword and stabs it into the snow upright.  He kneels down and</line>
+    <line>places the helmet on top of the sword.  Mulan approaches him from behind]</line>
+    <line>Mulan [softly]:  I'm sorry.</line>
+    <line>[Shang gets up, turns around and puts his hand on Mulan's shoulder and he walks by.  Shang walks to the center of the troops. He grabs his</line>
+    <line>horse by the saddle, takes one quick look of grief then mounts his horse]</line>
+    <line>Shang:  The Huns are moving quickly.  We'll make better time to the Imperial City through the Tung Shao Pass.  We're the only hope for the</line>
+    <line>Emperor now.  Move out!</line>
+    <line>[Mulan looks at the sword, takes out the doll she found and places the doll at the base of the sword.  She turns around and joins the rest of</line>
+    <line>the troops marching on]</line>
+    <line>[Cut to Mulan standing next to Khan saddled to the cart with cannons.  A cannon blast shoots out of the cart and explodes in the air.  The</line>
+    <line>troops look surprised.  Mulan glances back with a scowl into the hole in the canopy of the cart to see Mushu with a sorrowful face.  Mushu</line>
+    <line>points at Cri-Kee.  Shang charges up to Mulan on his horse, Chi Fu right behind]</line>
+    <line>Shang [angrily]:  What happened?!</line>
+    <line>Mulan [stumbling]:  Uhhh--</line>
+    <line>Shang:  You just gave away our position.  Now we're--[an arrow hits Shang in the shoulder as he falls to the ground.  Shang pulls out the</line>
+    <line>arrow]  [calling out] Get out of range!!</line>
+    <line>[The troops hurriedly run away as many arrows start falling all around them.  Mulan pulls Khan by the reins to hurry him up.  Fire arrows</line>
+    <line>start hitting the cart with cannons attached to Khan.  The cart begins to blaze with fire]</line>
+    <line>Shang:  Save the cannons!</line>
+    <line>[The troops form a human chain and start taking the cannons out of the burning cart one by one while Mulan steadies Khan to keep him</line>
+    <line>from bolting.  Chien-Po grabs many and hauls them on his own.  The troops grab]as many cannons as they safely can and Mulan cuts Khan</line>
+    <line>free from the cart.  She mounts Khan and charges away from the fire.  The cart explodes sending Mulan flying off Khan losing her helmet</line>
+    <line>and sword which land near her.  Mushu and Cri-Kee, sent flying by the blast, scream and land near Mulan.</line>
+    <line>Mushu:  Oh sure, save the horse.</line>
+    <line>[Mulan grabs Mushu with her right hand and grabs the sword with her left and runs to the troops position.  Cri-Kee and Khan follow.  Yao,</line>
+    <line>Ling, Chien-Po and other recruits set up cannons against rocks.  They dodge a set of arrows that fall around them]</line>
+    <line>Shang:  Fire!</line>
+    <line>[They launch a volley at the mountain where the archers are stationed.  As the cannon fire explodes, Shan-Yu's army hides]</line>
+    <line>Shang:  Fire!</line>
+    <line>[Mulan, Ling and Chien-Po launch a second volley at the mountain where the archers are stationed.  No more arrows can be seen coming</line>
+    <line>from the mountain position]</line>
+    <line>Shang:  Hold the last cannon.  [Yao poised to light his cannon, pauses.  Shan-Yu and his troops appear at the top of the mountain]  Prepare</line>
+    <line>to fight.  If we die, we die with honor.</line>
+    <line>[Shan-Yu raises his sword high above his head and charges down the mountain at Shang's position.  His falcon flies off his shoulder on</line>
+    <line>Shan-Yu's war cry  The Hun army follows]</line>
+    <line>Shang:  Yao, aim the cannon at Shan-Yu.</line>
+    <line>[The line of Shang's troops with Mulan at the end draw their swords.  Mulan looks down at her sword and sees the reflection of a large snow</line>
+    <line>embankment hanging to the side of a cliff.  She rushes forward]</line>
+    <line>Yao [being pushed aside by Mulan as she grabs the cannon]:  Hey.</line>
+    <line>Shang:  Ping, come back.  Ping!</line>
+    <line>[Mulan charges forward towards the oncoming horde of the Hun army being led by Shan-Yu and his falcon.  Mushu looks over her at the</line>
+    <line>oncoming horde with worry in his eyes]</line>
+    <line>Shang [starting to run after her waving his arms]:  Stop!</line>
+    <line>[Mulan plants the cannon and aims it for the cliff with the snow overhang]</line>
+    <line>Mushu [seeing Shan-Yu riding closer to their position]:  All right, you might want to light that right about now.  Quickly!  Quickly!</line>
+    <line>[Mulan takes out the flint and tries to light the fuse.  Shan-Yu's falcon swoops buy knocking Mulan down scattering the flint rock]</line>
+    <line>Yao [speaking to Ling and Chien-Po]:  C'mon, we've gotta help.  [they charge towards Mulan's position]</line>
+    <line>[Mulan searches for the flint in the snow in vain.  She sees Mushu, grabs him and stretches him causing him to light the fuse.  Mushu lands</line>
+    <line>on the cannon and the cannon fires off just above the charging Shan-Yu]</line>
+    <line>Mushu [tailing off as he rides the cannon toward the snow embankment]:  You missed him!  How could you miss?  He was three feet in</line>
+    <line>front of you!</line>
+    <line>[The cannon lodges in the snow and explodes causing the beginning of a large avalanche.  Mulan looks up with an evil grin on her face and</line>
+    <line>Shan-Yu watches in horror as many of his troops begin to be swallowed up by the snow]</line>
+    <line>Shan-Yu [recollecting himself and focusing in on Mulan]:  Yrrrrrrraah.</line>
+    <line>[Shan-Yu swipes at Mulan with his sword hitting her in the right side.  Mulan falls back grabbing her right side.  Shan-Yu's horse stumbles.</line>
+    <line>Mulan uses this break to bolt away from the avalanche.  Shan-Yu gains his composure and starts to gallop away from the avalanche on his</line>
+    <line>horse.  Shang looks with shock as hee sees the avalanche coming toward him.   Mulan grabs Shang as she passes by him, turning him</line>
+    <line>around and helping him run away from the avalanche]</line>
+    <line>Yao, Chien-Po and Ling [running towards the oncoming avalanche]:  Yeeahhhhhh!  [they stop.  noticing the oncoming avalanche they  turn</line>
+    <line>around and run back to where they came from]  Waaaaaaaaaa!</line>
+    <line>[Khan jumps away from the troops position and starts to run towards Mulan passing Ling, Yao and Chien-Po. The avalanche swallows up</line>
+    <line>Shan-Yu and his horse.  Khan arrives at Mulan's position just ahead of the avalanche.  Mulan jumps onto Khan and reaches for Shang.  She</line>
+    <line>grabs his hand, then the avalanche rushes forth breaking their grip, turning Khan around facing the oncoming avalanche of snow]</line>
+    <line>[Cut to Ling, Yao and Chien-Po standing behind a rock.  They see the snow approaching close and run to larger shelter where the rest of</line>
+    <line>Shang's army is positioned just as the avalance reaches their posision]</line>
+    <line>[Cut to Mushu riding down the snow on a shield]</line>
+    <line>Mushu [calling out]:  Mulan!  Mulan!  [seeing hair sticking up from the snow] Mulan?  [Mushu picks up the Hun by the hair]</line>
+    <line>Hun Soldier:  Arrrrr.</line>
+    <line>Mushu [pushing the hun soldier back under the snow]:  Nope.  Mulan!  [Mushu picks up Cri-Kee out of the snow]  Man, you are one lucky</line>
+    <line>bug.</line>
+    <line>[Cut to Mulan riding Khan above the snow into the teeth of the avalanche.  Khan and Mulan are swept under by the snow and reemerge</line>
+    <line>quickly.  She looks back and sees Shang passed out riding the wave of snow]</line>
+    <line>Mulan [calling loudly]:  Shang, Shang!  [Mulan turns around and rides to Shang's position.  She picks him up and places him on Khan.  She</line>
+    <line>turns Khan around again to be riding upstream]</line>
+    <line>[Cut to Chien-Po with Ling standing on him and Yao standing on top of Ling]</line>
+    <line>Chien-Po:  Do you see them?</line>
+    <line>Yao [extatically]:  Yes! [Yao shoots an arrow with a rope attached]  Perfect!  Now I'll pull them to safe--[Yao grasps at air as the rope</line>
+    <line>completely passed through his hands]--ty.</line>
+    <line>[Cut to Mulan and Shang on Khan with Mushu and Cri-Kee riding up to her on his shield]</line>
+    <line>Mushu [riding on the shield up to Mulan, Khan and Shang speaking loudly, above the noise of the avalanche]:  Hey Mulan, I found a lucky</line>
+    <line>cricket.</line>
+    <line>Mulan [speaking loudly]:  We need help!  [Yao's arrow lands near by Mulan and she picks it up and starts to tie the rope to Khan]</line>
+    <line>Mushu [Getting off the shield and carrying Cri-Kee with him]:  Ooo, nice, very nice, you can sit by me.  [Mushu sees that they're about to fall</line>
+    <line>over the cliff.  He and Cri-Kee look frightened] Ahhhhh!  We're gonna die!  We're gonna die!  I know we're gonna die!  No way we can</line>
+    <line>survive this!  Death is coming! [Mulan knocks the arrow and shoots it toward Yao]</line>
+    <line>Yao [crying]:  I let them slip through my fingers. [Mulan's arrow lands in Yao's hands.  He grabs on and is pulled toward the cliff, the soldiers</line>
+    <line>grab onto Yao and hold him steady near the cliff edge with the rope taught over the cliff]</line>
+    <line>Yao:  Pull</line>
+    <line>[Chien-Po prays as he calmly walks up to the group of soldiers.  He lifts them all up and pulls backward hauling Mulan, Shang, Khan, Mushu</line>
+    <line>and Cri-Kee to safety]</line>
+    <line>Mushu:  I knew we could to it.  You da man. [Mulan looks pleased] Well sorta. [Mulan grimaces]</line>
+    <line>[The soldiers help them up to the cliff]</line>
+    <line>Ling:  Step back guys, give 'em some air.</line>
+    <line>Shang [catching his breath]:  Ping, you are the craziest man I've ever met.  And for that I owe you my life.  From now on, you have my trust.</line>
+    <line>[Mulan smiles big]</line>
+    <line>Ling:  Let's hear it for Ping!  The bravest of us all.</line>
+    <line>Yao [lifting his arm high]:  You're king of the mountain!</line>
+    <line>Chien-Po [jumping up and down]:  Yes, yes, yes!</line>
+    <line>Mulan [beginning to stand up]:  Ahhh, [she clutches her right side]</line>
+    <line>Shang:  Ping, what's wrong?  [Mulan removes her hand slightly to show the blood on her hand and seeping through the armour] [loudly]</line>
+    <line>He's wounded, get help!  [Ping starts to pass out.  The images of Shang, Yao, Ling, and Chien-Po begin to fade as she loses consciousness]</line>
+    <line>Ping, hold on.  Hold on.</line>
+    <line>[Cut to outside of the medic tent.  Mulan and Medic are inside.  Shang stands by the entrance.  Yao, Ling and Chien-Po look quite</line>
+    <line>concerned.  Ling drums his fingers on his knees.  The medic comes out from the tent and whispers to Shang.  Shang looks astonished and</line>
+    <line>goes into the tent.  Mulan is lying down.  She opens her eyes, sees Shang and smiles at the sight of him.  She sits up allowing the blanket to</line>
+    <line>fall to her waist revealing her form fitting bandages on her chest.  She sees Shang's surprised look and realizes her feminine form is</line>
+    <line>noticeable]</line>
+    <line>Mulan [gasping as she covers up]: Huh,  I can explain.</line>
+    <line>Chi Fu [stepping into the tent]:  Huh?  So it's true.</line>
+    <line>Mulan [calling after Shang as he steps out of the tent]:  Shang!</line>
+    <line>[Cut to outside the tent.  Chi Fu hauls out Mulan by the arm.  Mulan uses her other hand to hold the blanket]</line>
+    <line>Chi Fu:  I knew there was something wrong with you.  [Chi Fu takes off Mulan's hair tie and throws her to the ground]  A woman.</line>
+    <line>[Ling, Yao and Chien-Po are shocked]</line>
+    <line>Chi Fu [to the troops]:  Trecherous snake.</line>
+    <line>Mulan [on the ground kneeling and hunched over, speaking to Shang]:  My name is Mulan.  I did it to save my father.</line>
+    <line>Chi Fu [to the troops]:  High treason!</line>
+    <line>Mulan:  I didn't mean for it to go this far.</line>
+    <line>Chi Fu [getting in Mulan's face and speaking to her while she whinces]:  Ultimate dishonor.</line>
+    <line>Mulan:  It was the only way.  Please believe me.</line>
+    <line>Chi Fu [to Shang]:  Hmph, Captain?</line>
+    <line>[Shang walks over to Khan and takes the sword out of the scabbard attached to Khan.  Khan rears back]</line>
+    <line>Chi Fu [to the soldier by Khan]:  Restrain him.</line>
+    <line>[Shang walks toward Mulan with sword in hand]</line>
+    <line>Yao, Ling and Chien-Po [rushing toward Mulan]:  Noooooo!</line>
+    <line>Chi Fu [putting his hand to stop Ling, Yao, and Chien-Po from proceeding further]:  You know the law.</line>
+    <line>[Shang stands over Mulan.  Mulan looks at Shang then bows her head in anticipation.  Shang lifts the sword high above his head and throws</line>
+    <line>it down in front of Mulan]</line>
+    <line>Shang:  A life for a life.  My debt is repaid.  [turns and walks towards the Imperial City]  Move out!</line>
+    <line>Chi Fu [coming up to Shang's face]:  But you can't just...</line>
+    <line>Shang [getting in Chi Fu's face]:  I said, "Move out!"</line>
+    <line>[The troops walk off toward the Imperial City leaving Mulan behind with Khan, Cri-Kee, and Mushu.  Mulan is sitting, shivering. Khan takes</line>
+    <line>his blanket and wraps it around Mulan with his mouth and sits behind her.  Cri-Kee lights a fire with twigs.  When he doesn't get warm, he</line>
+    <line>moves under the blanket wrapped around Mulan.  Mushu walks toward Mulan carrying a stick]</line>
+    <line>Mushu:  I was this close, this close to impressing the ancestors, getting the top shelf, an entourage.  Man, all my fine work, ffft.  [Mushu picks</line>
+    <line>up a dumpling with his stick, slumps down in front of the fire Cri-Kee made and begins to cook the dumpling over the fire] [glancing up] Hi.</line>
+    <line>Mulan [look of sadness]:  I should never have left home.</line>
+    <line>Mushu:  Eh, come on, you wanted to save your father's life.  Who knew you'd end up shaming him, disgracing your ancestors, and losing all</line>
+    <line>your friends.  You know, you just gotta, you gotta learn to let these things go [looking as if he's about to cry].</line>
+    <line>Mulan:  Maybe I didn't go for my father.  Maybe what I really wanted was to prove I could do things right.  So when I looked in the mirror</line>
+    <line>[picking up her helmet and looking at her reflection in her helmet] I'd see someone worthwhile.  But I was wrong.  I see nothing.  [throws the</line>
+    <line>helmet down and a tear runs down her cheek]</line>
+    <line>Mushu [picking up the helmet and spitting on it]:  Well that's because this just needs a little spit, that's all.  Let me shine this up for ya [wiping</line>
+    <line>the spit to clean the helmet and holding it up to Mulan].   I can see you, look at you, you look so pretty.  [seeing Mulan is not cheered up by</line>
+    <line>his actions, he shows sorrow on his face]  The truth is we're both frauds.  Your ancestors never sent me, they don't even like me.  I mean,</line>
+    <line>you risked your life to help people you love.  I risked your life to help myself.  At least you had good intentions  [Mulan smiles].</line>
+    <line>Cri-Kee [jumping on top of the helmet beginning to bawl]:  Chirp, Chirp, Chirp.  Bawl, Bawl.</line>
+    <line>Mushu:  What!?  What do you mean you're not lucky?  You lied to me?  [Cri-Kee nods] [to Khan]  And what are you? A sheep?</line>
+    <line>Mulan [sadly]:  I'll have to face my father sooner or later.  Let's go home.</line>
+    <line>Mushu:  Yeah, this ain't gonna be pretty.  But, don't you worry, 'kay?  Things'll work out.  We started this thing together and that's how we'll</line>
+    <line>finish. [Mushu hugs Mulan.  Mulan smiles]  I promise.</line>
+    <line>[Cut to Shan-Yu's falcon flying over the avalanche site.  Shan-Yu's hand pops out of the snow.  He gets up and glances around]</line>
+    <line>Shan-Yu [screaming]:  Rrrrrrraaaaaaaaahhh!</line>
+    <line>[Hun Archer, Long-Hair Hun Man, Hun Strong Guy, Hun Bald Man #1, and Hun Bald Man #2 each pop out of the snow and join</line>
+    <line>Shan-Yu.  They set off towards the Imperial City]</line>
+    <line>Mulan [seeing them from behind, gasps]:  Huh.  [Mulan runs, grabs her sword, mounts Khan, and heads out following the Huns to the</line>
+    <line>Imperial City]</line>
+    <line>Mushu:  Home is that way! [points to the opposite direction Mulan is heading]</line>
+    <line>Mulan:  I have to do something.</line>
+    <line>Mushu:  Did you see those Huns!?  They popped out of the snow, like daisies!</line>
+    <line>Mulan:  Are we in this together or not?</line>
+    <line>Cri-Kee [emphatically]:  Chirp, Chirp.</line>
+    <line>Mushu:  Well, let's go kick some Huny buns!  [Jumps onto Khan and utters fighting words as they ride off to the Imperial City]  Wu Hu Ha</line>
+    <line>Ga, Wu Hu Ha Ga</line>
+    <line>[Cut to the victory parade in the Imperial City.  Fireworks go off, kites are flying.  The drummers march by, followed by the flutist, followed</line>
+    <line>by the acrobats.  The Parade Leader follows, then Shang and his men, followed by lion dancers]</line>
+    <line>Parade Leader:  Make way for the heros of China.</line>
+    <line>[Shang leads the men on horseback, all have sorrowful looks on their faces.  Mulan rides up through the crowd and stops.  She looks around</line>
+    <line>and sees Shang in the parade]</line>
+    <line>Mulan [calling out]:  Shang! [riding next to him]</line>
+    <line>Shang [surprised]:  Mulan?</line>
+    <line>Mulan:  The Huns are alive, they're in the city.</line>
+    <line>Shang:  You don't belong here Mulan, go home.</line>
+    <line>Mulan [with a scowl rides khan to the other side of Shang]:  Shang, I saw them in the mountains.  You have to believe me.</line>
+    <line>Shang:  Why should I?</line>
+    <line>Mulan [riding ahead to block Shang's horse]:  Why else would I come back?  You said you'd trust Ping.  Why is Mulan any different?</line>
+    <line>[Shang turns his horse and rides around Mulan and goes forward]</line>
+    <line>Mulan [to Yao, Chien-Po and Ling]:  Keep your eyes open.  I know they're here.  Hya.</line>
+    <line>[Mulan rides off and stops near the entrance to the palace, she dismounts Khan and runs into the palace yard]</line>
+    <line>Mushu:  Now where are you going?</line>
+    <line>Mulan [calling over her shoulder]:  To find someone who will believe me.  [Mulan runs into the palace yard]</line>
+    <line>[Cut to the parade procession stopping in front of the Emperor on the steps of the palace.  Chi Fu stands next to Shang and gives him</line>
+    <line>Shan-Yu's sword.  The Lion dancers stop behind Shang.  A palace man strikes a large gong and the people fall silent]</line>
+    <line>Emperor:  My children, heaven smiles down upon the Middle Kingdom.  China will sleep safely tonight thanks to our brave warriors.</line>
+    <line>[The crowd cheers]</line>
+    <line>[Cut to Mulan at the fringe of the crowd]</line>
+    <line>Mulan [approaching Man #1 laying her hand on his shoulder]:  Sir, the Emperor's in danger! [Man #1 rips his shoulder away from Mulan's</line>
+    <line>touch and moves away] [agitated]  But the Huns are here!  [Mulan walks up to Man #2]  Please, you have to help me.  [Man #2 walks</line>
+    <line>away from Mulan] [turning to Mushu who is standing near her in the yard]  No one will listen!</line>
+    <line>Mushu:  Huh?  Oh, I'm sorry, did you say something?</line>
+    <line>Mulan [irritatedly]:  Mushu!</line>
+    <line>Mushu:  Hey, you're a girl again, remember?</line>
+    <line>[Cut to Shang holding the sword before the Emperor]</line>
+    <line>Shang [kneeling down giving the sword to the Emperor]:  Your Majesty, I present to you the sword of Shan-Yu.</line>
+    <line>Emperor:  I know what this means to you, Captain Li.  Your father would have been very proud.</line>
+    <line>[Shan-Yu's falcon swoops down and takes the sword as Shang is giving it to the Emperor.  The falcon rises above the roof and drops the</line>
+    <line>sword to Shan-Yu who was sitting next to the gargoyles in the shadows blending in.  He rises out of the shadows to catch the sword so that</line>
+    <line>all the people can see his face.  The masses of people gasp at the sight of Shan-Yu.  Shang begins to draw his sword.  All 5 of Shan-Yu's</line>
+    <line>men jump out from behind the dragon knocking down Shang and grab the Emperor knocking off his hat.  Hun Bald Man #1 and #2 carry</line>
+    <line>the Emperor into the Palace.  Long-Haired Hun Man and Hun Strong Guy close the palace doors as Hun archer knocks his arrow retreating</line>
+    <line>into the Palace to threaten would be rescue attempts]</line>
+    <line>Shang [getting up and running toward the closing doors]:  No.</line>
+    <line>Yao [beckoning to the other soldiers]:  C'mon.</line>
+    <line>[Shang reaches the palace doors just as they close with all the Huns inside]</line>
+    <line>Shan-Yu [laughs evily]:  Ha, Ha, Ha, Ha, Ha, Ha.</line>
+    <line>[Shang and his soldiers pick up a big stone statue and use it as a battering ram.  They are unsuccessful at opening the door.  Mulan sees</line>
+    <line>what's going on and arrives at the steps]</line>
+    <line>Mulan [to herself]:  They'll never reach the Emperor in time.  [She looks at the columns and runs near to the Shang and his soldiers.  She</line>
+    <line>whistles loudly catching the soldiers' attention]  Hey guys, I've got an idea.  [Mulan runs around the palace to the right towards the columns]</line>
+    <line>[Song:  I'll Make a Man Out of You (reprise) plays in the background during the next action sequence]</line>
+    <line>(Be a man)</line>
+    <line>We must be swift as</line>
+    <line>the coursing river</line>
+    <line>(Be a man)</line>
+    <line>With all the force</line>
+    <line>of a great typhoon</line>
+    <line>(Be a man)</line>
+    <line>With all the strength</line>
+    <line>of a raging fire</line>
+    <line>Mysterious as the</line>
+    <line>dark side of the moon</line>
+    <line>[Yao, Ping and Chien-Po look at one another then drop the statue and follow Mulan.  Shang looks astonished.  Around the corner Yao, Ling</line>
+    <line>and Chien-Po begin to take off their armor and dress as women.  Once the transformation is complete, they take out their sashes and</line>
+    <line>prepare to shimmy up the columns.  Shang arrives and taps Mulan on the shoulder.  He takes off his cape and wraps it around the column</line>
+    <line>to signify that he's coming along.  They shimmy up the poles together]</line>
+    <line>[End song]</line>
+    <line>[Cut to Hun Bald Man #1 and #2 arriving with the Emperor and a high balcony within the palace.  Shan-Yu drops down from the roof]</line>
+    <line>Shan-Yu:  Boo.  [Shan-Yu steps into the balcony next to the Emperor] [to Hun Bald Man #1 and #2] Guard the door [they walk off down</line>
+    <line>the stairs that lead to the balcony].  [pacing around the Emperor]  Your walls and armies have fallen, and now it's your turn.  Bow to me.</line>
+    <line>[Cut to the entrance to the stairwell that leads to the balcony.  Hun Bald Man #1 and #2 come down the stairs and close the door, joining</line>
+    <line>Hun Archer Man, Hun Strong Man and Hun Long-Hair Man.  Mulan and company are around the corner]</line>
+    <line>Mulan [whispering]:  Okay, any questions?</line>
+    <line>Yao [whispering]:  Does this dress make me look fat? [Mulan slaps him]  Ow.</line>
+    <line>[Mulan, Yao, Ling and Chien-Po walk out smiling, giggling and trying to act lady-like including holding fans and waving fans]</line>
+    <line>Hun Archer:  Who's there?</line>
+    <line>Hun Bald Man #2 [putting down Hun Bald Man #1's sword]:  Concubines.</line>
+    <line>Hun Bald Man #1:  Ugly concubines.</line>
+    <line>Ling [waving daintily, speaking to Yao]:  Oh he's so cute.</line>
+    <line>[Hun Bald Man #2 smiles and waves back.  Hun Bald Man #1 elbows Hun Bald Man #2.  A bitten apple falls out from beneath Ling's</line>
+    <line>dress.  He pulls the dress out and turns so as not to expose the loss of figure]</line>
+    <line>Shang [from around the corner putting his head down into his hand]:  Aww.</line>
+    <line>[Shan-Yu's Falcon sees Shang and starts to squawk.  Mushu from above singes off all his feathers with his fire breathing]</line>
+    <line>Mushu [to Cri-Kee sitting above him]:  Now that's what I call Mongolian Barbeque.  [Cri-Kee rolls on his back in laughter.  The stunned</line>
+    <line>falcon doesn't do anything]</line>
+    <line>[Hun Bald Man #2 picks up the apple and offers it back to Ling.  Ling, Yao, and Chien-Po pull out the fruit they were using to simulate a</line>
+    <line>woman's chest.  Chien-Po takes his watermelons and smashes them on the heads of Hun Bald Man #1 and #2.  He then smashes their two</line>
+    <line>heads together and they fall to the ground.  Ling pushes the apple into Hun Long-Hair man's mouth and kicks him in the stomach causing</line>
+    <line>Hun Long-Hair Man to stoop over on the ground.  Ling uses his head to crack Hun Long-Hair Man's back.  Hun Strong Guy lunges his fist</line>
+    <line>at Yao and misses, he misses with the other.  Yao grabs the outstretched arm and flips him over onto his head. Mulan kicks away Hun</line>
+    <line>Archer Man's bow and knocked arrow, avoids his strike by turning her back to Hun Archer.  She follows with a left elbow to the stomach</line>
+    <line>followed by a left upper cut knocking Hun Archer to the ground.  She sits on his back and uses the bow to pull his head back]</line>
+    <line>Mulan [calling out]:  Shang, GO!</line>
+    <line>[Shang runs out from behind the corner, charges through the door and runs up the stairs]</line>
+    <line>[Cut to Shan-Yu and the Emperor on the balcony]</line>
+    <line>Shan-Yu:  I tire of your arrogance old man.  [yelling and putting his sword at the emperor's</line>
+    <line>throat] Bow to me!</line>
+    <line>Emperor:  No matter how the wind howls, the mountain cannot bow to it.</line>
+    <line>Shan-Yu:  Then you will kneel in pieces. [Shan-Yu draws back his sword to strike the Emperor]</line>
+    <line>[Shang runs up in time to block the striking blow of Shan-Yu with his sword.  Shang swipes with</line>
+    <line>his sword.  Shan-Yu grabs Shang's arm and throws him towards the edge.  Shang grabs onto a column</line>
+    <line>and he flies over the edge and uses the momentum to swing back and kick Shan-Yu.  Shan-Yu falls</line>
+    <line>to the ground, Shang on top of him. Shang punches Shan-Yu.  Shan-Yu grabs Shang and rolls over</line>
+    <line>forcing Shang to be on his back underneath him.  Shang uses his knee to hit Shan-Yu from behind</line>
+    <line>as he uses his hand to hit him in the head.  Shang forces Shan-Yu onto his back and grabs his arm</line>
+    <line>pulling it behind Shan-Yu's back.  Mulan, Chien-Po, Yao and Ling enter the balcony from the</line>
+    <line>stairs]</line>
+    <line>Mulan:  Chien-Po, get the Emperor.</line>
+    <line>Chien-Po [standing in front of the Emperor and bowing]:  Sorry, your Majesty.</line>
+    <line>[Chien-Po lifts up the Emperor and runs over to Mulan who is by a rope attached to a column in</line>
+    <line>the balcony.  Chien-Po uses his sash as a pulley and rides down the rope to the ground.  Shan Yu</line>
+    <line>watches the Emperor leave]</line>
+    <line>Shan-Yu:  No!</line>
+    <line>[Shan-Yu uses his free arm to elbow Shang in the face.  Shan-Yu gets up and head-butts Shang and</line>
+    <line>throws him to the ground.  Shang lies limp.  Mulan watches Shang fall then she looks over the</line>
+    <line>edge at Ling and Yao now on the ground.  Chien-Po runs off the screen out of sight]</line>
+    <line>Yao [motioning her to follow]:  Come on!</line>
+    <line>[Mulan looks down at Shang with a worried look.  Shan-Yu begins to approach Mulan and the rope.</line>
+    <line>Mulan looks at the approaching Shan-Yu and then down to spy his sword. Thinking quickly, Mulan grabs</line>
+    <line>Shan-Yu's sword and cuts the taught rope.  Shan-Yu reaches the edge and grabs for the falling rope unsuccessfully as Mulan leaves the</line>
+    <line>sword embedded in the column and runs to Shang's position.  The crowd cheers]</line>
+    <line>Shan-Yu:  No!  [He looks down at the crowd and realizes he cannot find the Emperor among the</line>
+    <line>throng of people]  Yrraaaaahhhh!</line>
+    <line>[Shan-Yu turns and looks back and sees Mulan looking concerned, holding up Shang.  Shan-Yu pulls</line>
+    <line>out his sword lodged in the column and heads toward them.  As Shang sees Shan-Yu approaching, he</line>
+    <line>puts his arm in front of Mulan to ask her to leave and takes out his knife.  Mulan slides away.</line>
+    <line>Shan-Yu comes up to Shang, knocks away his knife, slaps him in the face, and grabs Shang by the</line>
+    <line>shirt collar]</line>
+    <line>Shan-Yu [in Shang's face]:  You, you took away my victory.</line>
+    <line>[Mulan's shoe hits Shan-Yu in the head and bounces back to her feet.  Shan-Yu turns toward Mulan]</line>
+    <line>Mulan:  No!  I did!  [Mulan pulls her hair back to look like she did when she was a soldier]</line>
+    <line>Shan-Yu [looking at Mulan]:  The soldier from the mountains.</line>
+    <line>[Shan-Yu drops Shang and starts after Mulan as she puts on her shoe and runs down the stairs and</line>
+    <line>through the doors to the balcony.  She closes the door with the latch falling in place right</line>
+    <line>behind her.  She leans against the doors.  Shan-Yu punches a hole in one door with his fist.</line>
+    <line>Mulan runs away from the doors down the corridor.  Mushu riding Shan-Yu's falcon like a horse</line>
+    <line>catches up with Mulan]</line>
+    <line>Mushu:  So what's the plan?</line>
+    <line>Mulan:  Ummmm.</line>
+    <line>Mushu:  You don't have a plan?!</line>
+    <line>Mulan:  Hey, I'm making this up as I...[looks out a window and spies the firework tower] go.</line>
+    <line>Mushu--</line>
+    <line>Mushu:  I'm way ahead of you sister.  C'mon Cri-Kee. [Mushu and Cri-Kee jump onto a kite and use</line>
+    <line>the wings to soar over toward the fireworks tower]</line>
+    <line>[Cut to Shan-Yu.  Shan-Yu breaks through the doors and catches up to Mulan swinging his sword</line>
+    <line>wildly knocking down a support column with every swipe.  Mulan runs and ducks his every blow.</line>
+    <line>Mulan climbs up a column to get out of Shan-Yu's reach.  Shan-Yu slices the base of the column</line>
+    <line>causing it to fall and break through the outer wall.  Mulan screams as the beam falls and comes</line>
+    <line>to a stop.  Mulan gets up on the beam and jumps up to catch onto the awning.  She looks off to</line>
+    <line>her right and spies Mushu arriving at the fireworks tower]</line>
+    <line>[Zoom in on the fireworks tower.  Mushu lands near Barry Cook and Tony Bancroft (the firework</line>
+    <line>lighters) on the edge of the tower]</line>
+    <line>Mushu:  Citizens, I need firepower.</line>
+    <line>Barry Cook:  Who are you?</line>
+    <line>Mushu [Mushu (using the wings from the kite) and Cri-Kee with wings spread like batman]:  You're</line>
+    <line>worst nightmare.</line>
+    <line>[Barry Cook and Tony Bancroft jump off the tower and plunge toward the ground]</line>
+    <line>[Cut to Mulan. She pulls herself onto the roof and climbs up to the crest]</line>
+    <line>Man in Crowd #1:  On the roof.</line>
+    <line>Man in Crowd #2:  Look!</line>
+    <line>[Mulan lines up where she is standing with the fireworks tower across the way.  Shan-Yu breaks</line>
+    <line>through the roof behind Mulan surprising her.  Mulan backs away and searches for something on her</line>
+    <line>person to help her against Shan-Yu.  She finds a her fan, takes it out, and opens it]</line>
+    <line>Shan-Yu:  It looks like you're out of ideas.</line>
+    <line>[Shan-Yu lunges with his sword.  Mulan dodges to her right and lets the sword go right through</line>
+    <line>the fan.  She closes the fan back up on the sword and twists the fan with both hands so that</line>
+    <line>Shan-Yu loses his grip.  The sword flies toward Mulan and she catches it by the handle slipping</line>
+    <line>off the fan with her sword movement]</line>
+    <line>Mulan:  Not quite.  [calling out]  Ready, Mushu?</line>
+    <line>Mushu [behind Shan-Yu tied to a large rocket firework]:  I am ready, baby. [He blows fire onto a</line>
+    <line>stick and hands the stick to Cri-Kee who's standing on the firework]  Light me!  [Cri-Kee lights</line>
+    <line>the fuse]</line>
+    <line>[Shan-Yu approaches Mulan.  Using the sword as a lever, Mulan lunges at Shan-Yu kicking him in</line>
+    <line>the face then sweep kicks him and he falls to the ground.  Mulan picks the sword back up and</line>
+    <line>stabs it into Shan-Yu's cape.  The rocket on Mushu ignites and hurls him toward Shan-Yu.  Mulan</line>
+    <line>lies flat down on the left side of the roof.  Shan-Yu sees the approaching rocket and tries to</line>
+    <line>run, but the sword has him pinned to the spot.  The rocket hits Shan-Yu square in the belly</line>
+    <line>propelling him toward the firework tower.  Mushu grabbed onto the sword as he went by letting the</line>
+    <line>rocket do the work.  Cri-Kee hangs on to Mushu's tail.  Mulan jumps back up to the crest of the</line>
+    <line>roof and runs away from the fireworks tower grabbing Mushu and Cri-Kee off the sword]</line>
+    <line>Mulan [while running]:  Get off the roof, get off the roof, get off the roof.</line>
+    <line>[The rocket rides Shan-Yu into the fireworks tower causing masses of explosions and fireworks to</line>
+    <line>fly everywhere.  Mulan jumps near the edge of the roof.  Propelled by the explosion, she grabs</line>
+    <line>onto a lantern that is hanging on a taught rope and starts to slide down.  She looks down and</line>
+    <line>releases her grip so that she lands on the back of Shang causing the two of them to fall to the</line>
+    <line>ground.  Shan-Yu's sword follows and lands on the ground near by]</line>
+    <line>Mushu [landing and flying backwards on his butt a couple of times pointing at the fireworks]:  Ah</line>
+    <line>ha ha ha ha.  [Mushu's catches Cri-Kee with antenna on fire as Cri-Kee falls toward him] [to</line>
+    <line>Cri-Kee]  You are a lucky bug. [Mushu pinches out the fire on Cri-Kee's antenna]</line>
+    <line>Chi Fu [walking down the stairs in a tattered outfit and slightly burned]:  That was a deliberate</line>
+    <line>attempt on my life.  Where is she?  Now she's done it.  What a mess.  [Shang and troops push</line>
+    <line>Mulan behind them to protect her] [to Shang] Stand aside, that creature's not worth protecting.</line>
+    <line>Shang [in Chi Fu's face]:  She's a hero.</line>
+    <line>Chi Fu:  'Tis a woman.  She will never be worth anything.</line>
+    <line>Shang [grabbing Chi Fu by the shirt collar]:  Listen, you pompous--</line>
+    <line>Emperor [walking down the steps]:  That is enough!</line>
+    <line>Shang:  Your Majesty, I can explain.</line>
+    <line>[The Emperor motions for Shang to stand aside.  Shang and his men part giving the Emperor a clear</line>
+    <line>path to Mulan.  Mulan steps forward and bows before the Emperor.  Chi Fu with a sinister look</line>
+    <line>waits to write down the words of the Emperor]</line>
+    <line>Emperor:  I've heard a great deal about you, Fa Mulan.  You stole your father's armor, ran away</line>
+    <line>from home, impersonated a soldier, deceived your commanding officer, dishonored the Chinese army,</line>
+    <line>destroyed my palace, AND...you have saved us all.  [the Emperor bows to Mulan]</line>
+    <line>[Chi Fu looks at the Emperor actions astonishingly then immediately falls prostrate before Mulan.</line>
+    <line>Shang, Yao, Ling, and Chien-Po follow suit.  Mulan looks up then turns around hardly believing</line>
+    <line>what she sees as the entire Chinese population within the palace grounds fall prostrate on the</line>
+    <line>ground in a wave like pattern, bowing to her.  Khan bows with Mushu and Cri-Kee on his back]</line>
+    <line>Mushu:  My little baby's all grown up and savin' China.  [to Cri-Kee] You have a tissue?</line>
+    <line>Emperor:  Chi Fu,</line>
+    <line>Chi Fu:  Your Excellency?</line>
+    <line>Emperor:  See to it that this woman is made a member of my council.</line>
+    <line>Chi Fu [muttering to himself]:  A member of your coun...[realizing what the Emperor has said]</line>
+    <line>what? [stutters] But there are no council positions open, your Majesty.</line>
+    <line>Emperor [to Mulan]:  Very well then, you can have his job [pointing out Chi Fu].</line>
+    <line>Chi Fu [wobbling to and fro]:  What?...My...[faints]</line>
+    <line>Mulan [smiles big then turns to the Emperor and bows]:  With all due respect, your Excellency.  I</line>
+    <line>have been away from home long enough.</line>
+    <line>Emperor [taking off his pendant]:  Then take this, so your family will know what you have done</line>
+    <line>for me.  And this [handing her the sword of Shan-Yu]  so the world will know what you have done</line>
+    <line>for China.</line>
+    <line>[Mulan takes the gifts and hugs the Emperor]</line>
+    <line>Yao:  Is she allowed to do that?  [Shang, Ling, and Chien-Po shrug]</line>
+    <line>[Mulan walks away from the Emperor and is embraced by Yao and Ling.  Chien-Po comes up and lifts</line>
+    <line>all three of them off the ground in a big bear hug.  Chien-Po lets them all back to the ground</line>
+    <line>again.  Mulan walks toward Shang and stops in front of him.  As Shang begins to speak Mulan</line>
+    <line>starts to smile anticipating something good]</line>
+    <line>Shang:  Um...[Mulan grins]  You... [Mulan smiles] You fight good.</line>
+    <line>Mulan [smile turning into disappointment]:  Oh, thank you.  [Mulan walks toward Khan]</line>
+    <line>Shang: [turning toward Mulan and grunts with disappointment in himself]:  Hmm.</line>
+    <line>[Mulan mounts Khan]</line>
+    <line>Mulan:  Khan, let's go home.</line>
+    <line>[Khan jumps down the steps and gallops on the flat parts of the stair case back down to ground</line>
+    <line>level.  The crowd cheers al the while.  The Emperor approaches Shang and clears his throat]</line>
+    <line>Emperor [to Shang]:  The flower that blooms in adversity is the most rare and beautiful of all.</line>
+    <line>Shang [dumbfounded]:  Sir?</line>
+    <line>Emperor:  You don't meet a girl like that ev'ry dynasty.  [The emperor puts on his hat and walks</line>
+    <line>back up the steps to his palace]</line>
+    <line>[Cut to Mulan's home, her father is sitting beneath the blossom tree.   A blossom falls and lands</line>
+    <line>on his leg.  Mulan appears at the threshold and moves toward her father.  Fa Zhou sees her</line>
+    <line>approaching and starts to stand]</line>
+    <line>Fa Zhou:  Mulan.</line>
+    <line>[Mulan quickly moves in front of her father and kneels causing him to sit back down]</line>
+    <line>Mulan:  Father, I brought you the sword of Shan-Yu [hands the sword to Fa Zhou] and the crest of</line>
+    <line>the Emperor [hands the crest to Fa Zhou].  [with head bowed] They're gifts to honor the Fa</line>
+    <line>Family.</line>
+    <line>[Fa Zhou takes the gifts and throws them down to the ground beside him to the surprise of Mulan.</line>
+    <line>He bends down and holds her arms outstretched]</line>
+    <line>Fa Zhou:  The greatest gift and honor, is having you for a daughter.  [Fa Zhou wipes away Mulan's</line>
+    <line>tear then hugs Mulan]  I've missed you so.</line>
+    <line>Mulan:  I've missed you too Baba.</line>
+    <line>[Fa li and Grandma Fa watch from the doorway]</line>
+    <line>Fa Li [sighing]:  Ahhhhh</line>
+    <line>Grandma Fa:  Great, she brings home a sword.  If you ask me she should have brought home a</line>
+    <line>ma--[leaving her mouth open when she sees Shang]</line>
+    <line>Shang [just arriving]:  Excuse me, does Fa Mulan live here?</line>
+    <line>[Grandma Fa's mouth stays open as she and Fa Li point toward Mulan's position.  Shang walks</line>
+    <line>toward Mulan and Fa Zhou]</line>
+    <line>Grandma Fa:  Woo, sign me up for the next war.</line>
+    <line>[Shang approaches seeing Fa Zhou]</line>
+    <line>Shang [bows before Fa Zhou and speaks confidently]:  Honorable Fa Zhou I--Mulan [Mulan steps up.</line>
+    <line>Shang sees her and speaks insecurely] Uh...Uh...You forgot your helmet.  Ah but well, actually</line>
+    <line>it's your helmet, isn't it?...[handing the helmet toward Fa Zhou] I mean...</line>
+    <line>[Fa Zhou motions with his head for Mulan to take over.  Mulan holds the helmet Shang offers]</line>
+    <line>Mulan:  Would you like to stay for dinner?</line>
+    <line>Grandma Fa [speaking from stage right]:  Would you like to stay forever? [Mulan shakes her head with a</line>
+    <line>smile at Grandma Fa's statement]</line>
+    <line>Shang [reassuredly to Mulan]:  Dinner would be great.</line>
+    <line>[Cut to First Ancestor grinning happily looking at the scene through the temple window.  He watches Mulan hand the helmet back to Fa</line>
+    <line>Zhou.  Mushu climbs up to the window sill by First Ancestor's his head]</line>
+    <line>Mushu [tugging on First Ancestor's ear]:  C'mon, who did a good job?  C'mon, tell me who did a</line>
+    <line>good job.</line>
+    <line>First Ancestor [hesitantly]:  Oh, all right.  You can be a guardian again.</line>
+    <line>Mushu: Yeeeeeahhhhhhh.  [Mushu runs to his post and Cri-Kee bangs the gong awakening all the</line>
+    <line>ancestors]</line>
+    <line>Mushu:  Take it Cri-Kee.</line>
+    <line>[Song:  True to Your Heart -- No characters sing in the song]</line>
+    <line>[Ancestor 1 does a dance from Pulp Fiction while Ancestor 3 does the Hand Jive]</line>
+    <line>Ancestor 3 [spoken to Ancestor 1]:  She get's it from my side of the family.</line>
+    <line>Mushu [spoken while swinging on a chain]:  Call out for egg rolls!</line>
+    <line>First Ancestor [disgusted]:  Guardians.</line>
+    <line>[Mushu lands on the steps outside the temple.  Mulan walks up to him and rests besides him on the</line>
+    <line>steps]</line>
+    <line>Mulan:  Thanks, Mushu [kisses Mushu on the forehead].</line>
+    <line>Little Brother:  Bark, bark, bark, bark, bark, bark, bark</line>
+    <line>[Little brother runs up the steps and into the temple with the bag of grain tied to him.  The</line>
+    <line>chickens follow him in]</line>
+    <line>First Ancestor [annoyed]:  Mushu!</line>
+    <line>[Roll Credits]</line>
+    <line>[The End]</line>
+</screenplay>
