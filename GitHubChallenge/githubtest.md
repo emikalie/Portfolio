@@ -8,4 +8,4 @@ github challenge 2/10/25: https://github.com/emikalie/Portfolio/tree/main/RegX/m
 
 github challenge 2/10/25: 
 
-github challenge 2/12/25: 
+github challenge 2/12/25: https://github.com/emikalie/Portfolio/tree/main/RegX/mulan/part2
