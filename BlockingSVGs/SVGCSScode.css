@@ -1,0 +1,24 @@
+.svg-block {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.svg-container {
+  flex: 1 1 300px;
+  max-width: 45%;
+  text-align: center;
+}
+
+.svg-container img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+}
+
+.caption {
+  font-style: italic;
+  margin-top: 0.5rem;
+}
