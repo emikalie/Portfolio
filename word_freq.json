@@ -1,0 +1,5918 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.10.3",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "cytoscape_input.tsv",
+    "name" : "cytoscape_input.tsv",
+    "SUID" : 7090,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "7539",
+        "shared_name" : "one (CARDINAL)",
+        "name" : "one (CARDINAL)",
+        "SUID" : 7539,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 12.064253787387088,
+        "y" : -159.84440837406885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7537",
+        "shared_name" : "Bryan Adams (PERSON)",
+        "name" : "Bryan Adams (PERSON)",
+        "SUID" : 7537,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -70.55536367477112,
+        "y" : 85.69648518061865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7535",
+        "shared_name" : "World w*r III (EVENT)",
+        "name" : "World w*r III (EVENT)",
+        "SUID" : 7535,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -13.584626217495725,
+        "y" : 69.85676350093115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7533",
+        "shared_name" : "Adrian (NORP)",
+        "name" : "Adrian (NORP)",
+        "SUID" : 7533,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 172.1359853547699,
+        "y" : -360.04912028813135
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7531",
+        "shared_name" : "Poconos",
+        "name" : "Poconos",
+        "SUID" : 7531,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 137.61480615555115,
+        "y" : 86.57893146968115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7529",
+        "shared_name" : "Wee",
+        "name" : "Wee",
+        "SUID" : 7529,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 171.5068349641449,
+        "y" : -50.88102946781885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7527",
+        "shared_name" : "Oui",
+        "name" : "Oui",
+        "SUID" : 7527,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -420.0952463346832,
+        "y" : 94.57990803218115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7525",
+        "shared_name" : "Paris",
+        "name" : "Paris",
+        "SUID" : 7525,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -273.38316442550354,
+        "y" : -414.6420768311001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7523",
+        "shared_name" : "Ooh",
+        "name" : "Ooh",
+        "SUID" : 7523,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -410.4707040983551,
+        "y" : 37.06342853999365
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7521",
+        "shared_name" : "Poconos (GPE)",
+        "name" : "Poconos (GPE)",
+        "SUID" : 7521,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -553.1001749235504,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7519",
+        "shared_name" : "Gwendolyn",
+        "name" : "Gwendolyn",
+        "SUID" : 7519,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -550.7785844999664,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7517",
+        "shared_name" : "Wee His dad (WORK_OF_ART)",
+        "name" : "Wee His dad (WORK_OF_ART)",
+        "SUID" : 7517,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 830.6729192536957,
+        "y" : -851.1069205811001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7515",
+        "shared_name" : "England",
+        "name" : "England",
+        "SUID" : 7515,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 744.8641423982269,
+        "y" : -782.4932426025845
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7513",
+        "shared_name" : "Oui (PERSON)",
+        "name" : "Oui (PERSON)",
+        "SUID" : 7513,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -12.872605343472287,
+        "y" : -226.76652751469385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7511",
+        "shared_name" : "Paris (GPE)",
+        "name" : "Paris (GPE)",
+        "SUID" : 7511,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -184.19597723067932,
+        "y" : -304.783159594772
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7509",
+        "shared_name" : "Gwendolyn (PERSON)",
+        "name" : "Gwendolyn (PERSON)",
+        "SUID" : 7509,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 384.67938135086365,
+        "y" : -206.46025310063135
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7507",
+        "shared_name" : "Fisk",
+        "name" : "Fisk",
+        "SUID" : 7507,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 930.6729192536957,
+        "y" : -851.1069205811001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7505",
+        "shared_name" : "England (GPE)",
+        "name" : "England (GPE)",
+        "SUID" : 7505,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1019.8304509919769,
+        "y" : -789.0739921143032
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7503",
+        "shared_name" : "Judge",
+        "name" : "Judge",
+        "SUID" : 7503,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1102.782599429477,
+        "y" : -720.2486747314907
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7501",
+        "shared_name" : "Fisk (PERSON)",
+        "name" : "Fisk (PERSON)",
+        "SUID" : 7501,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -483.78643896163635,
+        "y" : 4.344678539993652
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7499",
+        "shared_name" : "22 year old (DATE)",
+        "name" : "22 year old (DATE)",
+        "SUID" : 7499,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -250.8332071501129,
+        "y" : -245.11906657719385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7497",
+        "shared_name" : "Lorraine (GPE)",
+        "name" : "Lorraine (GPE)",
+        "SUID" : 7497,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -441.373261471402,
+        "y" : -58.2838004639126
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7495",
+        "shared_name" : "1983 (DATE)",
+        "name" : "1983 (DATE)",
+        "SUID" : 7495,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 19.989211062777713,
+        "y" : -700.5920432617642
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7493",
+        "shared_name" : "constructive",
+        "name" : "constructive",
+        "SUID" : 7493,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 64.07179162918396,
+        "y" : 169.0211311767124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7491",
+        "shared_name" : "One (CARDINAL)",
+        "name" : "One (CARDINAL)",
+        "SUID" : 7491,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -10.455040951382443,
+        "y" : 13.960523266556152
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7489",
+        "shared_name" : "Gleen (GPE)",
+        "name" : "Gleen (GPE)",
+        "SUID" : 7489,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -531.3213815885895,
+        "y" : -165.98137126469385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7487",
+        "shared_name" : "Possessive",
+        "name" : "Possessive",
+        "SUID" : 7487,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -256.3914041715973,
+        "y" : 103.85371174311865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7485",
+        "shared_name" : "1,200 (MONEY)",
+        "name" : "1,200 (MONEY)",
+        "SUID" : 7485,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -450.7785844999664,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7483",
+        "shared_name" : "Pauline",
+        "name" : "Pauline",
+        "SUID" : 7483,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -448.45699407638244,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7481",
+        "shared_name" : "Wife",
+        "name" : "Wife",
+        "SUID" : 7481,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -388.2728586393707,
+        "y" : -233.76848063969385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7479",
+        "shared_name" : "Las",
+        "name" : "Las",
+        "SUID" : 7479,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -23.3818369108551,
+        "y" : -423.1050132324673
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7477",
+        "shared_name" : "One night (TIME)",
+        "name" : "One night (TIME)",
+        "SUID" : 7477,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 28.1840810578949,
+        "y" : -26.8362906982876
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7475",
+        "shared_name" : "Pauline (PERSON)",
+        "name" : "Pauline (PERSON)",
+        "SUID" : 7475,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 232.84503076492615,
+        "y" : -224.03532634281885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7473",
+        "shared_name" : "only two years (DATE)",
+        "name" : "only two years (DATE)",
+        "SUID" : 7473,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1202.782599429477,
+        "y" : -639.9856742432095
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7471",
+        "shared_name" : "Las. (GPE)",
+        "name" : "Las. (GPE)",
+        "SUID" : 7471,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -916.9836435514801,
+        "y" : -218.4589713623501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7469",
+        "shared_name" : "Spousal",
+        "name" : "Spousal",
+        "SUID" : 7469,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 193.92608545242615,
+        "y" : 28.2431770751499
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7467",
+        "shared_name" : "second (ORDINAL)",
+        "name" : "second (ORDINAL)",
+        "SUID" : 7467,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1250.2281102937347,
+        "y" : -851.1069205811001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7465",
+        "shared_name" : "Martin",
+        "name" : "Martin",
+        "SUID" : 7465,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1228.3354100984222,
+        "y" : -744.7177909424282
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7463",
+        "shared_name" : "Adrian",
+        "name" : "Adrian",
+        "SUID" : 7463,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -794.4528207975738,
+        "y" : -181.86738811039697
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7461",
+        "shared_name" : "Robert",
+        "name" : "Robert",
+        "SUID" : 7461,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -366.1240701872223,
+        "y" : 138.62861408686865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7459",
+        "shared_name" : "April",
+        "name" : "April",
+        "SUID" : 7459,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1350.2281102937347,
+        "y" : -851.1069205811001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7457",
+        "shared_name" : "Spousal (PERSON)",
+        "name" : "Spousal (PERSON)",
+        "SUID" : 7457,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -348.45699407638244,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7455",
+        "shared_name" : "March",
+        "name" : "March",
+        "SUID" : 7455,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -346.13540365279846,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7453",
+        "shared_name" : "Adrian Martin (PERSON)",
+        "name" : "Adrian Martin (PERSON)",
+        "SUID" : 7453,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1439.385642032016,
+        "y" : -789.0739921143032
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7451",
+        "shared_name" : "Yup",
+        "name" : "Yup",
+        "SUID" : 7451,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1522.337790469516,
+        "y" : -720.2486747314907
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7449",
+        "shared_name" : "Robert Deamer (PERSON)",
+        "name" : "Robert Deamer (PERSON)",
+        "SUID" : 7449,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -400.52069189132385,
+        "y" : 579.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7447",
+        "shared_name" : "monthly (DATE)",
+        "name" : "monthly (DATE)",
+        "SUID" : 7447,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -995.4367075163238,
+        "y" : 890.856244702103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7445",
+        "shared_name" : "Bye",
+        "name" : "Bye",
+        "SUID" : 7445,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -349.3876962858551,
+        "y" : 460.3073860595249
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7443",
+        "shared_name" : "April 10 (DATE)",
+        "name" : "April 10 (DATE)",
+        "SUID" : 7443,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -947.991196652066,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7441",
+        "shared_name" : "Lil",
+        "name" : "Lil",
+        "SUID" : 7441,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -969.8838968473785,
+        "y" : 786.1241280028843
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7439",
+        "shared_name" : "200 (MONEY)",
+        "name" : "200 (MONEY)",
+        "SUID" : 7439,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -289.59515478194885,
+        "y" : 311.1789680907749
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7437",
+        "shared_name" : "March 10, 1979 (DATE)",
+        "name" : "March 10, 1979 (DATE)",
+        "SUID" : 7437,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -173.11064626754455,
+        "y" : -123.20744548344385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7435",
+        "shared_name" : "a fun night (TIME)",
+        "name" : "a fun night (TIME)",
+        "SUID" : 7435,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -128.55444743217163,
+        "y" : 266.41535725093115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7433",
+        "shared_name" : "Lil (PERSON)",
+        "name" : "Lil (PERSON)",
+        "SUID" : 7433,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 239.9572744172699,
+        "y" : -358.95952067875635
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7431",
+        "shared_name" : "Love (WORK_OF_ART)",
+        "name" : "Love (WORK_OF_ART)",
+        "SUID" : 7431,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 209.32028100906678,
+        "y" : -405.9261344482876
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7429",
+        "shared_name" : "tonight (TIME)",
+        "name" : "tonight (TIME)",
+        "SUID" : 7429,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 63.344695071566775,
+        "y" : 12.829724926712402
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7427",
+        "shared_name" : "navy",
+        "name" : "navy",
+        "SUID" : 7427,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 138.16860864578553,
+        "y" : 24.9292122313999
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7425",
+        "shared_name" : "half (CARDINAL)",
+        "name" : "half (CARDINAL)",
+        "SUID" : 7425,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -246.13540365279846,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7423",
+        "shared_name" : "Watching",
+        "name" : "Watching",
+        "SUID" : 7423,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -243.81381322921447,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7421",
+        "shared_name" : "that day (DATE)",
+        "name" : "that day (DATE)",
+        "SUID" : 7421,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 151.31411645828553,
+        "y" : -134.1572135498501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7419",
+        "shared_name" : "last night (TIME)",
+        "name" : "last night (TIME)",
+        "SUID" : 7419,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -433.0255441862457,
+        "y" : -538.3079742004849
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7417",
+        "shared_name" : "Watching (GPE)",
+        "name" : "Watching (GPE)",
+        "SUID" : 7417,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -182.39196111739807,
+        "y" : 31.0727669188999
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7415",
+        "shared_name" : "all morning (TIME)",
+        "name" : "all morning (TIME)",
+        "SUID" : 7415,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -190.51933767379455,
+        "y" : 266.9989143798374
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7413",
+        "shared_name" : "Frank (PERSON)",
+        "name" : "Frank (PERSON)",
+        "SUID" : 7413,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -497.3045358854645,
+        "y" : -542.1060451080776
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7411",
+        "shared_name" : "nine (CARDINAL)",
+        "name" : "nine (CARDINAL)",
+        "SUID" : 7411,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -552.2161569792145,
+        "y" : -426.31462321781885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7409",
+        "shared_name" : "Baby",
+        "name" : "Baby",
+        "SUID" : 7409,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -241.25482275069885,
+        "y" : -368.7101157715298
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7407",
+        "shared_name" : "a 40 minute (TIME)",
+        "name" : "a 40 minute (TIME)",
+        "SUID" : 7407,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -221.53015996993713,
+        "y" : -91.28413615727197
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7405",
+        "shared_name" : "'68 (DATE)",
+        "name" : "'68 (DATE)",
+        "SUID" : 7405,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -559.986542721402,
+        "y" : -117.1198600342251
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7403",
+        "shared_name" : "Gleen",
+        "name" : "Gleen",
+        "SUID" : 7403,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2.5573663908355684,
+        "y" : -559.3891213943936
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7401",
+        "shared_name" : "Hmm (PERSON)",
+        "name" : "Hmm (PERSON)",
+        "SUID" : 7401,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -143.81381322921447,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7399",
+        "shared_name" : "teeny",
+        "name" : "teeny",
+        "SUID" : 7399,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -141.4922228056305,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7397",
+        "shared_name" : "Rob Deamer (PERSON)",
+        "name" : "Rob Deamer (PERSON)",
+        "SUID" : 7397,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -586.3424692350738,
+        "y" : -264.7618583252407
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7395",
+        "shared_name" : "Watch",
+        "name" : "Watch",
+        "SUID" : 7395,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -714.8414926725738,
+        "y" : -305.0325492432095
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7393",
+        "shared_name" : "the month (DATE)",
+        "name" : "the month (DATE)",
+        "SUID" : 7393,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -537.6595163542145,
+        "y" : -492.39267192387354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7391",
+        "shared_name" : "Nine (CARDINAL)",
+        "name" : "Nine (CARDINAL)",
+        "SUID" : 7391,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -536.1002512174957,
+        "y" : -56.68388591313135
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7389",
+        "shared_name" : "p*stol",
+        "name" : "p*stol",
+        "SUID" : 7389,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -17.82813360274963,
+        "y" : 162.75007404780615
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7387",
+        "shared_name" : "that morning (TIME)",
+        "name" : "that morning (TIME)",
+        "SUID" : 7387,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -67.88877584518127,
+        "y" : 9.140576977493652
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7385",
+        "shared_name" : "Deamer (PERSON)",
+        "name" : "Deamer (PERSON)",
+        "SUID" : 7385,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -130.4983524280899,
+        "y" : -221.92787395024072
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7383",
+        "shared_name" : "Firemen",
+        "name" : "Firemen",
+        "SUID" : 7383,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 31.946455935824588,
+        "y" : -389.3857596924282
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7381",
+        "shared_name" : "two (CARDINAL)",
+        "name" : "two (CARDINAL)",
+        "SUID" : 7381,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -303.24029638351135,
+        "y" : -331.80871806645166
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7379",
+        "shared_name" : "20 years later (DATE)",
+        "name" : "20 years later (DATE)",
+        "SUID" : 7379,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 366.1176748078949,
+        "y" : -91.78950725102197
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7377",
+        "shared_name" : "Nice",
+        "name" : "Nice",
+        "SUID" : 7377,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 224.94967554031678,
+        "y" : -24.82438884281885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7375",
+        "shared_name" : "Charred",
+        "name" : "Charred",
+        "SUID" : 7375,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -742.4448862272613,
+        "y" : -613.3557342102505
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7373",
+        "shared_name" : "Lawson (PERSON)",
+        "name" : "Lawson (PERSON)",
+        "SUID" : 7373,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -137.16485549987488,
+        "y" : -5.707872729537598
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7371",
+        "shared_name" : "Rob Deamer's (PERSON)",
+        "name" : "Rob Deamer's (PERSON)",
+        "SUID" : 7371,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -332.00306798995666,
+        "y" : -707.313936572311
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7369",
+        "shared_name" : "all night (TIME)",
+        "name" : "all night (TIME)",
+        "SUID" : 7369,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 362.0196523469574,
+        "y" : -373.8109763672329
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7367",
+        "shared_name" : "Vera",
+        "name" : "Vera",
+        "SUID" : 7367,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 199.65508935867615,
+        "y" : -299.385210376022
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7365",
+        "shared_name" : "expl*sive (NORP)",
+        "name" : "expl*sive (NORP)",
+        "SUID" : 7365,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -41.49222280563049,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7363",
+        "shared_name" : "Four",
+        "name" : "Four",
+        "SUID" : 7363,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -39.170632382046506,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7361",
+        "shared_name" : "Verizon",
+        "name" : "Verizon",
+        "SUID" : 7361,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -84.84294988692932,
+        "y" : -458.3772071411587
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7359",
+        "shared_name" : "AT&T",
+        "name" : "AT&T",
+        "SUID" : 7359,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 136.36099145828553,
+        "y" : -431.6114677002407
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7357",
+        "shared_name" : "Verizon Four (ORG)",
+        "name" : "Verizon Four (ORG)",
+        "SUID" : 7357,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 60.829367617953494,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7355",
+        "shared_name" : "Pennsylvania",
+        "name" : "Pennsylvania",
+        "SUID" : 7355,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 63.15095804153748,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7353",
+        "shared_name" : "AT&T (ORG)",
+        "name" : "AT&T (ORG)",
+        "SUID" : 7353,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -847.991196652066,
+        "y" : 890.856244702103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7351",
+        "shared_name" : "Pennsylvania (GPE)",
+        "name" : "Pennsylvania (GPE)",
+        "SUID" : 7351,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 163.15095804153748,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7349",
+        "shared_name" : "Atlantic",
+        "name" : "Atlantic",
+        "SUID" : 7349,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 165.47254846512146,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7347",
+        "shared_name" : "Bell of (ORG)",
+        "name" : "Bell of (ORG)",
+        "SUID" : 7347,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -800.5456857878082,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7345",
+        "shared_name" : "Bell",
+        "name" : "Bell",
+        "SUID" : 7345,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -822.4383859831207,
+        "y" : 786.1241280028843
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7343",
+        "shared_name" : "Bell Atlantic (ORG)",
+        "name" : "Bell Atlantic (ORG)",
+        "SUID" : 7343,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 289.17388818680115,
+        "y" : -337.4339469482876
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7341",
+        "shared_name" : "Thanks",
+        "name" : "Thanks",
+        "SUID" : 7341,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -184.84113409103088,
+        "y" : -404.6156180908657
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7339",
+        "shared_name" : "Mommy",
+        "name" : "Mommy",
+        "SUID" : 7339,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -463.3414316374176,
+        "y" : 185.1646858642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7337",
+        "shared_name" : "Mommy (PERSON)",
+        "name" : "Mommy (PERSON)",
+        "SUID" : 7337,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -241.13821508468322,
+        "y" : 344.2852913329624
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7335",
+        "shared_name" : "expl*si*n",
+        "name" : "expl*si*n",
+        "SUID" : 7335,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -243.62169744552307,
+        "y" : 177.7900520751499
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7333",
+        "shared_name" : "Technically",
+        "name" : "Technically",
+        "SUID" : 7333,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -330.8255930143707,
+        "y" : -266.592729907272
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7331",
+        "shared_name" : "8 o'clock (TIME)",
+        "name" : "8 o'clock (TIME)",
+        "SUID" : 7331,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 265.47254846512146,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7329",
+        "shared_name" : "Lied",
+        "name" : "Lied",
+        "SUID" : 7329,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 267.79413888870545,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7327",
+        "shared_name" : "mama",
+        "name" : "mama",
+        "SUID" : 7327,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -758.0106210905426,
+        "y" : -78.6860221436001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7325",
+        "shared_name" : "Maria Sanchez (PERSON)",
+        "name" : "Maria Sanchez (PERSON)",
+        "SUID" : 7325,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 367.79413888870545,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7323",
+        "shared_name" : "Holy",
+        "name" : "Holy",
+        "SUID" : 7323,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 370.11572931228943,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7321",
+        "shared_name" : "Sanchez",
+        "name" : "Sanchez",
+        "SUID" : 7321,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 470.30743310867615,
+        "y" : 269.57490314936865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7319",
+        "shared_name" : "20 years (DATE)",
+        "name" : "20 years (DATE)",
+        "SUID" : 7319,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -89.300637264859,
+        "y" : 337.4203010985874
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7317",
+        "shared_name" : "five years old (DATE)",
+        "name" : "five years old (DATE)",
+        "SUID" : 7317,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -700.5456857878082,
+        "y" : 890.856244702103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7315",
+        "shared_name" : "Daughter (PERSON)",
+        "name" : "Daughter (PERSON)",
+        "SUID" : 7315,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 470.11572931228943,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7313",
+        "shared_name" : "Daughter",
+        "name" : "Daughter",
+        "SUID" : 7313,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 472.4373197358734,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7311",
+        "shared_name" : "tomorrow (DATE)",
+        "name" : "tomorrow (DATE)",
+        "SUID" : 7311,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 572.4373197358734,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7309",
+        "shared_name" : "huh",
+        "name" : "huh",
+        "SUID" : 7309,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 574.7589101594574,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7307",
+        "shared_name" : "a month (DATE)",
+        "name" : "a month (DATE)",
+        "SUID" : 7307,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 291.230254153598,
+        "y" : -227.3705924561001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7305",
+        "shared_name" : "20-year-old (DATE)",
+        "name" : "20-year-old (DATE)",
+        "SUID" : 7305,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -41.32695104659729,
+        "y" : 378.9148079345249
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7303",
+        "shared_name" : "Lucy",
+        "name" : "Lucy",
+        "SUID" : 7303,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4.818024654995725,
+        "y" : 508.3658577392124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7301",
+        "shared_name" : "6000 years old (DATE)",
+        "name" : "6000 years old (DATE)",
+        "SUID" : 7301,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 674.7589101594574,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7299",
+        "shared_name" : "Earth",
+        "name" : "Earth",
+        "SUID" : 7299,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 677.0805005830414,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7297",
+        "shared_name" : "Lucy (PERSON)",
+        "name" : "Lucy (PERSON)",
+        "SUID" : 7297,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -653.1001749235504,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7295",
+        "shared_name" : "Louie",
+        "name" : "Louie",
+        "SUID" : 7295,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -674.9928751188629,
+        "y" : 786.1241280028843
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7293",
+        "shared_name" : "Earth (LOC)",
+        "name" : "Earth (LOC)",
+        "SUID" : 7293,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 313.6392507356293,
+        "y" : -59.0649283936001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7291",
+        "shared_name" : "Louie (PERSON)",
+        "name" : "Louie (PERSON)",
+        "SUID" : 7291,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 368.0224599641449,
+        "y" : 187.92524494624365
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7289",
+        "shared_name" : "Hmm",
+        "name" : "Hmm",
+        "SUID" : 7289,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 240.01937768875428,
+        "y" : 84.69795002436865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7287",
+        "shared_name" : "three hours (TIME)",
+        "name" : "three hours (TIME)",
+        "SUID" : 7287,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -554.1032114225738,
+        "y" : -215.77543864750635
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7285",
+        "shared_name" : "su1c1de",
+        "name" : "su1c1de",
+        "SUID" : 7285,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -458.6809396940582,
+        "y" : -851.1069205811001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7283",
+        "shared_name" : "two days (DATE)",
+        "name" : "two days (DATE)",
+        "SUID" : 7283,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 174.01422021805115,
+        "y" : -672.7583182861782
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7281",
+        "shared_name" : "CSB",
+        "name" : "CSB",
+        "SUID" : 7281,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 135.9580068391449,
+        "y" : -517.7048209717251
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7279",
+        "shared_name" : "English (LANGUAGE)",
+        "name" : "English (LANGUAGE)",
+        "SUID" : 7279,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 777.0805005830414,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7277",
+        "shared_name" : "parkway",
+        "name" : "parkway",
+        "SUID" : 7277,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 779.4020910066254,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7275",
+        "shared_name" : "Albert (PERSON)",
+        "name" : "Albert (PERSON)",
+        "SUID" : 7275,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -230.47059728683166,
+        "y" : -27.8870719482876
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7273",
+        "shared_name" : "Franklin",
+        "name" : "Franklin",
+        "SUID" : 7273,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -343.33868505538635,
+        "y" : 29.9670540282749
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7271",
+        "shared_name" : "CSB (PERSON)",
+        "name" : "CSB (PERSON)",
+        "SUID" : 7271,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -117.46216394485168,
+        "y" : -547.8039725830532
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7269",
+        "shared_name" : "CSB (ORG)",
+        "name" : "CSB (ORG)",
+        "SUID" : 7269,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -485.8902597624176,
+        "y" : -103.53605876469385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7267",
+        "shared_name" : "Minnesota",
+        "name" : "Minnesota",
+        "SUID" : 7267,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -313.7456369596832,
+        "y" : -79.10597453617822
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7265",
+        "shared_name" : "a hundred (CARDINAL)",
+        "name" : "a hundred (CARDINAL)",
+        "SUID" : 7265,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 658.4735784333832,
+        "y" : -715.8647254517056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7263",
+        "shared_name" : "Range",
+        "name" : "Range",
+        "SUID" : 7263,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 570.3074331086762,
+        "y" : -650.3408540298916
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7261",
+        "shared_name" : "Franklin (ORG)",
+        "name" : "Franklin (ORG)",
+        "SUID" : 7261,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 879.4020910066254,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7259",
+        "shared_name" : "Iron",
+        "name" : "Iron",
+        "SUID" : 7259,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 881.7236814302094,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7257",
+        "shared_name" : "the '80s (DATE)",
+        "name" : "the '80s (DATE)",
+        "SUID" : 7257,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 981.7236814302094,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7255",
+        "shared_name" : "Nexis",
+        "name" : "Nexis",
+        "SUID" : 7255,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 984.0452718537933,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7253",
+        "shared_name" : "expl*sives (ORG)",
+        "name" : "expl*sives (ORG)",
+        "SUID" : 7253,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 34.053984622348025,
+        "y" : -216.72999797367822
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7251",
+        "shared_name" : "Minnesota (GPE)",
+        "name" : "Minnesota (GPE)",
+        "SUID" : 7251,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -442.5084238249176,
+        "y" : -308.85051188969385
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7249",
+        "shared_name" : "the Iron Range (PRODUCT)",
+        "name" : "the Iron Range (PRODUCT)",
+        "SUID" : 7249,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -5.119332333218381,
+        "y" : -98.43306193852197
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7247",
+        "shared_name" : "Cedarbrook",
+        "name" : "Cedarbrook",
+        "SUID" : 7247,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -797.3599863249176,
+        "y" : -559.0866435577847
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7245",
+        "shared_name" : "'78 to '82 (DATE)",
+        "name" : "'78 to '82 (DATE)",
+        "SUID" : 7245,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -270.6261301237457,
+        "y" : 239.7287727782749
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7243",
+        "shared_name" : "Lawson",
+        "name" : "Lawson",
+        "SUID" : 7243,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -168.0041628080719,
+        "y" : 124.40156330561865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7241",
+        "shared_name" : "Frank",
+        "name" : "Frank",
+        "SUID" : 7241,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -63.381806393276975,
+        "y" : -188.0884879639126
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7239",
+        "shared_name" : "Cedarbrook (GPE)",
+        "name" : "Cedarbrook (GPE)",
+        "SUID" : 7239,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 6.508208255160525,
+        "y" : 301.8969856688999
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7237",
+        "shared_name" : "Maria",
+        "name" : "Maria",
+        "SUID" : 7237,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -88.21473791183166,
+        "y" : 188.4423958251499
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7235",
+        "shared_name" : "Frank Lawson (PERSON)",
+        "name" : "Frank Lawson (PERSON)",
+        "SUID" : 7235,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 45.1374501985199,
+        "y" : -295.6841910889126
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7233",
+        "shared_name" : "Mom",
+        "name" : "Mom",
+        "SUID" : 7233,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 61.0091543000824,
+        "y" : -438.3026755859829
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7231",
+        "shared_name" : "Mom (PERSON)",
+        "name" : "Mom (PERSON)",
+        "SUID" : 7231,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 267.06463525711365,
+        "y" : -176.00642619633447
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7229",
+        "shared_name" : "Maria (PERSON)",
+        "name" : "Maria (PERSON)",
+        "SUID" : 7229,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -324.5128488737457,
+        "y" : 95.9475227782749
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7227",
+        "shared_name" : "headstrong",
+        "name" : "headstrong",
+        "SUID" : 7227,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -403.1508798796051,
+        "y" : 236.6090218017124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7225",
+        "shared_name" : "a thousand (CARDINAL)",
+        "name" : "a thousand (CARDINAL)",
+        "SUID" : 7225,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -145.38982297958069,
+        "y" : -62.57985148930322
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7223",
+        "shared_name" : "Mm",
+        "name" : "Mm",
+        "SUID" : 7223,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -68.06000616134338,
+        "y" : -138.6581901123501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7221",
+        "shared_name" : "Sweet (PERSON)",
+        "name" : "Sweet (PERSON)",
+        "SUID" : 7221,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1084.0452718537933,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7219",
+        "shared_name" : "Graterford",
+        "name" : "Graterford",
+        "SUID" : 7219,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1086.3668622773773,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7217",
+        "shared_name" : "Graterford (PERSON)",
+        "name" : "Graterford (PERSON)",
+        "SUID" : 7217,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -55.233490963589475,
+        "y" : -507.4137595703579
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7215",
+        "shared_name" : "Mmmm",
+        "name" : "Mmmm",
+        "SUID" : 7215,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -789.3733530241363,
+        "y" : -451.679041247604
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7213",
+        "shared_name" : "yesterday (DATE)",
+        "name" : "yesterday (DATE)",
+        "SUID" : 7213,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 253.27377222000428,
+        "y" : -287.220171313522
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7211",
+        "shared_name" : "the past 20 years (DATE)",
+        "name" : "the past 20 years (DATE)",
+        "SUID" : 7211,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -188.08791830123596,
+        "y" : -541.9223960449673
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7209",
+        "shared_name" : "Mmmm (GPE)",
+        "name" : "Mmmm (GPE)",
+        "SUID" : 7209,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -507.9530039030426,
+        "y" : -301.1126884033657
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7207",
+        "shared_name" : "Lilly",
+        "name" : "Lilly",
+        "SUID" : 7207,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -335.9944162565582,
+        "y" : -200.5031608154751
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7205",
+        "shared_name" : "Lilly (ORG)",
+        "name" : "Lilly (ORG)",
+        "SUID" : 7205,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 51.649382571566775,
+        "y" : 95.03193439936865
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7203",
+        "shared_name" : "Guy",
+        "name" : "Guy",
+        "SUID" : 7203,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 143.51565454422303,
+        "y" : 226.39021076655615
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7201",
+        "shared_name" : "83 (CARDINAL)",
+        "name" : "83 (CARDINAL)",
+        "SUID" : 7201,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1186.3668622773773,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7199",
+        "shared_name" : "Manchu",
+        "name" : "Manchu",
+        "SUID" : 7199,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1188.6884527009613,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7197",
+        "shared_name" : "Guy (PERSON)",
+        "name" : "Guy (PERSON)",
+        "SUID" : 7197,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1288.6884527009613,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7195",
+        "shared_name" : "Fu",
+        "name" : "Fu",
+        "SUID" : 7195,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1291.0100431245453,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7193",
+        "shared_name" : "Sanders (PERSON)",
+        "name" : "Sanders (PERSON)",
+        "SUID" : 7193,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 166.81109521805115,
+        "y" : -616.3524344971157
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7191",
+        "shared_name" : "Sanders",
+        "name" : "Sanders",
+        "SUID" : 7191,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 65.24568078934021,
+        "y" : -524.0603965332485
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7189",
+        "shared_name" : "three (CARDINAL)",
+        "name" : "three (CARDINAL)",
+        "SUID" : 7189,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 271.7025441926605,
+        "y" : -477.92888103031885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7187",
+        "shared_name" : "Timmy",
+        "name" : "Timmy",
+        "SUID" : 7187,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 374.843535403598,
+        "y" : -576.015693049667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7185",
+        "shared_name" : "chinese (NORP)",
+        "name" : "chinese (NORP)",
+        "SUID" : 7185,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1391.0100431245453,
+        "y" : 787.4743477294468
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7183",
+        "shared_name" : "Gag",
+        "name" : "Gag",
+        "SUID" : 7183,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1393.3316335481293,
+        "y" : 679.7349983642124
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7181",
+        "shared_name" : "Fu Manchu (PERSON)",
+        "name" : "Fu Manchu (PERSON)",
+        "SUID" : 7181,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -219.9557352262848,
+        "y" : -484.23642192387354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7179",
+        "shared_name" : "Timmy Sanders (PERSON)",
+        "name" : "Timmy Sanders (PERSON)",
+        "SUID" : 7179,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -995.4367075163238,
+        "y" : -491.3512824585415
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7177",
+        "shared_name" : "Missy",
+        "name" : "Missy",
+        "SUID" : 7177,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -858.4267587858551,
+        "y" : -495.59690318608057
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7175",
+        "shared_name" : "Missy (PERSON)",
+        "name" : "Missy (PERSON)",
+        "SUID" : 7175,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -80.96232702315979,
+        "y" : -270.928911547897
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7173",
+        "shared_name" : "only five (CARDINAL)",
+        "name" : "only five (CARDINAL)",
+        "SUID" : 7173,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -495.1733713346832,
+        "y" : -241.47621379399072
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7171",
+        "shared_name" : "Gwen (PERSON)",
+        "name" : "Gwen (PERSON)",
+        "SUID" : 7171,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -246.95980169356994,
+        "y" : -152.6948112061001
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7169",
+        "shared_name" : "25 (DATE)",
+        "name" : "25 (DATE)",
+        "SUID" : 7169,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 233.17092798172303,
+        "y" : -126.1934684326626
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7167",
+        "shared_name" : "three days (DATE)",
+        "name" : "three days (DATE)",
+        "SUID" : 7167,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -148.64517309249572,
+        "y" : -488.8851645996548
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7165",
+        "shared_name" : "Miller",
+        "name" : "Miller",
+        "SUID" : 7165,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -124.69798328460388,
+        "y" : -354.53866801762354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7163",
+        "shared_name" : "first (ORDINAL)",
+        "name" : "first (ORDINAL)",
+        "SUID" : 7163,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -639.0955820280426,
+        "y" : -146.65089641117822
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7161",
+        "shared_name" : "Albert",
+        "name" : "Albert",
+        "SUID" : 7161,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -389.6189279753082,
+        "y" : -176.56843791508447
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7159",
+        "shared_name" : "Miller (PERSON)",
+        "name" : "Miller (PERSON)",
+        "SUID" : 7159,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -677.9956674772613,
+        "y" : -495.3170493652798
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7157",
+        "shared_name" : "Deamer",
+        "name" : "Deamer",
+        "SUID" : 7157,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -416.651825924527,
+        "y" : -405.9228385498501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7155",
+        "shared_name" : "16 minutes (TIME)",
+        "name" : "16 minutes (TIME)",
+        "SUID" : 7155,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 317.209502200473,
+        "y" : -279.2285331299282
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7153",
+        "shared_name" : "Dana",
+        "name" : "Dana",
+        "SUID" : 7153,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 117.64369104324646,
+        "y" : -244.84681926274072
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7151",
+        "shared_name" : "A week (DATE)",
+        "name" : "A week (DATE)",
+        "SUID" : 7151,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 360.3577871125824,
+        "y" : -149.9664176514126
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7149",
+        "shared_name" : "Dana (PERSON)",
+        "name" : "Dana (PERSON)",
+        "SUID" : 7149,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -196.1289529997223,
+        "y" : -252.8316520264126
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7147",
+        "shared_name" : "Lily",
+        "name" : "Lily",
+        "SUID" : 7147,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -329.0264139372223,
+        "y" : -374.839556079147
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7145",
+        "shared_name" : "Albert Miller (PERSON)",
+        "name" : "Albert Miller (PERSON)",
+        "SUID" : 7145,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -26.454918881069943,
+        "y" : -282.365923266647
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7143",
+        "shared_name" : "Dana Deamer (PERSON)",
+        "name" : "Dana Deamer (PERSON)",
+        "SUID" : 7143,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -236.00216009200744,
+        "y" : -189.49189982914697
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7141",
+        "shared_name" : "Lily Rush (PERSON)",
+        "name" : "Lily Rush (PERSON)",
+        "SUID" : 7141,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -122.04922868789367,
+        "y" : 61.2655159423374
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7139",
+        "shared_name" : "Rob",
+        "name" : "Rob",
+        "SUID" : 7139,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -76.44714071334533,
+        "y" : -82.33305583500635
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7137",
+        "shared_name" : "Rob (PERSON)",
+        "name" : "Rob (PERSON)",
+        "SUID" : 7137,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 52.362395266879275,
+        "y" : -72.3281119873501
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7135",
+        "shared_name" : "Rush",
+        "name" : "Rush",
+        "SUID" : 7135,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 198.84872339187928,
+        "y" : -176.38887248539697
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7133",
+        "shared_name" : "20 years ago (DATE)",
+        "name" : "20 years ago (DATE)",
+        "SUID" : 7133,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -419.9691477018707,
+        "y" : -724.9737113525845
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7131",
+        "shared_name" : "Detective",
+        "name" : "Detective",
+        "SUID" : 7131,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -351.40150548995666,
+        "y" : -572.0807266643025
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7129",
+        "shared_name" : "Lorraine (PERSON)",
+        "name" : "Lorraine (PERSON)",
+        "SUID" : 7129,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -280.4721994596832,
+        "y" : -13.148973803756348
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7127",
+        "shared_name" : "'83 (DATE)",
+        "name" : "'83 (DATE)",
+        "SUID" : 7127,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -26.322182675015256,
+        "y" : -346.6944755127407
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7125",
+        "shared_name" : "Lounis",
+        "name" : "Lounis",
+        "SUID" : 7125,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 98.62692163406678,
+        "y" : -371.4077933838345
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7123",
+        "shared_name" : "Lorraine Lounis (PERSON)",
+        "name" : "Lorraine Lounis (PERSON)",
+        "SUID" : 7123,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -463.071259518277,
+        "y" : -158.68501506352197
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7121",
+        "shared_name" : "Lorraine",
+        "name" : "Lorraine",
+        "SUID" : 7121,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -348.8135690885895,
+        "y" : -114.21632609867822
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7119",
+        "shared_name" : "ten (CARDINAL)",
+        "name" : "ten (CARDINAL)",
+        "SUID" : 7119,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -125.8474540907257,
+        "y" : -297.322954516647
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7117",
+        "shared_name" : "Gwen",
+        "name" : "Gwen",
+        "SUID" : 7117,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -113.32110883773498,
+        "y" : -164.1540397217251
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "8023",
+        "source" : "7531",
+        "target" : "7137",
+        "shared_name" : "Poconos (do) Rob (PERSON)",
+        "name" : "Poconos (do) Rob (PERSON)",
+        "interaction" : "do",
+        "SUID" : 8023,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8021",
+        "source" : "7529",
+        "target" : "7137",
+        "shared_name" : "Wee (m*rder) Rob (PERSON)",
+        "name" : "Wee (m*rder) Rob (PERSON)",
+        "interaction" : "m*rder",
+        "SUID" : 8021,
+        "shared_interaction" : "m*rder",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8019",
+        "source" : "7527",
+        "target" : "7129",
+        "shared_name" : "Oui (have) Lorraine (PERSON)",
+        "name" : "Oui (have) Lorraine (PERSON)",
+        "interaction" : "have",
+        "SUID" : 8019,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8017",
+        "source" : "7525",
+        "target" : "7149",
+        "shared_name" : "Paris (sink) Dana (PERSON)",
+        "name" : "Paris (sink) Dana (PERSON)",
+        "interaction" : "sink",
+        "SUID" : 8017,
+        "shared_interaction" : "sink",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8015",
+        "source" : "7523",
+        "target" : "7129",
+        "shared_name" : "Ooh (see) Lorraine (PERSON)",
+        "name" : "Ooh (see) Lorraine (PERSON)",
+        "interaction" : "see",
+        "SUID" : 8015,
+        "shared_interaction" : "see",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8013",
+        "source" : "7519",
+        "target" : "7521",
+        "shared_name" : "Gwendolyn (deserve) Poconos (GPE)",
+        "name" : "Gwendolyn (deserve) Poconos (GPE)",
+        "interaction" : "deserve",
+        "SUID" : 8013,
+        "shared_interaction" : "deserve",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8011",
+        "source" : "7515",
+        "target" : "7265",
+        "shared_name" : "England (get) a hundred (CARDINAL)",
+        "name" : "England (get) a hundred (CARDINAL)",
+        "interaction" : "get",
+        "SUID" : 8011,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8009",
+        "source" : "7515",
+        "target" : "7517",
+        "shared_name" : "England (try) Wee His dad (WORK_OF_ART)",
+        "name" : "England (try) Wee His dad (WORK_OF_ART)",
+        "interaction" : "try",
+        "SUID" : 8009,
+        "shared_interaction" : "try",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8007",
+        "source" : "7507",
+        "target" : "7505",
+        "shared_name" : "Fisk (reform) England (GPE)",
+        "name" : "Fisk (reform) England (GPE)",
+        "interaction" : "reform",
+        "SUID" : 8007,
+        "shared_interaction" : "reform",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8005",
+        "source" : "7503",
+        "target" : "7505",
+        "shared_name" : "Judge (look) England (GPE)",
+        "name" : "Judge (look) England (GPE)",
+        "interaction" : "look",
+        "SUID" : 8005,
+        "shared_interaction" : "look",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8003",
+        "source" : "7493",
+        "target" : "7491",
+        "shared_name" : "constructive (criminalize) One (CARDINAL)",
+        "name" : "constructive (criminalize) One (CARDINAL)",
+        "interaction" : "criminalize",
+        "SUID" : 8003,
+        "shared_interaction" : "criminalize",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "8001",
+        "source" : "7487",
+        "target" : "7275",
+        "shared_name" : "Possessive (regret) Albert (PERSON)",
+        "name" : "Possessive (regret) Albert (PERSON)",
+        "interaction" : "regret",
+        "SUID" : 8001,
+        "shared_interaction" : "regret",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7999",
+        "source" : "7483",
+        "target" : "7485",
+        "shared_name" : "Pauline (make) 1,200 (MONEY)",
+        "name" : "Pauline (make) 1,200 (MONEY)",
+        "interaction" : "make",
+        "SUID" : 7999,
+        "shared_interaction" : "make",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7997",
+        "source" : "7481",
+        "target" : "7171",
+        "shared_name" : "Wife (get) Gwen (PERSON)",
+        "name" : "Wife (get) Gwen (PERSON)",
+        "interaction" : "get",
+        "SUID" : 7997,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7995",
+        "source" : "7479",
+        "target" : "7145",
+        "shared_name" : "Las (sh**t) Albert Miller (PERSON)",
+        "name" : "Las (sh**t) Albert Miller (PERSON)",
+        "interaction" : "sh**t",
+        "SUID" : 7995,
+        "shared_interaction" : "sh**t",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7993",
+        "source" : "7469",
+        "target" : "7137",
+        "shared_name" : "Spousal (think) Rob (PERSON)",
+        "name" : "Spousal (think) Rob (PERSON)",
+        "interaction" : "think",
+        "SUID" : 7993,
+        "shared_interaction" : "think",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7991",
+        "source" : "7465",
+        "target" : "7473",
+        "shared_name" : "Martin (keep) only two years (DATE)",
+        "name" : "Martin (keep) only two years (DATE)",
+        "interaction" : "keep",
+        "SUID" : 7991,
+        "shared_interaction" : "keep",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7989",
+        "source" : "7465",
+        "target" : "7467",
+        "shared_name" : "Martin (know) second (ORDINAL)",
+        "name" : "Martin (know) second (ORDINAL)",
+        "interaction" : "know",
+        "SUID" : 7989,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7987",
+        "source" : "7463",
+        "target" : "7471",
+        "shared_name" : "Adrian (meet) Las. (GPE)",
+        "name" : "Adrian (meet) Las. (GPE)",
+        "interaction" : "meet",
+        "SUID" : 7987,
+        "shared_interaction" : "meet",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7985",
+        "source" : "7463",
+        "target" : "7163",
+        "shared_name" : "Adrian (go) first (ORDINAL)",
+        "name" : "Adrian (go) first (ORDINAL)",
+        "interaction" : "go",
+        "SUID" : 7985,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7983",
+        "source" : "7461",
+        "target" : "7129",
+        "shared_name" : "Robert (find) Lorraine (PERSON)",
+        "name" : "Robert (find) Lorraine (PERSON)",
+        "interaction" : "find",
+        "SUID" : 7983,
+        "shared_interaction" : "find",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7981",
+        "source" : "7459",
+        "target" : "7453",
+        "shared_name" : "April (learn) Adrian Martin (PERSON)",
+        "name" : "April (learn) Adrian Martin (PERSON)",
+        "interaction" : "learn",
+        "SUID" : 7981,
+        "shared_interaction" : "learn",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7979",
+        "source" : "7455",
+        "target" : "7457",
+        "shared_name" : "March (match) Spousal (PERSON)",
+        "name" : "March (match) Spousal (PERSON)",
+        "interaction" : "match",
+        "SUID" : 7979,
+        "shared_interaction" : "match",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7977",
+        "source" : "7451",
+        "target" : "7453",
+        "shared_name" : "Yup (work) Adrian Martin (PERSON)",
+        "name" : "Yup (work) Adrian Martin (PERSON)",
+        "interaction" : "work",
+        "SUID" : 7977,
+        "shared_interaction" : "work",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7975",
+        "source" : "7445",
+        "target" : "7449",
+        "shared_name" : "Bye (work) Robert Deamer (PERSON)",
+        "name" : "Bye (work) Robert Deamer (PERSON)",
+        "interaction" : "work",
+        "SUID" : 7975,
+        "shared_interaction" : "work",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7973",
+        "source" : "7445",
+        "target" : "7439",
+        "shared_name" : "Bye (get) 200 (MONEY)",
+        "name" : "Bye (get) 200 (MONEY)",
+        "interaction" : "get",
+        "SUID" : 7973,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7971",
+        "source" : "7441",
+        "target" : "7447",
+        "shared_name" : "Lil (have) monthly (DATE)",
+        "name" : "Lil (have) monthly (DATE)",
+        "interaction" : "have",
+        "SUID" : 7971,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7969",
+        "source" : "7441",
+        "target" : "7443",
+        "shared_name" : "Lil (have) April 10 (DATE)",
+        "name" : "Lil (have) April 10 (DATE)",
+        "interaction" : "have",
+        "SUID" : 7969,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7967",
+        "source" : "7427",
+        "target" : "7137",
+        "shared_name" : "navy (think) Rob (PERSON)",
+        "name" : "navy (think) Rob (PERSON)",
+        "interaction" : "think",
+        "SUID" : 7967,
+        "shared_interaction" : "think",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7965",
+        "source" : "7423",
+        "target" : "7425",
+        "shared_name" : "Watching (get) half (CARDINAL)",
+        "name" : "Watching (get) half (CARDINAL)",
+        "interaction" : "get",
+        "SUID" : 7965,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7963",
+        "source" : "7409",
+        "target" : "7149",
+        "shared_name" : "Baby (talk) Dana (PERSON)",
+        "name" : "Baby (talk) Dana (PERSON)",
+        "interaction" : "talk",
+        "SUID" : 7963,
+        "shared_interaction" : "talk",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7961",
+        "source" : "7403",
+        "target" : "7495",
+        "shared_name" : "Gleen (look) 1983 (DATE)",
+        "name" : "Gleen (look) 1983 (DATE)",
+        "interaction" : "look",
+        "SUID" : 7961,
+        "shared_interaction" : "look",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7959",
+        "source" : "7403",
+        "target" : "7127",
+        "shared_name" : "Gleen (know) '83 (DATE)",
+        "name" : "Gleen (know) '83 (DATE)",
+        "interaction" : "know",
+        "SUID" : 7959,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7957",
+        "source" : "7399",
+        "target" : "7401",
+        "shared_name" : "teeny (threaten) Hmm (PERSON)",
+        "name" : "teeny (threaten) Hmm (PERSON)",
+        "interaction" : "threaten",
+        "SUID" : 7957,
+        "shared_interaction" : "threaten",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7955",
+        "source" : "7395",
+        "target" : "7397",
+        "shared_name" : "Watch (help) Rob Deamer (PERSON)",
+        "name" : "Watch (help) Rob Deamer (PERSON)",
+        "interaction" : "help",
+        "SUID" : 7955,
+        "shared_interaction" : "help",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7953",
+        "source" : "7389",
+        "target" : "7387",
+        "shared_name" : "p*stol (know) that morning (TIME)",
+        "name" : "p*stol (know) that morning (TIME)",
+        "interaction" : "know",
+        "SUID" : 7953,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7951",
+        "source" : "7383",
+        "target" : "7145",
+        "shared_name" : "Firemen (make) Albert Miller (PERSON)",
+        "name" : "Firemen (make) Albert Miller (PERSON)",
+        "interaction" : "make",
+        "SUID" : 7951,
+        "shared_interaction" : "make",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7949",
+        "source" : "7377",
+        "target" : "7137",
+        "shared_name" : "Nice (live) Rob (PERSON)",
+        "name" : "Nice (live) Rob (PERSON)",
+        "interaction" : "live",
+        "SUID" : 7949,
+        "shared_interaction" : "live",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7947",
+        "source" : "7375",
+        "target" : "7159",
+        "shared_name" : "Charred (die) Miller (PERSON)",
+        "name" : "Charred (die) Miller (PERSON)",
+        "interaction" : "die",
+        "SUID" : 7947,
+        "shared_interaction" : "die",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7945",
+        "source" : "7367",
+        "target" : "7475",
+        "shared_name" : "Vera (need) Pauline (PERSON)",
+        "name" : "Vera (need) Pauline (PERSON)",
+        "interaction" : "need",
+        "SUID" : 7945,
+        "shared_interaction" : "need",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7943",
+        "source" : "7367",
+        "target" : "7137",
+        "shared_name" : "Vera (insist) Rob (PERSON)",
+        "name" : "Vera (insist) Rob (PERSON)",
+        "interaction" : "insist",
+        "SUID" : 7943,
+        "shared_interaction" : "insist",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7941",
+        "source" : "7367",
+        "target" : "7189",
+        "shared_name" : "Vera (want) three (CARDINAL)",
+        "name" : "Vera (want) three (CARDINAL)",
+        "interaction" : "want",
+        "SUID" : 7941,
+        "shared_interaction" : "want",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7939",
+        "source" : "7367",
+        "target" : "7369",
+        "shared_name" : "Vera (have) all night (TIME)",
+        "name" : "Vera (have) all night (TIME)",
+        "interaction" : "have",
+        "SUID" : 7939,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7937",
+        "source" : "7363",
+        "target" : "7365",
+        "shared_name" : "Four (go) expl*sive (NORP)",
+        "name" : "Four (go) expl*sive (NORP)",
+        "interaction" : "go",
+        "SUID" : 7937,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7935",
+        "source" : "7361",
+        "target" : "7127",
+        "shared_name" : "Verizon (pick) '83 (DATE)",
+        "name" : "Verizon (pick) '83 (DATE)",
+        "interaction" : "pick",
+        "SUID" : 7935,
+        "shared_interaction" : "pick",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7933",
+        "source" : "7359",
+        "target" : "7235",
+        "shared_name" : "AT&T (leave) Frank Lawson (PERSON)",
+        "name" : "AT&T (leave) Frank Lawson (PERSON)",
+        "interaction" : "leave",
+        "SUID" : 7933,
+        "shared_interaction" : "leave",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7931",
+        "source" : "7355",
+        "target" : "7357",
+        "shared_name" : "Pennsylvania (wait) Verizon Four (ORG)",
+        "name" : "Pennsylvania (wait) Verizon Four (ORG)",
+        "interaction" : "wait",
+        "SUID" : 7931,
+        "shared_interaction" : "wait",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7929",
+        "source" : "7349",
+        "target" : "7351",
+        "shared_name" : "Atlantic (wait) Pennsylvania (GPE)",
+        "name" : "Atlantic (wait) Pennsylvania (GPE)",
+        "interaction" : "wait",
+        "SUID" : 7929,
+        "shared_interaction" : "wait",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7927",
+        "source" : "7345",
+        "target" : "7353",
+        "shared_name" : "Bell (come) AT&T (ORG)",
+        "name" : "Bell (come) AT&T (ORG)",
+        "interaction" : "come",
+        "SUID" : 7927,
+        "shared_interaction" : "come",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7925",
+        "source" : "7345",
+        "target" : "7347",
+        "shared_name" : "Bell (come) Bell of (ORG)",
+        "name" : "Bell (come) Bell of (ORG)",
+        "interaction" : "come",
+        "SUID" : 7925,
+        "shared_interaction" : "come",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7923",
+        "source" : "7341",
+        "target" : "7149",
+        "shared_name" : "Thanks (castrate) Dana (PERSON)",
+        "name" : "Thanks (castrate) Dana (PERSON)",
+        "interaction" : "castrate",
+        "SUID" : 7923,
+        "shared_interaction" : "castrate",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7921",
+        "source" : "7339",
+        "target" : "7229",
+        "shared_name" : "Mommy (threaten) Maria (PERSON)",
+        "name" : "Mommy (threaten) Maria (PERSON)",
+        "interaction" : "threaten",
+        "SUID" : 7921,
+        "shared_interaction" : "threaten",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7919",
+        "source" : "7335",
+        "target" : "7275",
+        "shared_name" : "expl*si*n (do) Albert (PERSON)",
+        "name" : "expl*si*n (do) Albert (PERSON)",
+        "interaction" : "do",
+        "SUID" : 7919,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7917",
+        "source" : "7335",
+        "target" : "7337",
+        "shared_name" : "expl*si*n (see) Mommy (PERSON)",
+        "name" : "expl*si*n (see) Mommy (PERSON)",
+        "interaction" : "see",
+        "SUID" : 7917,
+        "shared_interaction" : "see",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7915",
+        "source" : "7333",
+        "target" : "7171",
+        "shared_name" : "Technically (get) Gwen (PERSON)",
+        "name" : "Technically (get) Gwen (PERSON)",
+        "interaction" : "get",
+        "SUID" : 7915,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7913",
+        "source" : "7329",
+        "target" : "7331",
+        "shared_name" : "Lied (play) 8 o'clock (TIME)",
+        "name" : "Lied (play) 8 o'clock (TIME)",
+        "interaction" : "play",
+        "SUID" : 7913,
+        "shared_interaction" : "play",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7911",
+        "source" : "7327",
+        "target" : "7163",
+        "shared_name" : "mama (need) first (ORDINAL)",
+        "name" : "mama (need) first (ORDINAL)",
+        "interaction" : "need",
+        "SUID" : 7911,
+        "shared_interaction" : "need",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7909",
+        "source" : "7323",
+        "target" : "7325",
+        "shared_name" : "Holy (know) Maria Sanchez (PERSON)",
+        "name" : "Holy (know) Maria Sanchez (PERSON)",
+        "interaction" : "know",
+        "SUID" : 7909,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7907",
+        "source" : "7321",
+        "target" : "7291",
+        "shared_name" : "Sanchez (get) Louie (PERSON)",
+        "name" : "Sanchez (get) Louie (PERSON)",
+        "interaction" : "get",
+        "SUID" : 7907,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7905",
+        "source" : "7313",
+        "target" : "7315",
+        "shared_name" : "Daughter (pack) Daughter (PERSON)",
+        "name" : "Daughter (pack) Daughter (PERSON)",
+        "interaction" : "pack",
+        "SUID" : 7905,
+        "shared_interaction" : "pack",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7903",
+        "source" : "7309",
+        "target" : "7311",
+        "shared_name" : "huh (pose) tomorrow (DATE)",
+        "name" : "huh (pose) tomorrow (DATE)",
+        "interaction" : "pose",
+        "SUID" : 7903,
+        "shared_interaction" : "pose",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7901",
+        "source" : "7303",
+        "target" : "7305",
+        "shared_name" : "Lucy (need) 20-year-old (DATE)",
+        "name" : "Lucy (need) 20-year-old (DATE)",
+        "interaction" : "need",
+        "SUID" : 7901,
+        "shared_interaction" : "need",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7899",
+        "source" : "7299",
+        "target" : "7301",
+        "shared_name" : "Earth (need) 6000 years old (DATE)",
+        "name" : "Earth (need) 6000 years old (DATE)",
+        "interaction" : "need",
+        "SUID" : 7899,
+        "shared_interaction" : "need",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7897",
+        "source" : "7295",
+        "target" : "7317",
+        "shared_name" : "Louie (run) five years old (DATE)",
+        "name" : "Louie (run) five years old (DATE)",
+        "interaction" : "run",
+        "SUID" : 7897,
+        "shared_interaction" : "run",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7895",
+        "source" : "7295",
+        "target" : "7297",
+        "shared_name" : "Louie (go) Lucy (PERSON)",
+        "name" : "Louie (go) Lucy (PERSON)",
+        "interaction" : "go",
+        "SUID" : 7895,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7893",
+        "source" : "7289",
+        "target" : "7137",
+        "shared_name" : "Hmm (keep) Rob (PERSON)",
+        "name" : "Hmm (keep) Rob (PERSON)",
+        "interaction" : "keep",
+        "SUID" : 7893,
+        "shared_interaction" : "keep",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7891",
+        "source" : "7289",
+        "target" : "7291",
+        "shared_name" : "Hmm (try) Louie (PERSON)",
+        "name" : "Hmm (try) Louie (PERSON)",
+        "interaction" : "try",
+        "SUID" : 7891,
+        "shared_interaction" : "try",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7889",
+        "source" : "7285",
+        "target" : "7133",
+        "shared_name" : "su1c1de (hold) 20 years ago (DATE)",
+        "name" : "su1c1de (hold) 20 years ago (DATE)",
+        "interaction" : "hold",
+        "SUID" : 7889,
+        "shared_interaction" : "hold",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7887",
+        "source" : "7281",
+        "target" : "7189",
+        "shared_name" : "CSB (give) three (CARDINAL)",
+        "name" : "CSB (give) three (CARDINAL)",
+        "interaction" : "give",
+        "SUID" : 7887,
+        "shared_interaction" : "give",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7885",
+        "source" : "7281",
+        "target" : "7283",
+        "shared_name" : "CSB (get) two days (DATE)",
+        "name" : "CSB (get) two days (DATE)",
+        "interaction" : "get",
+        "SUID" : 7885,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7883",
+        "source" : "7281",
+        "target" : "7127",
+        "shared_name" : "CSB (read) '83 (DATE)",
+        "name" : "CSB (read) '83 (DATE)",
+        "interaction" : "read",
+        "SUID" : 7883,
+        "shared_interaction" : "read",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7881",
+        "source" : "7277",
+        "target" : "7279",
+        "shared_name" : "parkway (see) English (LANGUAGE)",
+        "name" : "parkway (see) English (LANGUAGE)",
+        "interaction" : "see",
+        "SUID" : 7881,
+        "shared_interaction" : "see",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7879",
+        "source" : "7273",
+        "target" : "7275",
+        "shared_name" : "Franklin (go) Albert (PERSON)",
+        "name" : "Franklin (go) Albert (PERSON)",
+        "interaction" : "go",
+        "SUID" : 7879,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7877",
+        "source" : "7267",
+        "target" : "7275",
+        "shared_name" : "Minnesota (see) Albert (PERSON)",
+        "name" : "Minnesota (see) Albert (PERSON)",
+        "interaction" : "see",
+        "SUID" : 7877,
+        "shared_interaction" : "see",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7875",
+        "source" : "7267",
+        "target" : "7143",
+        "shared_name" : "Minnesota (stay) Dana Deamer (PERSON)",
+        "name" : "Minnesota (stay) Dana Deamer (PERSON)",
+        "interaction" : "stay",
+        "SUID" : 7875,
+        "shared_interaction" : "stay",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7873",
+        "source" : "7263",
+        "target" : "7265",
+        "shared_name" : "Range (have) a hundred (CARDINAL)",
+        "name" : "Range (have) a hundred (CARDINAL)",
+        "interaction" : "have",
+        "SUID" : 7873,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7871",
+        "source" : "7259",
+        "target" : "7261",
+        "shared_name" : "Iron (happen) Franklin (ORG)",
+        "name" : "Iron (happen) Franklin (ORG)",
+        "interaction" : "happen",
+        "SUID" : 7871,
+        "shared_interaction" : "happen",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7869",
+        "source" : "7255",
+        "target" : "7257",
+        "shared_name" : "Nexis (do) the '80s (DATE)",
+        "name" : "Nexis (do) the '80s (DATE)",
+        "interaction" : "do",
+        "SUID" : 7869,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7867",
+        "source" : "7247",
+        "target" : "7159",
+        "shared_name" : "Cedarbrook (wanna) Miller (PERSON)",
+        "name" : "Cedarbrook (wanna) Miller (PERSON)",
+        "interaction" : "wanna",
+        "SUID" : 7867,
+        "shared_interaction" : "wanna",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7865",
+        "source" : "7243",
+        "target" : "7439",
+        "shared_name" : "Lawson (get) 200 (MONEY)",
+        "name" : "Lawson (get) 200 (MONEY)",
+        "interaction" : "get",
+        "SUID" : 7865,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7863",
+        "source" : "7243",
+        "target" : "7435",
+        "shared_name" : "Lawson (get) a fun night (TIME)",
+        "name" : "Lawson (get) a fun night (TIME)",
+        "interaction" : "get",
+        "SUID" : 7863,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7861",
+        "source" : "7243",
+        "target" : "7415",
+        "shared_name" : "Lawson (provoke) all morning (TIME)",
+        "name" : "Lawson (provoke) all morning (TIME)",
+        "interaction" : "provoke",
+        "SUID" : 7861,
+        "shared_interaction" : "provoke",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7859",
+        "source" : "7243",
+        "target" : "7137",
+        "shared_name" : "Lawson (do) Rob (PERSON)",
+        "name" : "Lawson (do) Rob (PERSON)",
+        "interaction" : "do",
+        "SUID" : 7859,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7857",
+        "source" : "7243",
+        "target" : "7275",
+        "shared_name" : "Lawson (look) Albert (PERSON)",
+        "name" : "Lawson (look) Albert (PERSON)",
+        "interaction" : "look",
+        "SUID" : 7857,
+        "shared_interaction" : "look",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7855",
+        "source" : "7243",
+        "target" : "7275",
+        "shared_name" : "Lawson (connect) Albert (PERSON)",
+        "name" : "Lawson (connect) Albert (PERSON)",
+        "interaction" : "connect",
+        "SUID" : 7855,
+        "shared_interaction" : "connect",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7853",
+        "source" : "7243",
+        "target" : "7373",
+        "shared_name" : "Lawson (flash) Lawson (PERSON)",
+        "name" : "Lawson (flash) Lawson (PERSON)",
+        "interaction" : "flash",
+        "SUID" : 7853,
+        "shared_interaction" : "flash",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7851",
+        "source" : "7243",
+        "target" : "7245",
+        "shared_name" : "Lawson (make) '78 to '82 (DATE)",
+        "name" : "Lawson (make) '78 to '82 (DATE)",
+        "interaction" : "make",
+        "SUID" : 7851,
+        "shared_interaction" : "make",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7849",
+        "source" : "7241",
+        "target" : "7149",
+        "shared_name" : "Frank (let) Dana (PERSON)",
+        "name" : "Frank (let) Dana (PERSON)",
+        "interaction" : "let",
+        "SUID" : 7849,
+        "shared_interaction" : "let",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7847",
+        "source" : "7241",
+        "target" : "7137",
+        "shared_name" : "Frank (do) Rob (PERSON)",
+        "name" : "Frank (do) Rob (PERSON)",
+        "interaction" : "do",
+        "SUID" : 7847,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7845",
+        "source" : "7241",
+        "target" : "7171",
+        "shared_name" : "Frank (fireman) Gwen (PERSON)",
+        "name" : "Frank (fireman) Gwen (PERSON)",
+        "interaction" : "fireman",
+        "SUID" : 7845,
+        "shared_interaction" : "fireman",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7843",
+        "source" : "7241",
+        "target" : "7137",
+        "shared_name" : "Frank (testify) Rob (PERSON)",
+        "name" : "Frank (testify) Rob (PERSON)",
+        "interaction" : "testify",
+        "SUID" : 7843,
+        "shared_interaction" : "testify",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7841",
+        "source" : "7241",
+        "target" : "7127",
+        "shared_name" : "Frank (call) '83 (DATE)",
+        "name" : "Frank (call) '83 (DATE)",
+        "interaction" : "call",
+        "SUID" : 7841,
+        "shared_interaction" : "call",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7839",
+        "source" : "7237",
+        "target" : "7137",
+        "shared_name" : "Maria (stick) Rob (PERSON)",
+        "name" : "Maria (stick) Rob (PERSON)",
+        "interaction" : "stick",
+        "SUID" : 7839,
+        "shared_interaction" : "stick",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7837",
+        "source" : "7237",
+        "target" : "7305",
+        "shared_name" : "Maria (come) 20-year-old (DATE)",
+        "name" : "Maria (come) 20-year-old (DATE)",
+        "interaction" : "come",
+        "SUID" : 7837,
+        "shared_interaction" : "come",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7835",
+        "source" : "7237",
+        "target" : "7229",
+        "shared_name" : "Maria (come) Maria (PERSON)",
+        "name" : "Maria (come) Maria (PERSON)",
+        "interaction" : "come",
+        "SUID" : 7835,
+        "shared_interaction" : "come",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7833",
+        "source" : "7237",
+        "target" : "7319",
+        "shared_name" : "Maria (make) 20 years (DATE)",
+        "name" : "Maria (make) 20 years (DATE)",
+        "interaction" : "make",
+        "SUID" : 7833,
+        "shared_interaction" : "make",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7831",
+        "source" : "7237",
+        "target" : "7239",
+        "shared_name" : "Maria (look) Cedarbrook (GPE)",
+        "name" : "Maria (look) Cedarbrook (GPE)",
+        "interaction" : "look",
+        "SUID" : 7831,
+        "shared_interaction" : "look",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7829",
+        "source" : "7233",
+        "target" : "7127",
+        "shared_name" : "Mom (tell) '83 (DATE)",
+        "name" : "Mom (tell) '83 (DATE)",
+        "interaction" : "tell",
+        "SUID" : 7829,
+        "shared_interaction" : "tell",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7827",
+        "source" : "7233",
+        "target" : "7235",
+        "shared_name" : "Mom (realize) Frank Lawson (PERSON)",
+        "name" : "Mom (realize) Frank Lawson (PERSON)",
+        "interaction" : "realize",
+        "SUID" : 7827,
+        "shared_interaction" : "realize",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7825",
+        "source" : "7227",
+        "target" : "7229",
+        "shared_name" : "headstrong (track) Maria (PERSON)",
+        "name" : "headstrong (track) Maria (PERSON)",
+        "interaction" : "track",
+        "SUID" : 7825,
+        "shared_interaction" : "track",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7823",
+        "source" : "7223",
+        "target" : "7137",
+        "shared_name" : "Mm (go) Rob (PERSON)",
+        "name" : "Mm (go) Rob (PERSON)",
+        "interaction" : "go",
+        "SUID" : 7823,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7821",
+        "source" : "7223",
+        "target" : "7149",
+        "shared_name" : "Mm (testify) Dana (PERSON)",
+        "name" : "Mm (testify) Dana (PERSON)",
+        "interaction" : "testify",
+        "SUID" : 7821,
+        "shared_interaction" : "testify",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7819",
+        "source" : "7219",
+        "target" : "7221",
+        "shared_name" : "Graterford (k*lle) Sweet (PERSON)",
+        "name" : "Graterford (k*lle) Sweet (PERSON)",
+        "interaction" : "k*lle",
+        "SUID" : 7819,
+        "shared_interaction" : "k*lle",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7817",
+        "source" : "7215",
+        "target" : "7159",
+        "shared_name" : "Mmmm (wanna) Miller (PERSON)",
+        "name" : "Mmmm (wanna) Miller (PERSON)",
+        "interaction" : "wanna",
+        "SUID" : 7817,
+        "shared_interaction" : "wanna",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7815",
+        "source" : "7207",
+        "target" : "7171",
+        "shared_name" : "Lilly (k*lle) Gwen (PERSON)",
+        "name" : "Lilly (k*lle) Gwen (PERSON)",
+        "interaction" : "k*lle",
+        "SUID" : 7815,
+        "shared_interaction" : "k*lle",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7813",
+        "source" : "7207",
+        "target" : "7143",
+        "shared_name" : "Lilly (do) Dana Deamer (PERSON)",
+        "name" : "Lilly (do) Dana Deamer (PERSON)",
+        "interaction" : "do",
+        "SUID" : 7813,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7811",
+        "source" : "7203",
+        "target" : "7205",
+        "shared_name" : "Guy (make) Lilly (ORG)",
+        "name" : "Guy (make) Lilly (ORG)",
+        "interaction" : "make",
+        "SUID" : 7811,
+        "shared_interaction" : "make",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7809",
+        "source" : "7199",
+        "target" : "7201",
+        "shared_name" : "Manchu (talk) 83 (CARDINAL)",
+        "name" : "Manchu (talk) 83 (CARDINAL)",
+        "interaction" : "talk",
+        "SUID" : 7809,
+        "shared_interaction" : "talk",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7807",
+        "source" : "7195",
+        "target" : "7197",
+        "shared_name" : "Fu (haunt) Guy (PERSON)",
+        "name" : "Fu (haunt) Guy (PERSON)",
+        "interaction" : "haunt",
+        "SUID" : 7807,
+        "shared_interaction" : "haunt",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7805",
+        "source" : "7191",
+        "target" : "7127",
+        "shared_name" : "Sanders (obsess) '83 (DATE)",
+        "name" : "Sanders (obsess) '83 (DATE)",
+        "interaction" : "obsess",
+        "SUID" : 7805,
+        "shared_interaction" : "obsess",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7803",
+        "source" : "7191",
+        "target" : "7193",
+        "shared_name" : "Sanders (do) Sanders (PERSON)",
+        "name" : "Sanders (do) Sanders (PERSON)",
+        "interaction" : "do",
+        "SUID" : 7803,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7801",
+        "source" : "7187",
+        "target" : "7189",
+        "shared_name" : "Timmy (have) three (CARDINAL)",
+        "name" : "Timmy (have) three (CARDINAL)",
+        "interaction" : "have",
+        "SUID" : 7801,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7799",
+        "source" : "7183",
+        "target" : "7185",
+        "shared_name" : "Gag (have) chinese (NORP)",
+        "name" : "Gag (have) chinese (NORP)",
+        "interaction" : "have",
+        "SUID" : 7799,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7797",
+        "source" : "7177",
+        "target" : "7179",
+        "shared_name" : "Missy (need) Timmy Sanders (PERSON)",
+        "name" : "Missy (need) Timmy Sanders (PERSON)",
+        "interaction" : "need",
+        "SUID" : 7797,
+        "shared_interaction" : "need",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7795",
+        "source" : "7177",
+        "target" : "7159",
+        "shared_name" : "Missy (help) Miller (PERSON)",
+        "name" : "Missy (help) Miller (PERSON)",
+        "interaction" : "help",
+        "SUID" : 7795,
+        "shared_interaction" : "help",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7793",
+        "source" : "7165",
+        "target" : "7275",
+        "shared_name" : "Miller (flash) Albert (PERSON)",
+        "name" : "Miller (flash) Albert (PERSON)",
+        "interaction" : "flash",
+        "SUID" : 7793,
+        "shared_interaction" : "flash",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7791",
+        "source" : "7165",
+        "target" : "7385",
+        "shared_name" : "Miller (deal) Deamer (PERSON)",
+        "name" : "Miller (deal) Deamer (PERSON)",
+        "interaction" : "deal",
+        "SUID" : 7791,
+        "shared_interaction" : "deal",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7789",
+        "source" : "7165",
+        "target" : "7149",
+        "shared_name" : "Miller (hope) Dana (PERSON)",
+        "name" : "Miller (hope) Dana (PERSON)",
+        "interaction" : "hope",
+        "SUID" : 7789,
+        "shared_interaction" : "hope",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7787",
+        "source" : "7165",
+        "target" : "7145",
+        "shared_name" : "Miller (go) Albert Miller (PERSON)",
+        "name" : "Miller (go) Albert Miller (PERSON)",
+        "interaction" : "go",
+        "SUID" : 7787,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7785",
+        "source" : "7165",
+        "target" : "7271",
+        "shared_name" : "Miller (braid) CSB (PERSON)",
+        "name" : "Miller (braid) CSB (PERSON)",
+        "interaction" : "braid",
+        "SUID" : 7785,
+        "shared_interaction" : "braid",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7783",
+        "source" : "7165",
+        "target" : "7145",
+        "shared_name" : "Miller (remember) Albert Miller (PERSON)",
+        "name" : "Miller (remember) Albert Miller (PERSON)",
+        "interaction" : "remember",
+        "SUID" : 7783,
+        "shared_interaction" : "remember",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7781",
+        "source" : "7165",
+        "target" : "7253",
+        "shared_name" : "Miller (go) expl*sives (ORG)",
+        "name" : "Miller (go) expl*sives (ORG)",
+        "interaction" : "go",
+        "SUID" : 7781,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7779",
+        "source" : "7165",
+        "target" : "7127",
+        "shared_name" : "Miller (get) '83 (DATE)",
+        "name" : "Miller (get) '83 (DATE)",
+        "interaction" : "get",
+        "SUID" : 7779,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7777",
+        "source" : "7165",
+        "target" : "7217",
+        "shared_name" : "Miller (tell) Graterford (PERSON)",
+        "name" : "Miller (tell) Graterford (PERSON)",
+        "interaction" : "tell",
+        "SUID" : 7777,
+        "shared_interaction" : "tell",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7775",
+        "source" : "7165",
+        "target" : "7211",
+        "shared_name" : "Miller (go) the past 20 years (DATE)",
+        "name" : "Miller (go) the past 20 years (DATE)",
+        "interaction" : "go",
+        "SUID" : 7775,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7773",
+        "source" : "7165",
+        "target" : "7181",
+        "shared_name" : "Miller (meet) Fu Manchu (PERSON)",
+        "name" : "Miller (meet) Fu Manchu (PERSON)",
+        "interaction" : "meet",
+        "SUID" : 7773,
+        "shared_interaction" : "meet",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7771",
+        "source" : "7165",
+        "target" : "7175",
+        "shared_name" : "Miller (send) Missy (PERSON)",
+        "name" : "Miller (send) Missy (PERSON)",
+        "interaction" : "send",
+        "SUID" : 7771,
+        "shared_interaction" : "send",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7769",
+        "source" : "7165",
+        "target" : "7145",
+        "shared_name" : "Miller (think) Albert Miller (PERSON)",
+        "name" : "Miller (think) Albert Miller (PERSON)",
+        "interaction" : "think",
+        "SUID" : 7769,
+        "shared_interaction" : "think",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7767",
+        "source" : "7165",
+        "target" : "7167",
+        "shared_name" : "Miller (go) three days (DATE)",
+        "name" : "Miller (go) three days (DATE)",
+        "interaction" : "go",
+        "SUID" : 7767,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7765",
+        "source" : "7161",
+        "target" : "7497",
+        "shared_name" : "Albert (blow) Lorraine (GPE)",
+        "name" : "Albert (blow) Lorraine (GPE)",
+        "interaction" : "blow",
+        "SUID" : 7765,
+        "shared_interaction" : "blow",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7763",
+        "source" : "7161",
+        "target" : "7229",
+        "shared_name" : "Albert (have) Maria (PERSON)",
+        "name" : "Albert (have) Maria (PERSON)",
+        "interaction" : "have",
+        "SUID" : 7763,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7761",
+        "source" : "7161",
+        "target" : "7381",
+        "shared_name" : "Albert (have) two (CARDINAL)",
+        "name" : "Albert (have) two (CARDINAL)",
+        "interaction" : "have",
+        "SUID" : 7761,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7759",
+        "source" : "7161",
+        "target" : "7171",
+        "shared_name" : "Albert (threaten) Gwen (PERSON)",
+        "name" : "Albert (threaten) Gwen (PERSON)",
+        "interaction" : "threaten",
+        "SUID" : 7759,
+        "shared_interaction" : "threaten",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7757",
+        "source" : "7161",
+        "target" : "7275",
+        "shared_name" : "Albert (threaten) Albert (PERSON)",
+        "name" : "Albert (threaten) Albert (PERSON)",
+        "interaction" : "threaten",
+        "SUID" : 7757,
+        "shared_interaction" : "threaten",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7755",
+        "source" : "7161",
+        "target" : "7489",
+        "shared_name" : "Albert (flash) Gleen (GPE)",
+        "name" : "Albert (flash) Gleen (GPE)",
+        "interaction" : "flash",
+        "SUID" : 7755,
+        "shared_interaction" : "flash",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7753",
+        "source" : "7161",
+        "target" : "7397",
+        "shared_name" : "Albert (do) Rob Deamer (PERSON)",
+        "name" : "Albert (do) Rob Deamer (PERSON)",
+        "interaction" : "do",
+        "SUID" : 7753,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7751",
+        "source" : "7161",
+        "target" : "7405",
+        "shared_name" : "Albert (get) '68 (DATE)",
+        "name" : "Albert (get) '68 (DATE)",
+        "interaction" : "get",
+        "SUID" : 7751,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7749",
+        "source" : "7161",
+        "target" : "7149",
+        "shared_name" : "Albert (seem) Dana (PERSON)",
+        "name" : "Albert (seem) Dana (PERSON)",
+        "interaction" : "seem",
+        "SUID" : 7749,
+        "shared_interaction" : "seem",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7747",
+        "source" : "7161",
+        "target" : "7391",
+        "shared_name" : "Albert (get) Nine (CARDINAL)",
+        "name" : "Albert (get) Nine (CARDINAL)",
+        "interaction" : "get",
+        "SUID" : 7747,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7745",
+        "source" : "7161",
+        "target" : "7127",
+        "shared_name" : "Albert (solve) '83 (DATE)",
+        "name" : "Albert (solve) '83 (DATE)",
+        "interaction" : "solve",
+        "SUID" : 7745,
+        "shared_interaction" : "solve",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7743",
+        "source" : "7161",
+        "target" : "7287",
+        "shared_name" : "Albert (do) three hours (TIME)",
+        "name" : "Albert (do) three hours (TIME)",
+        "interaction" : "do",
+        "SUID" : 7743,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7741",
+        "source" : "7161",
+        "target" : "7269",
+        "shared_name" : "Albert (talk) CSB (ORG)",
+        "name" : "Albert (talk) CSB (ORG)",
+        "interaction" : "talk",
+        "SUID" : 7741,
+        "shared_interaction" : "talk",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7739",
+        "source" : "7161",
+        "target" : "7269",
+        "shared_name" : "Albert (braid) CSB (ORG)",
+        "name" : "Albert (braid) CSB (ORG)",
+        "interaction" : "braid",
+        "SUID" : 7739,
+        "shared_interaction" : "braid",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7737",
+        "source" : "7161",
+        "target" : "7251",
+        "shared_name" : "Albert (k*lle) Minnesota (GPE)",
+        "name" : "Albert (k*lle) Minnesota (GPE)",
+        "interaction" : "k*lle",
+        "SUID" : 7737,
+        "shared_interaction" : "k*lle",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7735",
+        "source" : "7161",
+        "target" : "7149",
+        "shared_name" : "Albert (arrest) Dana (PERSON)",
+        "name" : "Albert (arrest) Dana (PERSON)",
+        "interaction" : "arrest",
+        "SUID" : 7735,
+        "shared_interaction" : "arrest",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7733",
+        "source" : "7161",
+        "target" : "7209",
+        "shared_name" : "Albert (do) Mmmm (GPE)",
+        "name" : "Albert (do) Mmmm (GPE)",
+        "interaction" : "do",
+        "SUID" : 7733,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7731",
+        "source" : "7161",
+        "target" : "7173",
+        "shared_name" : "Albert (give) only five (CARDINAL)",
+        "name" : "Albert (give) only five (CARDINAL)",
+        "interaction" : "give",
+        "SUID" : 7731,
+        "shared_interaction" : "give",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7729",
+        "source" : "7161",
+        "target" : "7163",
+        "shared_name" : "Albert (get) first (ORDINAL)",
+        "name" : "Albert (get) first (ORDINAL)",
+        "interaction" : "get",
+        "SUID" : 7729,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7727",
+        "source" : "7157",
+        "target" : "7149",
+        "shared_name" : "Deamer (need) Dana (PERSON)",
+        "name" : "Deamer (need) Dana (PERSON)",
+        "interaction" : "need",
+        "SUID" : 7727,
+        "shared_interaction" : "need",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7725",
+        "source" : "7157",
+        "target" : "7419",
+        "shared_name" : "Deamer (do) last night (TIME)",
+        "name" : "Deamer (do) last night (TIME)",
+        "interaction" : "do",
+        "SUID" : 7725,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7723",
+        "source" : "7157",
+        "target" : "7413",
+        "shared_name" : "Deamer (lock) Frank (PERSON)",
+        "name" : "Deamer (lock) Frank (PERSON)",
+        "interaction" : "lock",
+        "SUID" : 7723,
+        "shared_interaction" : "lock",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7721",
+        "source" : "7157",
+        "target" : "7411",
+        "shared_name" : "Deamer (go) nine (CARDINAL)",
+        "name" : "Deamer (go) nine (CARDINAL)",
+        "interaction" : "go",
+        "SUID" : 7721,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7719",
+        "source" : "7157",
+        "target" : "7393",
+        "shared_name" : "Deamer (work) the month (DATE)",
+        "name" : "Deamer (work) the month (DATE)",
+        "interaction" : "work",
+        "SUID" : 7719,
+        "shared_interaction" : "work",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7717",
+        "source" : "7157",
+        "target" : "7381",
+        "shared_name" : "Deamer (happen) two (CARDINAL)",
+        "name" : "Deamer (happen) two (CARDINAL)",
+        "interaction" : "happen",
+        "SUID" : 7717,
+        "shared_interaction" : "happen",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7715",
+        "source" : "7157",
+        "target" : "7251",
+        "shared_name" : "Deamer (do) Minnesota (GPE)",
+        "name" : "Deamer (do) Minnesota (GPE)",
+        "interaction" : "do",
+        "SUID" : 7715,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7713",
+        "source" : "7157",
+        "target" : "7149",
+        "shared_name" : "Deamer (go) Dana (PERSON)",
+        "name" : "Deamer (go) Dana (PERSON)",
+        "interaction" : "go",
+        "SUID" : 7713,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7711",
+        "source" : "7157",
+        "target" : "7159",
+        "shared_name" : "Deamer (stop) Miller (PERSON)",
+        "name" : "Deamer (stop) Miller (PERSON)",
+        "interaction" : "stop",
+        "SUID" : 7711,
+        "shared_interaction" : "stop",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7709",
+        "source" : "7153",
+        "target" : "7533",
+        "shared_name" : "Dana (work) Adrian (NORP)",
+        "name" : "Dana (work) Adrian (NORP)",
+        "interaction" : "work",
+        "SUID" : 7709,
+        "shared_interaction" : "work",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7707",
+        "source" : "7153",
+        "target" : "7475",
+        "shared_name" : "Dana (call) Pauline (PERSON)",
+        "name" : "Dana (call) Pauline (PERSON)",
+        "interaction" : "call",
+        "SUID" : 7707,
+        "shared_interaction" : "call",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7705",
+        "source" : "7153",
+        "target" : "7433",
+        "shared_name" : "Dana (cooperate) Lil (PERSON)",
+        "name" : "Dana (cooperate) Lil (PERSON)",
+        "interaction" : "cooperate",
+        "SUID" : 7705,
+        "shared_interaction" : "cooperate",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7703",
+        "source" : "7153",
+        "target" : "7431",
+        "shared_name" : "Dana (have) Love (WORK_OF_ART)",
+        "name" : "Dana (have) Love (WORK_OF_ART)",
+        "interaction" : "have",
+        "SUID" : 7703,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7701",
+        "source" : "7153",
+        "target" : "7421",
+        "shared_name" : "Dana (sit) that day (DATE)",
+        "name" : "Dana (sit) that day (DATE)",
+        "interaction" : "sit",
+        "SUID" : 7701,
+        "shared_interaction" : "sit",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7699",
+        "source" : "7153",
+        "target" : "7137",
+        "shared_name" : "Dana (call) Rob (PERSON)",
+        "name" : "Dana (call) Rob (PERSON)",
+        "interaction" : "call",
+        "SUID" : 7699,
+        "shared_interaction" : "call",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7697",
+        "source" : "7153",
+        "target" : "7307",
+        "shared_name" : "Dana (see) a month (DATE)",
+        "name" : "Dana (see) a month (DATE)",
+        "interaction" : "see",
+        "SUID" : 7697,
+        "shared_interaction" : "see",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7695",
+        "source" : "7153",
+        "target" : "7235",
+        "shared_name" : "Dana (shut) Frank Lawson (PERSON)",
+        "name" : "Dana (shut) Frank Lawson (PERSON)",
+        "interaction" : "shut",
+        "SUID" : 7695,
+        "shared_interaction" : "shut",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7693",
+        "source" : "7153",
+        "target" : "7343",
+        "shared_name" : "Dana (know) Bell Atlantic (ORG)",
+        "name" : "Dana (know) Bell Atlantic (ORG)",
+        "interaction" : "know",
+        "SUID" : 7693,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7691",
+        "source" : "7153",
+        "target" : "7253",
+        "shared_name" : "Dana (wish) expl*sives (ORG)",
+        "name" : "Dana (wish) expl*sives (ORG)",
+        "interaction" : "wish",
+        "SUID" : 7691,
+        "shared_interaction" : "wish",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7689",
+        "source" : "7153",
+        "target" : "7145",
+        "shared_name" : "Dana (have) Albert Miller (PERSON)",
+        "name" : "Dana (have) Albert Miller (PERSON)",
+        "interaction" : "have",
+        "SUID" : 7689,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7687",
+        "source" : "7153",
+        "target" : "7231",
+        "shared_name" : "Dana (die) Mom (PERSON)",
+        "name" : "Dana (die) Mom (PERSON)",
+        "interaction" : "die",
+        "SUID" : 7687,
+        "shared_interaction" : "die",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7685",
+        "source" : "7153",
+        "target" : "7149",
+        "shared_name" : "Dana (turn) Dana (PERSON)",
+        "name" : "Dana (turn) Dana (PERSON)",
+        "interaction" : "turn",
+        "SUID" : 7685,
+        "shared_interaction" : "turn",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7683",
+        "source" : "7153",
+        "target" : "7149",
+        "shared_name" : "Dana (know) Dana (PERSON)",
+        "name" : "Dana (know) Dana (PERSON)",
+        "interaction" : "know",
+        "SUID" : 7683,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7681",
+        "source" : "7153",
+        "target" : "7137",
+        "shared_name" : "Dana (expose) Rob (PERSON)",
+        "name" : "Dana (expose) Rob (PERSON)",
+        "interaction" : "expose",
+        "SUID" : 7681,
+        "shared_interaction" : "expose",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7679",
+        "source" : "7153",
+        "target" : "7213",
+        "shared_name" : "Dana (help) yesterday (DATE)",
+        "name" : "Dana (help) yesterday (DATE)",
+        "interaction" : "help",
+        "SUID" : 7679,
+        "shared_interaction" : "help",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7677",
+        "source" : "7153",
+        "target" : "7145",
+        "shared_name" : "Dana (know) Albert Miller (PERSON)",
+        "name" : "Dana (know) Albert Miller (PERSON)",
+        "interaction" : "know",
+        "SUID" : 7677,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7675",
+        "source" : "7153",
+        "target" : "7169",
+        "shared_name" : "Dana (go) 25 (DATE)",
+        "name" : "Dana (go) 25 (DATE)",
+        "interaction" : "go",
+        "SUID" : 7675,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7673",
+        "source" : "7153",
+        "target" : "7155",
+        "shared_name" : "Dana (want) 16 minutes (TIME)",
+        "name" : "Dana (want) 16 minutes (TIME)",
+        "interaction" : "want",
+        "SUID" : 7673,
+        "shared_interaction" : "want",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7671",
+        "source" : "7147",
+        "target" : "7149",
+        "shared_name" : "Lily (take) Dana (PERSON)",
+        "name" : "Lily (take) Dana (PERSON)",
+        "interaction" : "take",
+        "SUID" : 7671,
+        "shared_interaction" : "take",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7669",
+        "source" : "7139",
+        "target" : "7537",
+        "shared_name" : "Rob (get) Bryan Adams (PERSON)",
+        "name" : "Rob (get) Bryan Adams (PERSON)",
+        "interaction" : "get",
+        "SUID" : 7669,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7667",
+        "source" : "7139",
+        "target" : "7535",
+        "shared_name" : "Rob (discover) World w*r III (EVENT)",
+        "name" : "Rob (discover) World w*r III (EVENT)",
+        "interaction" : "discover",
+        "SUID" : 7667,
+        "shared_interaction" : "discover",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7665",
+        "source" : "7139",
+        "target" : "7137",
+        "shared_name" : "Rob (characterize) Rob (PERSON)",
+        "name" : "Rob (characterize) Rob (PERSON)",
+        "interaction" : "characterize",
+        "SUID" : 7665,
+        "shared_interaction" : "characterize",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7663",
+        "source" : "7139",
+        "target" : "7129",
+        "shared_name" : "Rob (make) Lorraine (PERSON)",
+        "name" : "Rob (make) Lorraine (PERSON)",
+        "interaction" : "make",
+        "SUID" : 7663,
+        "shared_interaction" : "make",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7661",
+        "source" : "7139",
+        "target" : "7205",
+        "shared_name" : "Rob (go) Lilly (ORG)",
+        "name" : "Rob (go) Lilly (ORG)",
+        "interaction" : "go",
+        "SUID" : 7661,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7659",
+        "source" : "7139",
+        "target" : "7477",
+        "shared_name" : "Rob (say) One night (TIME)",
+        "name" : "Rob (say) One night (TIME)",
+        "interaction" : "say",
+        "SUID" : 7659,
+        "shared_interaction" : "say",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7657",
+        "source" : "7139",
+        "target" : "7437",
+        "shared_name" : "Rob (get) March 10, 1979 (DATE)",
+        "name" : "Rob (get) March 10, 1979 (DATE)",
+        "interaction" : "get",
+        "SUID" : 7657,
+        "shared_interaction" : "get",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7655",
+        "source" : "7139",
+        "target" : "7429",
+        "shared_name" : "Rob (sneak) tonight (TIME)",
+        "name" : "Rob (sneak) tonight (TIME)",
+        "interaction" : "sneak",
+        "SUID" : 7655,
+        "shared_interaction" : "sneak",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7653",
+        "source" : "7139",
+        "target" : "7373",
+        "shared_name" : "Rob (put) Lawson (PERSON)",
+        "name" : "Rob (put) Lawson (PERSON)",
+        "interaction" : "put",
+        "SUID" : 7653,
+        "shared_interaction" : "put",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7651",
+        "source" : "7139",
+        "target" : "7373",
+        "shared_name" : "Rob (hand) Lawson (PERSON)",
+        "name" : "Rob (hand) Lawson (PERSON)",
+        "interaction" : "hand",
+        "SUID" : 7651,
+        "shared_interaction" : "hand",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7649",
+        "source" : "7139",
+        "target" : "7253",
+        "shared_name" : "Rob (remember) expl*sives (ORG)",
+        "name" : "Rob (remember) expl*sives (ORG)",
+        "interaction" : "remember",
+        "SUID" : 7649,
+        "shared_interaction" : "remember",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7647",
+        "source" : "7139",
+        "target" : "7149",
+        "shared_name" : "Rob (hear) Dana (PERSON)",
+        "name" : "Rob (hear) Dana (PERSON)",
+        "interaction" : "hear",
+        "SUID" : 7647,
+        "shared_interaction" : "hear",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7645",
+        "source" : "7139",
+        "target" : "7137",
+        "shared_name" : "Rob (respond) Rob (PERSON)",
+        "name" : "Rob (respond) Rob (PERSON)",
+        "interaction" : "respond",
+        "SUID" : 7645,
+        "shared_interaction" : "respond",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7643",
+        "source" : "7139",
+        "target" : "7137",
+        "shared_name" : "Rob (testify) Rob (PERSON)",
+        "name" : "Rob (testify) Rob (PERSON)",
+        "interaction" : "testify",
+        "SUID" : 7643,
+        "shared_interaction" : "testify",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7641",
+        "source" : "7139",
+        "target" : "7417",
+        "shared_name" : "Rob (thr*aten) Watching (GPE)",
+        "name" : "Rob (thr*aten) Watching (GPE)",
+        "interaction" : "thr*aten",
+        "SUID" : 7641,
+        "shared_interaction" : "thr*aten",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7639",
+        "source" : "7139",
+        "target" : "7149",
+        "shared_name" : "Rob (keep) Dana (PERSON)",
+        "name" : "Rob (keep) Dana (PERSON)",
+        "interaction" : "keep",
+        "SUID" : 7639,
+        "shared_interaction" : "keep",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7637",
+        "source" : "7139",
+        "target" : "7387",
+        "shared_name" : "Rob (teach) that morning (TIME)",
+        "name" : "Rob (teach) that morning (TIME)",
+        "interaction" : "teach",
+        "SUID" : 7637,
+        "shared_interaction" : "teach",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7635",
+        "source" : "7139",
+        "target" : "7385",
+        "shared_name" : "Rob (place) Deamer (PERSON)",
+        "name" : "Rob (place) Deamer (PERSON)",
+        "interaction" : "place",
+        "SUID" : 7635,
+        "shared_interaction" : "place",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7633",
+        "source" : "7139",
+        "target" : "7235",
+        "shared_name" : "Rob (damage) Frank Lawson (PERSON)",
+        "name" : "Rob (damage) Frank Lawson (PERSON)",
+        "interaction" : "damage",
+        "SUID" : 7633,
+        "shared_interaction" : "damage",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7631",
+        "source" : "7139",
+        "target" : "7171",
+        "shared_name" : "Rob (go) Gwen (PERSON)",
+        "name" : "Rob (go) Gwen (PERSON)",
+        "interaction" : "go",
+        "SUID" : 7631,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7629",
+        "source" : "7139",
+        "target" : "7141",
+        "shared_name" : "Rob (do) Lily Rush (PERSON)",
+        "name" : "Rob (do) Lily Rush (PERSON)",
+        "interaction" : "do",
+        "SUID" : 7629,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7627",
+        "source" : "7135",
+        "target" : "7509",
+        "shared_name" : "Rush (make) Gwendolyn (PERSON)",
+        "name" : "Rush (make) Gwendolyn (PERSON)",
+        "interaction" : "make",
+        "SUID" : 7627,
+        "shared_interaction" : "make",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7625",
+        "source" : "7135",
+        "target" : "7253",
+        "shared_name" : "Rush (slip) expl*sives (ORG)",
+        "name" : "Rush (slip) expl*sives (ORG)",
+        "interaction" : "slip",
+        "SUID" : 7625,
+        "shared_interaction" : "slip",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7623",
+        "source" : "7135",
+        "target" : "7379",
+        "shared_name" : "Rush (show) 20 years later (DATE)",
+        "name" : "Rush (show) 20 years later (DATE)",
+        "interaction" : "show",
+        "SUID" : 7623,
+        "shared_interaction" : "show",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7621",
+        "source" : "7135",
+        "target" : "7127",
+        "shared_name" : "Rush (pull) '83 (DATE)",
+        "name" : "Rush (pull) '83 (DATE)",
+        "interaction" : "pull",
+        "SUID" : 7621,
+        "shared_interaction" : "pull",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7619",
+        "source" : "7135",
+        "target" : "7307",
+        "shared_name" : "Rush (jack) a month (DATE)",
+        "name" : "Rush (jack) a month (DATE)",
+        "interaction" : "jack",
+        "SUID" : 7619,
+        "shared_interaction" : "jack",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7617",
+        "source" : "7135",
+        "target" : "7293",
+        "shared_name" : "Rush (stop) Earth (LOC)",
+        "name" : "Rush (stop) Earth (LOC)",
+        "interaction" : "stop",
+        "SUID" : 7617,
+        "shared_interaction" : "stop",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7615",
+        "source" : "7135",
+        "target" : "7151",
+        "shared_name" : "Rush (be) A week (DATE)",
+        "name" : "Rush (be) A week (DATE)",
+        "interaction" : "be",
+        "SUID" : 7615,
+        "shared_interaction" : "be",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7613",
+        "source" : "7135",
+        "target" : "7137",
+        "shared_name" : "Rush (take) Rob (PERSON)",
+        "name" : "Rush (take) Rob (PERSON)",
+        "interaction" : "take",
+        "SUID" : 7613,
+        "shared_interaction" : "take",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7611",
+        "source" : "7131",
+        "target" : "7381",
+        "shared_name" : "Detective (leave) two (CARDINAL)",
+        "name" : "Detective (leave) two (CARDINAL)",
+        "interaction" : "leave",
+        "SUID" : 7611,
+        "shared_interaction" : "leave",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7609",
+        "source" : "7131",
+        "target" : "7371",
+        "shared_name" : "Detective (schedule) Rob Deamer's (PERSON)",
+        "name" : "Detective (schedule) Rob Deamer's (PERSON)",
+        "interaction" : "schedule",
+        "SUID" : 7609,
+        "shared_interaction" : "schedule",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7607",
+        "source" : "7131",
+        "target" : "7133",
+        "shared_name" : "Detective (make) 20 years ago (DATE)",
+        "name" : "Detective (make) 20 years ago (DATE)",
+        "interaction" : "make",
+        "SUID" : 7607,
+        "shared_interaction" : "make",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7605",
+        "source" : "7125",
+        "target" : "7127",
+        "shared_name" : "Lounis (think) '83 (DATE)",
+        "name" : "Lounis (think) '83 (DATE)",
+        "interaction" : "think",
+        "SUID" : 7605,
+        "shared_interaction" : "think",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7603",
+        "source" : "7121",
+        "target" : "7149",
+        "shared_name" : "Lorraine (seem) Dana (PERSON)",
+        "name" : "Lorraine (seem) Dana (PERSON)",
+        "interaction" : "seem",
+        "SUID" : 7603,
+        "shared_interaction" : "seem",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7601",
+        "source" : "7121",
+        "target" : "7171",
+        "shared_name" : "Lorraine (check) Gwen (PERSON)",
+        "name" : "Lorraine (check) Gwen (PERSON)",
+        "interaction" : "check",
+        "SUID" : 7601,
+        "shared_interaction" : "check",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7599",
+        "source" : "7121",
+        "target" : "7171",
+        "shared_name" : "Lorraine (commit) Gwen (PERSON)",
+        "name" : "Lorraine (commit) Gwen (PERSON)",
+        "interaction" : "commit",
+        "SUID" : 7599,
+        "shared_interaction" : "commit",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7597",
+        "source" : "7121",
+        "target" : "7501",
+        "shared_name" : "Lorraine (do) Fisk (PERSON)",
+        "name" : "Lorraine (do) Fisk (PERSON)",
+        "interaction" : "do",
+        "SUID" : 7597,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7595",
+        "source" : "7121",
+        "target" : "7129",
+        "shared_name" : "Lorraine (know) Lorraine (PERSON)",
+        "name" : "Lorraine (know) Lorraine (PERSON)",
+        "interaction" : "know",
+        "SUID" : 7595,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7593",
+        "source" : "7121",
+        "target" : "7171",
+        "shared_name" : "Lorraine (know) Gwen (PERSON)",
+        "name" : "Lorraine (know) Gwen (PERSON)",
+        "interaction" : "know",
+        "SUID" : 7593,
+        "shared_interaction" : "know",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7591",
+        "source" : "7121",
+        "target" : "7129",
+        "shared_name" : "Lorraine (prove) Lorraine (PERSON)",
+        "name" : "Lorraine (prove) Lorraine (PERSON)",
+        "interaction" : "prove",
+        "SUID" : 7591,
+        "shared_interaction" : "prove",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7589",
+        "source" : "7121",
+        "target" : "7123",
+        "shared_name" : "Lorraine (live) Lorraine Lounis (PERSON)",
+        "name" : "Lorraine (live) Lorraine Lounis (PERSON)",
+        "interaction" : "live",
+        "SUID" : 7589,
+        "shared_interaction" : "live",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7587",
+        "source" : "7117",
+        "target" : "7539",
+        "shared_name" : "Gwen (find) one (CARDINAL)",
+        "name" : "Gwen (find) one (CARDINAL)",
+        "interaction" : "find",
+        "SUID" : 7587,
+        "shared_interaction" : "find",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7585",
+        "source" : "7117",
+        "target" : "7539",
+        "shared_name" : "Gwen (think) one (CARDINAL)",
+        "name" : "Gwen (think) one (CARDINAL)",
+        "interaction" : "think",
+        "SUID" : 7585,
+        "shared_interaction" : "think",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7583",
+        "source" : "7117",
+        "target" : "7145",
+        "shared_name" : "Gwen (smash) Albert Miller (PERSON)",
+        "name" : "Gwen (smash) Albert Miller (PERSON)",
+        "interaction" : "smash",
+        "SUID" : 7583,
+        "shared_interaction" : "smash",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7581",
+        "source" : "7117",
+        "target" : "7137",
+        "shared_name" : "Gwen (have) Rob (PERSON)",
+        "name" : "Gwen (have) Rob (PERSON)",
+        "interaction" : "have",
+        "SUID" : 7581,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7579",
+        "source" : "7117",
+        "target" : "7513",
+        "shared_name" : "Gwen (go) Oui (PERSON)",
+        "name" : "Gwen (go) Oui (PERSON)",
+        "interaction" : "go",
+        "SUID" : 7579,
+        "shared_interaction" : "go",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7577",
+        "source" : "7117",
+        "target" : "7511",
+        "shared_name" : "Gwen (train) Paris (GPE)",
+        "name" : "Gwen (train) Paris (GPE)",
+        "interaction" : "train",
+        "SUID" : 7577,
+        "shared_interaction" : "train",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7575",
+        "source" : "7117",
+        "target" : "7499",
+        "shared_name" : "Gwen (mention) 22 year old (DATE)",
+        "name" : "Gwen (mention) 22 year old (DATE)",
+        "interaction" : "mention",
+        "SUID" : 7575,
+        "shared_interaction" : "mention",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7573",
+        "source" : "7117",
+        "target" : "7171",
+        "shared_name" : "Gwen (push) Gwen (PERSON)",
+        "name" : "Gwen (push) Gwen (PERSON)",
+        "interaction" : "push",
+        "SUID" : 7573,
+        "shared_interaction" : "push",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7571",
+        "source" : "7117",
+        "target" : "7129",
+        "shared_name" : "Gwen (work) Lorraine (PERSON)",
+        "name" : "Gwen (work) Lorraine (PERSON)",
+        "interaction" : "work",
+        "SUID" : 7571,
+        "shared_interaction" : "work",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7569",
+        "source" : "7117",
+        "target" : "7381",
+        "shared_name" : "Gwen (walk) two (CARDINAL)",
+        "name" : "Gwen (walk) two (CARDINAL)",
+        "interaction" : "walk",
+        "SUID" : 7569,
+        "shared_interaction" : "walk",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7567",
+        "source" : "7117",
+        "target" : "7491",
+        "shared_name" : "Gwen (criminalize) One (CARDINAL)",
+        "name" : "Gwen (criminalize) One (CARDINAL)",
+        "interaction" : "criminalize",
+        "SUID" : 7567,
+        "shared_interaction" : "criminalize",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7565",
+        "source" : "7117",
+        "target" : "7387",
+        "shared_name" : "Gwen (k*ll) that morning (TIME)",
+        "name" : "Gwen (k*ll) that morning (TIME)",
+        "interaction" : "k*ll",
+        "SUID" : 7565,
+        "shared_interaction" : "k*ll",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7563",
+        "source" : "7117",
+        "target" : "7137",
+        "shared_name" : "Gwen (look) Rob (PERSON)",
+        "name" : "Gwen (look) Rob (PERSON)",
+        "interaction" : "look",
+        "SUID" : 7563,
+        "shared_interaction" : "look",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7561",
+        "source" : "7117",
+        "target" : "7407",
+        "shared_name" : "Gwen (try) a 40 minute (TIME)",
+        "name" : "Gwen (try) a 40 minute (TIME)",
+        "interaction" : "try",
+        "SUID" : 7561,
+        "shared_interaction" : "try",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7559",
+        "source" : "7117",
+        "target" : "7373",
+        "shared_name" : "Gwen (lose) Lawson (PERSON)",
+        "name" : "Gwen (lose) Lawson (PERSON)",
+        "interaction" : "lose",
+        "SUID" : 7559,
+        "shared_interaction" : "lose",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7557",
+        "source" : "7117",
+        "target" : "7127",
+        "shared_name" : "Gwen (tell) '83 (DATE)",
+        "name" : "Gwen (tell) '83 (DATE)",
+        "interaction" : "tell",
+        "SUID" : 7557,
+        "shared_interaction" : "tell",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7555",
+        "source" : "7117",
+        "target" : "7249",
+        "shared_name" : "Gwen (do) the Iron Range (PRODUCT)",
+        "name" : "Gwen (do) the Iron Range (PRODUCT)",
+        "interaction" : "do",
+        "SUID" : 7555,
+        "shared_interaction" : "do",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7553",
+        "source" : "7117",
+        "target" : "7225",
+        "shared_name" : "Gwen (parole) a thousand (CARDINAL)",
+        "name" : "Gwen (parole) a thousand (CARDINAL)",
+        "interaction" : "parole",
+        "SUID" : 7553,
+        "shared_interaction" : "parole",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7551",
+        "source" : "7117",
+        "target" : "7149",
+        "shared_name" : "Gwen (die) Dana (PERSON)",
+        "name" : "Gwen (die) Dana (PERSON)",
+        "interaction" : "die",
+        "SUID" : 7551,
+        "shared_interaction" : "die",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7549",
+        "source" : "7117",
+        "target" : "7145",
+        "shared_name" : "Gwen (leave) Albert Miller (PERSON)",
+        "name" : "Gwen (leave) Albert Miller (PERSON)",
+        "interaction" : "leave",
+        "SUID" : 7549,
+        "shared_interaction" : "leave",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7547",
+        "source" : "7117",
+        "target" : "7175",
+        "shared_name" : "Gwen (work) Missy (PERSON)",
+        "name" : "Gwen (work) Missy (PERSON)",
+        "interaction" : "work",
+        "SUID" : 7547,
+        "shared_interaction" : "work",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7545",
+        "source" : "7117",
+        "target" : "7145",
+        "shared_name" : "Gwen (have) Albert Miller (PERSON)",
+        "name" : "Gwen (have) Albert Miller (PERSON)",
+        "interaction" : "have",
+        "SUID" : 7545,
+        "shared_interaction" : "have",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7543",
+        "source" : "7117",
+        "target" : "7143",
+        "shared_name" : "Gwen (see) Dana Deamer (PERSON)",
+        "name" : "Gwen (see) Dana Deamer (PERSON)",
+        "interaction" : "see",
+        "SUID" : 7543,
+        "shared_interaction" : "see",
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "7541",
+        "source" : "7117",
+        "target" : "7119",
+        "shared_name" : "Gwen (move) ten (CARDINAL)",
+        "name" : "Gwen (move) ten (CARDINAL)",
+        "interaction" : "move",
+        "SUID" : 7541,
+        "shared_interaction" : "move",
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

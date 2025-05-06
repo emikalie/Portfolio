@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Cytoscape Comparisons</title>
+        <script src="https://unpkg.com/cytoscape@3.24.0/dist/cytoscape.min.js"></script>
+        <style>
+        .cy-container {
+            width: 30%;
+            height: 500px;
+            float: left;
+            margin: 10px;
+            border: 1px solid #ccc;
+        }
+    </style>
+    </head>
+    <body>
+        <div id="cy1" class="cy-container"></div>
+        <div id="cy2" class="cy-container"></div>
+        <div id="cy3" class="cy-container"></div>
+        
+        <script>
+        function loadGraph(jsonPath, containerId) {
+            fetch(jsonPath)
+                .then(res => res.json())
+                .then(data => {
+                    cytoscape({
+                        container: document.getElementById(containerId),
+                        elements: data.elements, // Ensure you access the 'elements' property
+                        style: [
+                            {
+                                selector: 'node',
+                                style: {
+                                    'background-color': '#0074D9',
+                                    'label': 'data(id)'
+                                }
+                            },
+                            {
+                                selector: 'edge',
+                                style: {
+                                    'width': 2,
+                                    'line-color': '#ccc',
+                                    'target-arrow-color': '#ccc',
+                                    'target-arrow-shape': 'triangle'
+                                }
+                            }
+                        ],
+                        layout: { name: 'cose' }
+                    });
+                });
+        }
+        loadGraph('music_verbs.json', 'cy1');
+        loadGraph('dialogue.json', 'cy2');
+        loadGraph('word_freq.json', 'cy3');
+    </script>
+    </body>
+</html>
+
+
+       
+          
