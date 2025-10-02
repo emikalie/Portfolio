@@ -1,57 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
     <head>
-        <title>My New HTML Page</title>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" type="text/css" href="style.css"> </link>
+        <meta charset="UTF-8">
+        <title>Personal Portfolio | Emily Kalie</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">   
+        <script src="interact.js"></script>
     </head>
-
     <body>
-        <nav>
-            <a href="index.html">Home</a> | <a href="Gallery.html">Gallery</a>
-        </nav>
-        <h1>Main Heading</h1>
-        <p> here is an example of a <a href="Gallery.html">relative link</a> to a page inside the
-            same folder.</p>
-        <p>This is a revamped HTML document with various elements. Here's a body paragraph with some
-                <em>italicized</em> text. Check out <a href="https://www.example.com">this link</a>
-            to an external website.</p>
-        <p>If you're learning HTML, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN
-                Web Docs</a> is another excellent resource. Additionally, explore <a
-                href="https://www.colorhexa.com/">color codes for styling</a>.</p>
-        <p>Each paragraph element is a <strong>block</strong> designed to create a block on the
-            page.</p>
-        <h2>Benefits of Block Elements</h2>
-        <p>Next, we'll explore an unordered list (ul) to create a bulleted list.</p>
-        <ul>
-            <li>Headings</li>
-            <li>Paragraphs</li>
-            <li>Lists</li>
-            <li>Tables</li>
-            <li>Images</li>
-            <li>Links</li>
-        </ul>
-        <p>Let's now look at an ordered list (ol), similar to an unordered list but with a different
-            visual style.</p>
-        <ol>
-            <li>Morning</li>
-            <li>Noon</li>
-            <li>Afternoon</li>
-            <li>Evening</li>
-            <li>Night</li>
-            <li>Late Night</li>
-        </ol>
-        <h3>Inserting Images</h3>
-        <figure>
-            <img src="images/cockatoo.jpg" />" <figcaption>This image is of a cockatoo</figcaption>
-        </figure>
-        <figure>
-            <img src="images/newt-mosaic4.png" />
-            <figcaption>This image is of a mosaic</figcaption>
-        </figure>
-        <p>Feel free to explore more about firebelly newts on <a href="https://newtfire.org"
-                >newtfire.org</a>.</p>
+        <button id="changeBackground">Change Background</button>
+        <button id="changeMessage">Change Message</button>
+        <button id="hideMessage">Hide Message</button>
+        <button id="showMessage">Show Message</button>
+       
+        <p id="message">Hello fellow DIGIT peeps!</p>
+        
+        <header>
+            <div id="site-title">
+                <h1>Emily's Portfolio</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="hobbies.html">Hobbies</a>
+                    </li>
+                    <li>
+                        <a href="resume.html">Resume</a>
+                    </li>
+                    <li>
+                        <a href="gallery.html">Gallery</a>
+                    </li>
+                    <li>
+                        <a href="projects.html">Projects</a>
+                    </li>
+                    <li>
+                        <a href="essay.html">DIGIT 100 Essays</a>
+                        <ul>
+                            <li>
+                                <a href="essay1.html">Corpus Assignment</a>
+                            </li>
+                            <li>
+                                <a href="essay2.html">Game Analysis</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        
+        <main id="maincontent">
+            <article>
+                <p>Welcome to My Portfolio</p>
+                <p style="text-align: center;">
+                    <img src="images/digital.jpeg" alt="Abstract illustration representing digital media technologies" width="219" height="146">
+                </p>
+                <p style="text-align: center; color: #000;">This is my main page for my DIGIT 100 Website.</p>
+                <p style="text-align: center;">
+                    <img src="images/school.png" alt="Icon of a school building representing Penn State Behrend" width="225" height="225">
+                </p>
+                <p style="text-align: center; color: #000;">Welcome to my personal website, my name is Emily Kalie!</p>
+                <blockquote style="text-align: center; color: #000;">
+                    <p>I am a student at Penn State Behrend. I am currently in the process of graduating with a Digital Media, Arts and Technology major and a Management Information Systems minor. I am an organized, adaptable, and respectful human.</p>
+                </blockquote>
+                <p style="text-align: center;">
+                    <a href="index.html">Emily Kalie Portfolio</a> © 2023–2024 by Emily Kalie is licensed under 
+                    <a href="https://creativecommons.org/licenses/by-nd/4.0/" target="_blank" rel="license noopener noreferrer">
+                        CC BY-ND 4.0
+                        <span>
+                            <img src="images/cc-logo.svg" alt="Creative Commons logo" width="20" height="20">
+                            <img src="images/cc-by.svg" alt="Creative Commons attribution icon" width="20" height="20">
+                            <img src="images/cc-nd.svg" alt="Creative Commons no derivatives icon" width="20" height="20">
+                        </span>
+                    </a>
+                </p>
+            </article>
+        </main>
+        
+        <footer>
+            <p>
+                <a href="https://www.competethemes.com/author/" rel="nofollow">Author WordPress Theme</a> by Compete Themes
+            </p>
+        </footer>
     </body>
 </html>
+
