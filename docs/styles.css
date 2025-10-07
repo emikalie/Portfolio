@@ -174,3 +174,12 @@ footer a:hover {
         gap: 0.5rem;
     }
 }
+
+.orbit {
+  display: block;
+  margin: 0 auto;
+  margin-top: 1em;
+}
+
+
+

@@ -9,7 +9,6 @@
 // - Button to hide text
 // - Button to show message again
 
-
 // Run init when page loads
 window.addEventListener('DOMContentLoaded', init);
 
@@ -77,3 +76,37 @@ function toggleTitleColor() {
         title.style.color = "red";
     }
 }
+
+
+// SVG Section
+
+
+// Change the orbiting SVG circle color when background changes
+document.getElementById("changeBackground").addEventListener("click", function() {
+    const orbitCircle = document.querySelector(".orbit circle:last-of-type");
+    if (orbitCircle) {
+        const svgColors = ["#00b4d8", "#90e0ef", "#ff6b6b", "#fca311", "#9b5de5"];
+        const randomSVGColor = svgColors[Math.floor(Math.random() * svgColors.length)];
+        orbitCircle.setAttribute("fill", randomSVGColor);
+
+        // Restart orbit animation for visual effect
+        const clone = orbitCircle.cloneNode(true);
+        orbitCircle.parentNode.replaceChild(clone, orbitCircle);
+    }
+});
+
+// Pause the orbit animation when hiding the message
+document.getElementById("hideMessage").addEventListener("click", function() {
+    const orbitAnim = document.querySelector(".orbit animateTransform");
+    if (orbitAnim) {
+        orbitAnim.pauseAnimations();
+    }
+});
+
+// Resume the orbit animation when showing the message
+document.getElementById("showMessage").addEventListener("click", function() {
+    const orbitAnim = document.querySelector(".orbit animateTransform");
+    if (orbitAnim) {
+        orbitAnim.unpauseAnimations();
+    }
+});
