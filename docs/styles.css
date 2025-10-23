@@ -1,4 +1,7 @@
-/* Reset some default browser styles */
+/* =========================================================
+   GLOBAL STYLES (Original Portfolio Theme)
+   ========================================================= */
+
 body, h1, h2, h3, p, ul, li, a {
     margin: 0;
     padding: 0;
@@ -6,7 +9,6 @@ body, h1, h2, h3, p, ul, li, a {
     font-family: 'Arial', sans-serif;
 }
 
-/* Base styles for the entire page */
 body {
     background-color: aliceblue;
     color: darkslateblue;
@@ -14,17 +16,15 @@ body {
     padding: 20px;
 }
 
-/* Page container */
 .container {
-    max-width: 960px;
+    max-width: 1100px;
     margin: 0 auto;
     background-color: white;
-    border-radius: 12px;
+    border-radius: 16px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     padding: 2rem;
 }
 
-/* Navigation bar styling */
 nav {
     background-color: powderblue;
     padding: 0.5rem 1rem;
@@ -34,14 +34,12 @@ nav ul.navbar {
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 2rem; /* space between links */
+    gap: 2rem;
     margin: 0;
     padding: 0;
 }
 
-nav ul.navbar li {
-    display: inline;
-}
+nav ul.navbar li { display: inline; }
 
 nav ul.navbar a {
     text-decoration: none;
@@ -52,21 +50,18 @@ nav ul.navbar a {
     transition: background-color 0.3s, color 0.3s;
 }
 
-/* Hover + focus states */
 nav ul.navbar a:hover,
 nav ul.navbar a:focus {
     background-color: royalblue;
     color: white;
-    outline: none; /* focus outline handled by background */
+    outline: none;
 }
 
-/* Current page */
 nav ul.navbar a[aria-current="page"] {
     background-color: royalblue;
     color: white;
 }
 
-/* Main Content */
 article {
     padding: 1rem 0;
     display: block;
@@ -75,7 +70,6 @@ article {
     text-align: left;
 }
 
-/* Text styling */
 p, li {
     font-size: 1rem;
     color: steelblue;
@@ -83,21 +77,11 @@ p, li {
     line-height: 1.6;
 }
 
-/* Links and Lists */
-a {
-    color: midnightblue;
-    text-decoration: none;
-}
+a { color: midnightblue; text-decoration: none; }
+a:hover { text-decoration: underline; }
 
-a:hover {
-    text-decoration: underline;
-}
+ul { list-style-position: inside; }
 
-ul {
-    list-style-position: inside;
-}
-
-/* Images and other elements */
 img {
     max-width: 100%;
     height: auto;
@@ -119,7 +103,6 @@ hr {
     margin: 2rem 0;
 }
 
-/* Footer */
 footer {
     text-align: center;
     padding: 1rem 0;
@@ -133,29 +116,13 @@ footer a {
     text-decoration: none;
 }
 
-footer a:hover {
-    text-decoration: underline;
+footer a:hover { text-decoration: underline; }
+
+.centered-content { max-width: 500px; margin: 0 auto; text-align: center; }
+
+.orbit { display: block; margin: 10px 0;
 }
 
-/* Centered content helper */
-.centered-content {
-    max-width: 500px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-/* Orbit element (if used in SVG animation) */
-.orbit {
-    display: block;
-    margin: 0 auto;
-    margin-top: 1em;
-}
-
-/* -------------------------------------------
-   NEW STYLES FOR TECH SKILLS GAP PAGE
--------------------------------------------- */
-
-/* Title area */
 .page-title .title-text {
     font-size: 2em;
     font-weight: 600;
@@ -164,7 +131,6 @@ footer a:hover {
     margin: 1.5em 0 1em 0;
 }
 
-/* Section labels (to replace headings) */
 .section-label {
     font-size: 1.3em;
     font-weight: 500;
@@ -174,7 +140,6 @@ footer a:hover {
     padding-bottom: 0.25em;
 }
 
-/* Content block layout */
 .content-block {
     margin: 1.5em auto;
     max-width: 850px;
@@ -185,56 +150,176 @@ footer a:hover {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 }
 
-/* Visual elements (charts or images) */
-.visual {
-    text-align: center;
-    margin-top: 1.5em;
+.visual { text-align: center; margin-top: 1.5em; }
+.caption { font-size: 0.9em; color: #557a95; margin-top: 0.5em; text-align: center; }
+
+nav ul li a.active { background-color: royalblue; color: white; }
+
+@media (max-width: 768px) {
+    body { padding: 10px; }
+    .container { padding: 1rem; }
+    nav ul { flex-direction: column; align-items: center; gap: 0.5rem; }
+    article { width: 90%; }
+    .page-title .title-text { font-size: 1.6em; }
+    .section-label { font-size: 1.1em; }
 }
 
-.caption {
-    font-size: 0.9em;
-    color: #557a95;
-    margin-top: 0.5em;
+html { scroll-behavior: smooth; }
+
+/* =========================================================
+   TECH SKILLS GAP PAGE STYLES START
+   ========================================================= */
+
+:root {
+    --ink: darkslateblue;
+    --muted: steelblue;
+    --soft: #f8fbff;
+    --line: lightblue;
+    --card: white;
+    --accent: royalblue;
+    --accent-lite: #7fa6ff;
+    --radius: 16px;
+}
+
+.hero {
+    background: linear-gradient(180deg, white, aliceblue);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 28px 24px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     text-align: center;
 }
 
-/* Make the active nav link visible for this page */
-nav ul li a.active {
-    background-color: royalblue;
+.hero h1 { color: darkslateblue; margin-bottom: 0.5rem; }
+.hero .lead { color: steelblue; max-width: 65ch; margin: 0 auto; }
+
+.btn {
+    appearance: none;
+    border: 1px solid transparent;
+    background: var(--accent);
+    color: white;
+    font-weight: 700;
+    padding: 10px 14px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+.btn:hover { opacity: 0.9; }
+.btn.outline {
+    background: white;
+    color: var(--accent);
+    border-color: var(--accent);
+}
+
+.tabs {
+    display: flex;
+    gap: 8px;
+    margin: 22px 0 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tab {
+    padding: 10px 14px;
+    border-radius: 999px;
+    background: #eaf3ff;
+    border: 1px solid #cfe0ff;
+    color: var(--accent);
+    cursor: pointer;
+}
+.tab[aria-selected="true"] {
+    background: var(--accent);
     color: white;
 }
 
-/* -------------------------------------------
-   RESPONSIVE DESIGN
--------------------------------------------- */
-@media (max-width: 768px) {
-    body {
-        padding: 10px;
-    }
-
-    .container {
-        padding: 1rem;
-    }
-
-    header h1 a {
-        font-size: 2rem;
-    }
-
-    nav ul {
-        flex-direction: column;
-        align-items: center;
-        gap: 0.5rem;
-    }
-
-    article {
-        width: 90%;
-    }
-
-    .page-title .title-text {
-        font-size: 1.6em;
-    }
-
-    .section-label {
-        font-size: 1.1em;
-    }
+.panel { margin: 10px 0; }
+.card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 18px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
 }
+.grid.two {
+    display: grid;
+    grid-template-columns: 1.15fr .85fr;
+    gap: 20px;
+}
+@media (max-width:900px){ .grid.two{grid-template-columns:1fr;} }
+
+.svg-wrap {
+    background: var(--soft);
+    border: 1px dashed var(--line);
+    border-radius: 12px;
+    padding: 8px;
+}
+.legend {
+    display: flex;
+    gap: 16px;
+    margin-top: 6px;
+    color: var(--muted);
+    justify-content: center;
+}
+.legend .key {
+    width: 16px; height: 6px; border-radius: 999px; display: inline-block;
+}
+.legend .key-need { background: linear-gradient(90deg, var(--accent-lite), var(--accent)); }
+.legend .key-have { background: #ef4444; }
+
+.meter { display: grid; gap: 8px; margin-top: 10px; }
+.bar {
+    height: 12px;
+    background: #eef2ff;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    overflow: hidden;
+}
+.fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent-lite), var(--accent));
+}
+input[type="range"]{width:100%;}
+
+.media img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    border: 1px solid var(--line);
+}
+.caption { font-size: 0.85rem; color: steelblue; margin-top: 6px; }
+
+.ai-badge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 18px 0;
+    justify-content: center;
+}
+.badge {
+    background: #eaf3ff;
+    border: 1px solid #cfe0ff;
+    color: var(--accent);
+    padding: 6px 10px;
+    border-radius: 999px;
+}
+
+.to-top {
+    position: fixed;
+    right: 18px;
+    bottom: 18px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: #ffffff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+.to-top.show { display: flex; }
+
+/* =========================================================
+   TECH SKILLS GAP PAGE STYLES END
+   ========================================================= */
+
