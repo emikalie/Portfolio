@@ -107,107 +107,47 @@ if (showMsgBtn) {
     });
 }
 
-// =========================================================
-// TECH SKILLS GAP PAGE INTERACTIVITY
-// =========================================================
-window.addEventListener('DOMContentLoaded', () => {
-    console.log("Tech Skills Gap JS loaded");
+// ----- TECH SKILLS GAP PAGE FUNCTIONALITY -----
+document.addEventListener("DOMContentLoaded", () => {
+    const tabs = document.querySelectorAll(".tab");
+    const panels = document.querySelectorAll(".panel");
 
-    // ----- Tabs -----
-    const tabs = document.querySelectorAll('.tab');
-    const panels = {
-        intro: document.getElementById('panel-intro'),
-        problem: document.getElementById('panel-problem'),
-        impact: document.getElementById('panel-impact'),
-        solutions: document.getElementById('panel-solutions'),
-        future: document.getElementById('panel-future'),
-        resources: document.getElementById('panel-resources'),
-    };
+    if (tabs.length > 0 && panels.length > 0) {
+        tabs.forEach((tab) => {
+            tab.addEventListener("click", () => {
+                const target = tab.getAttribute("data-tab");
 
-    function setActive(tabName) {
-        tabs.forEach(t => t.setAttribute('aria-selected', 'false'));
-        const selected = [...tabs].find(t => t.dataset.tab === tabName) || tabs[0];
-        if (selected) selected.setAttribute('aria-selected', 'true');
-        Object.values(panels).forEach(p => p && (p.hidden = true));
-        const activePanel = panels[tabName] || panels.intro;
-        if (activePanel) activePanel.hidden = false;
+                tabs.forEach((t) => t.setAttribute("aria-selected", "false"));
+                panels.forEach((panel) => panel.setAttribute("hidden", true));
+
+                tab.setAttribute("aria-selected", "true");
+                const targetPanel = document.querySelector(`#panel-${target}`);
+                if (targetPanel) targetPanel.removeAttribute("hidden");
+            });
+        });
     }
 
-    tabs.forEach(t => {
-        t.addEventListener('click', () => setActive(t.dataset.tab));
-    });
-
-    setActive('intro');
-
-    // ----- Scroll to Tabs -----
-    const scrollBtn = document.getElementById('scrollToTabs');
+    // Scroll button
+    const scrollBtn = document.getElementById("scrollToTabs");
     if (scrollBtn) {
-        scrollBtn.addEventListener('click', () => {
-            document.querySelector('.tabs').scrollIntoView({ behavior: 'smooth' });
+        scrollBtn.addEventListener("click", () => {
+            document.querySelector(".tabs").scrollIntoView({ behavior: "smooth" });
         });
     }
 
-    // ----- Meter -----
-    const meter = document.getElementById('meter');
-    const fill = document.getElementById('meterFill');
-    if (meter && fill) {
-        meter.addEventListener('input', e => {
-            fill.style.width = e.target.value + '%';
-        });
-    }
-
-    // ----- AI Badge Toggle -----
-    const toggleBtn = document.getElementById('toggleBadge');
-    const badgeText = document.getElementById('badgeText');
-    if (toggleBtn && badgeText) {
-        toggleBtn.addEventListener('click', () => {
-            const isMixed = badgeText.textContent.includes('Mixed');
-            badgeText.textContent = isMixed
-                ? 'No-AI: Authored without AI assistance'
-                : 'AI Honesty: Mixed — human-edited';
-            toggleBtn.setAttribute('aria-pressed', String(isMixed));
-        });
-    }
-
-    // ----- Back to Top -----
-    const toTop = document.getElementById('toTop');
+    // Back to top
+    const toTop = document.getElementById("toTop");
     if (toTop) {
-        window.addEventListener('scroll', () => {
-            if (window.scrollY > 300) toTop.classList.add('show');
-            else toTop.classList.remove('show');
+        window.addEventListener("scroll", () => {
+            toTop.classList.toggle("show", window.scrollY > 300);
         });
-        toTop.addEventListener('click', () =>
-            window.scrollTo({ top: 0, behavior: 'smooth' })
-        );
+        toTop.addEventListener("click", () => {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        });
     }
-
-    // ----- Animated SVG Lines -----
-    (function animateLines() {
-        const need = document.getElementById('needLine');
-        const have = document.getElementById('haveLine');
-        if (!need || !have) return;
-        let t = 0;
-        setInterval(() => {
-            t += 0.06;
-            const needPts = [
-                [50, 150 - 2 * Math.sin(t)],
-                [200, 120 - 4 * Math.sin(t * 0.9)],
-                [350, 100 - 6 * Math.sin(t * 0.8)],
-                [500, 80 - 8 * Math.sin(t * 0.7)],
-                [650, 60 - 10 * Math.sin(t * 0.6)]
-            ];
-            const havePts = [
-                [50, 150 + 1 * Math.sin(t * 0.8)],
-                [200, 145 + 1 * Math.sin(t * 0.9)],
-                [350, 145 + 1 * Math.sin(t)],
-                [500, 150 + 1 * Math.sin(t * 1.1)],
-                [650, 150 + 1 * Math.sin(t * 1.2)]
-            ];
-            need.setAttribute('points', needPts.map(p => p.join(',')).join(' '));
-            have.setAttribute('points', havePts.map(p => p.join(',')).join(' '));
-        }, 60);
-    })();
-
 });
+
+
+
 
 

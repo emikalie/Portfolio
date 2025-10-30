@@ -319,7 +319,26 @@ input[type="range"]{width:100%;}
 }
 .to-top.show { display: flex; }
 
-/* =========================================================
-   TECH SKILLS GAP PAGE STYLES END
-   ========================================================= */
+/* TECH SKILLS GAP PAGE STYLES END*/
+
+#panel-shoutouts {
+    background: #f8f4ff;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-top: 2rem;
+}
+#panel-shoutouts h2 { text-align:center; color:#4b0082; }
+
+.resource {
+    margin: 1.25rem 0;
+    padding: 1rem 1.25rem;
+    background:#fff;
+    border-left: 5px solid #7b2cbf;
+    border-radius: 10px;
+    transition: transform .25s ease, box-shadow .25s ease;
+}
+.resource:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,.12); }
+.resource h3 { margin: 0 0 .35rem; color:#5a189a; }
+.resource p { margin: 0; color:#333; line-height:1.55; }
+
 
