@@ -341,4 +341,20 @@ input[type="range"]{width:100%;}
 .resource h3 { margin: 0 0 .35rem; color:#5a189a; }
 .resource p { margin: 0; color:#333; line-height:1.55; }
 
+/* Center entire bullet list AND bullet markers */
+.panel ul {
+    list-style-position: inside;  /* brings bullets into the content box */
+    text-align: center;           /* centers the bullet text */
+    padding-left: 0;              /* remove default indent */
+    margin: 0 auto 2rem auto;     /* centers block */
+}
+
+.panel li {
+    margin: 0.5rem 0;
+}
+#panel-impact {
+    text-align: center;
+}
+
+
 
